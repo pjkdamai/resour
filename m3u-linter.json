@@ -106,11 +106,23 @@ print('\t\t%s:%s'%(
 
 ch.close();
 
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U
+
+
+
+
 ========NASIONAL========
-
-
-
 
 #EXTINF:0 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.jpg" group-title="TV Nasional" tvg-id="SCTV.id",SCTV HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
@@ -168,9 +180,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:0 tvg-id="tvOne.id" tvg-name="tvOne" tvg-logo="https://hometv.pw/logo/lokal/tvone.jpg" group-title="News",tvOne
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
-
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be6135dc5905/a6a05d485df64ea3839392bb1da7eeeb.png" group-title="Nasional",TVRI Nasional
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
 
 ========LOKAL========
 #EXTINF:0 tvg-id="imspiraid" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Inspira.png/400px-Inspira.png",INSPIRA TV
