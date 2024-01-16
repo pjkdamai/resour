@@ -946,8 +946,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="FTA INTERNASIONAL 🌏" tvg=logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOaIQLv5hJMZMToZZezmYP69sCl72z89ZL688b3LGIH9TjICmCCiBpOrwWp2UFtq2Y_A3HCNql5yYbhn73CwBi-HM5RFYv63oQm8kD0SHhr3MfrgWR-THYAJs6fsAyyseTJ9TKpiDyUKD5bSSemHZv3iEwcsAs8KbtPCmTw6LyrNageuEYSQ44ZIUI/s720/HunanTV.png",=6.Hunan TV
-https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+#EXTINF:-1 group-title="FTA INTERNASIONAL 🌏" tvg=logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOaIQLv5hJMZMToZZezmYP69sCl72z89ZL688b3LGIH9TjICmCCiBpOrwWp2UFtq2Y_A3HCNql5yYbhn73CwBi-HM5RFYv63oQm8kD0SHhr3MfrgWR-THYAJs6fsAyyseTJ9TKpiDyUKD5bSSemHZv3iEwcsAs8KbtPCmTw6LyrNageuEYSQ44ZIUI/s720/HunanTV.png",06.Hunan TVhttps://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
