@@ -420,8 +420,7 @@ http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11801
 #EXTINF:-1 group-title="NEWS 📰" tvg-logo="https://i.imgur.com/0XV2vbK.jpg",01.BBC World News 
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-logo="https://1.bp.blogspot.com/-MOP3sjxu1uQ/YJaJ9qbDcrI/AAAAAAAAEzw/r_wGPETKphAkfEGLpys4bVRNHsnVTPOPgCLcBGAsYHQ/s720/cnn
-%2Binternasional.png" group-title="NEWS 📰",02.CNN International*
+#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-logo="https://1.bp.blogspot.com/-MOP3sjxu1uQ/YJaJ9qbDcrI/AAAAAAAAEzw/r_wGPETKphAkfEGLpys4bVRNHsnVTPOPgCLcBGAsYHQ/s720/cnn%2Binternasional.png" group-title="NEWS 📰",02.CNN International*
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
