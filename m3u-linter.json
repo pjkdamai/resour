@@ -922,9 +922,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="FTA INTERNASIONAL 🌏" tvg-logo="https://1.bp.blogspot.com/-g5YDl3jG8ag/YJaJ6W2KXdI/AAAAAAAAEzI/Xw08JdFRqdwi56k0PVT-R9qfrQYKPSEWACLcBGAsYHQ/s720/ABC
-
-%2BAustralia.png",02.ABC Australia
+#EXTINF:-1 group-title="FTA INTERNASIONAL 🌏" tvg-logo="https://1.bp.blogspot.com/-g5YDl3jG8ag/YJaJ6W2KXdI/AAAAAAAAEzI/Xw08JdFRqdwi56k0PVT-R9qfrQYKPSEWACLcBGAsYHQ/s720/ABC%2BAustralia.png",02.ABC Australia
 https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
