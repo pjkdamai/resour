@@ -626,19 +626,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 group-title="MOVIES 🎥" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png",06.HBO Signature*
+#EXTINF:-1 group-title="MOVIES 🎥" tvg-logo="https://i.imgur.com/iubUI1y.png",06.HBO Signature*
 http://208.115.225.174:14160
 
-#EXTINF:-1  group-title="MOVIES 🎥" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3df19bd34cea691ef713fa7c91186231.png",06.HBO*
+#EXTINF:-1  group-title="MOVIES 🎥" tvg-logo="https://i.imgur.com/9v0WUqt.png",06.HBO*
 http://208.115.225.174:14136
 
-#EXTINF:-1  group-title="MOVIES 🎥" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png",06.HBO Extreme*
+#EXTINF:-1  group-title="MOVIES 🎥" tvg-logo="https://i.imgur.com/9v0WUqt.png",06.HBO Extreme*
 http://208.115.225.174:14165
 
-#EXTINF:0  group-title="MOVIES 🎥" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/04924eab6449cf5f9481477a02538529.png",06.HBO2*
+#EXTINF:0  group-title="MOVIES 🎥" tvg-logo="https://i.imgur.com/9v0WUqt.png",06.HBO2*
 http://208.115.225.174:14140
 
-#EXTINF:-1  group-title="MOVIES 🎥" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png",06.HBO Mundi*
+#EXTINF:-1  group-title="MOVIES 🎥" tvg-logo="https://i.imgur.com/9v0WUqt.png",06.HBO Mundi*
 http://208.115.225.174:14148
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
