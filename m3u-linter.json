@@ -1173,7 +1173,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",03.Eurosport 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
@@ -1187,6 +1186,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
 #EXTINF:-1 tvg-id="inter" tvg-name="intr" tvg-logo="https://cdn.tvpassport.com/image/show/960x540/v2/p18641368_b_h10_ad.jpg" group-title="SPORTS ⚽",03.WNBA WEEKLY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http-user-agent=ExoPlayerLib
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1197,24 +1197,24 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxEKA5ZclM4JFycvICaVZe0dNE4UvoqzrArr9We6hw7Q&s",03.DAZN DE 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png",03.DAZN ELEVEN 1
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-049/stream.mpd
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-049/stream.mpd\http-user-agent=ExoPlayerLib
 
 #EXTINF:-1 group-title="SPORTS ⚽"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png",03.Eleven Sports 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd\http-user-agent=ExoPlayerLib
 
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png",03.Eleven Sports 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd\http-user-agent=ExoPlayerLib
 
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png",03.Eleven Sports 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
