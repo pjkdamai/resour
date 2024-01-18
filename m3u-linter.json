@@ -1167,19 +1167,21 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",03.Eurosport 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",03.Eurosport 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
 
 #EXTINF:-1 tvg-id="inter" tvg-name="intr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99KMeBc_4YV4XsFM44jvcS01yJl5p1UQrLA&usqp=CAU" group-title="SPORTS ⚽",03.INTER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
 
 #EXTINF:-1 tvg-id="inter" tvg-name="intr" tvg-logo="https://cdn.tvpassport.com/image/show/960x540/v2/p18641368_b_h10_ad.jpg" group-title="SPORTS ⚽",03.WNBA WEEKLY
@@ -1189,7 +1191,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\http-user-agent=ExoPlayerLib
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcOBnVPQx9X72D7OraZYIRKPIguq28mHRB1jd_GFqyg&s",03.DAZN DE 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
