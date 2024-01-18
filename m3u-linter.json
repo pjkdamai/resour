@@ -1464,6 +1464,10 @@ https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000094_019321/manifest.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", group-title="SPORTS ⚽", 09.ZIGGO DOCU
 https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000098_019255/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="SPORTS ⚽",09.Ziggo Sport Golf
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11815
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b18766306c8b4446a7431f3664976a5e:064cf3223b9c2bdda24e9f89bf28a6d2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg", group-title="SPORTS ⚽", 09.ESPN NL
@@ -1479,44 +1483,44 @@ https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000107_019441/manifest.
 #KODIPROP:inputstream.adaptive.license_key=90e32a4712f5480bab7abc8a4fef25da:2eeb49a8688f2365e1131cf4ae4d6f0a
 https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽", 10.TSN 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6zZrc3/tsn.png" group-title="SPORTS ⚽", 10.TSN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
 https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽", 10.TSN 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6zZrc3/tsn.png" group-title="SPORTS ⚽", 10.TSN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
 https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽", 10.TSN 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6zZrc3/tsn.png" group-title="SPORTS ⚽", 10.TSN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
 https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽", 10.TSN 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6zZrc3/tsn.png" group-title="SPORTS ⚽", 10.TSN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
 https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽", 10.TSN 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6zZrc3/tsn.png" group-title="SPORTS ⚽", 10.TSN 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
 https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 
-#EXTINF:-1   tvg-logo="" group-title="SPORTS ⚽",11.Sony Sports 1 HD 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/j8xhQZQ/st.jpg" group-title="SPORTS ⚽",11.Sony Sports 1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 
-#EXTINF:-1   tvg-logo="" group-title="SPORTS ⚽",11.Sony Sports 2 HD 
+#EXTINF:-1   tvg-logo=""https://i.ibb.co/j8xhQZQ/st.jpg group-title="SPORTS ⚽",11.Sony Sports 2 HD 
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
  
-#EXTINF:-1   tvg-logo="" group-title="SPORTS ⚽",11.Sony Sports 3 HD 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/j8xhQZQ/st.jpg" group-title="SPORTS ⚽",11.Sony Sports 3 HD 
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
 
-#EXTINF: -1   tvg-logo="" group-title="SPORTS ⚽",11.Sony Sports 4 HD 
+#EXTINF: -1   tvg-logo="https://i.ibb.co/j8xhQZQ/st.jpg" group-title="SPORTS ⚽",11.Sony Sports 4 HD 
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
 
-#EXTINF:-1   tvg-logo="" group-title="SPORTS ⚽",11.Sony Sports 5 HD 
+#EXTINF:-1   tvg-logo="https://i.ibb.co/j8xhQZQ/st.jpg" group-title="SPORTS ⚽",11.Sony Sports 5 HD 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -1562,7 +1566,7 @@ https://edge.taghtia.com/sa/16.m3u8
 https://edge.taghtia.com/sa/17.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1672512690/6781.png" group-title="SPORTS ⚽", Viaplay Xtra
-https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
+#https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS ⚽", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -1578,37 +1582,33 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",TENNIS CHANNEL
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11811
+#http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11811
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",NBC GOLF
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11812
+#http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11812
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",Sport Klub Golf
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11814
+#http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11814
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",Ziggo Sport Golf
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11815
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",FOX 502
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rsScCHw/fox.png" group-title="SPORTS ⚽",FOX 502
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11816
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",FOX 503
+#EXTINF:-1 tvg-logo=""https://i.ibb.co/rsScCHw/fox.png group-title="SPORTS ⚽",FOX 503
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11817
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",FOX 504
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rsScCHw/fox.png" group-title="SPORTS ⚽",FOX 504
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11818
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",FOX 505
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rsScCHw/fox.png" group-title="SPORTS ⚽",FOX 505
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11819
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",FOX 506
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rsScCHw/fox.png" group-title="SPORTS ⚽",FOX 506
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11820
 
@@ -1616,7 +1616,7 @@ http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11820
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11821
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",UFC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNsYK57/ufc.jpg" group-title="SPORTS ⚽",UFC
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11822
 
