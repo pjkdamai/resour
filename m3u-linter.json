@@ -750,7 +750,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 group-title="MOVIES 🎥" tvg-logo="https://i.imgur.com/7lwMXbA.png",24.IMC
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png group-title="MOVIES 🎥",25.FLIK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx0KLQS/FLIK.png" group-title="MOVIES 🎥",25.FLIK
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -851,10 +851,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 group-title="ENTERTAINMENT 🎭" tvg-id="hitsnow.sg" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",12.HITS NOW 
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT 🎭" tvg-id="seruchannel.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/SERU_Channel.png/revision/latest?cb=20210109115646",13.Channel Seru!
+#EXTINF:-1 group-title="ENTERTAINMENT 🎭" tvg-id="seruchannel.id" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2b660c5727/7f71d84d3d754fd98b8439ab612092b8.jpg",13.Channel Seru!
 https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7a_-oJ2Hu-gm3jlEOuM59SAZ6gk=/372x211/filters:quality(75)/vidio-web-prod=livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="ENTERTAINMENT 🎭",14.Citra Drama 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0h0N0LQ/download-1.jpg" group-title="ENTERTAINMENT 🎭",14.Citra Drama 
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
