@@ -296,9 +296,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w569937733_b3
 #EXTINF:-1 tvg-id="rtv.id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rtv.png" group-title="TV NASIONAL 🇮🇩",14. RTV
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 group-title="TV NASIONAL 🇮🇩" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png",15.NET TV
-http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="TV NASIONAL 🇮🇩", 16.MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -1654,12 +1654,16 @@ http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11822
 
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 1
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
+
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 2
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyce/master.m3u8
+
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 3
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavya/master.m3u8
+
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 4
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgb/master.m3u8
+
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 5
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
 
