@@ -1652,3 +1652,14 @@ http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11821
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11822
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb 
+#EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 1 
+https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
+
+#EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 2
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_ind_130124/master.m3u8
+
+#EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 3
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_130124/master.m3u8
+
