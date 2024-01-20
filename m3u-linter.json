@@ -1652,6 +1652,17 @@ http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11821
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11822
 
+#EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 1
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
+#EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyce/master.m3u8
+#EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 3
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavya/master.m3u8
+#EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 4
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgb/master.m3u8
+#EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.postimg.cc/sgKnhxC0/alkass.png",Alkass 5
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
+
 
 #EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
