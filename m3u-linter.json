@@ -1730,11 +1730,11 @@ https://webudit.hlsjs.ru/lb/premium34/index.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 2
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_ind_240124/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_ind_310124/master.m3u8
 
 #EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 3
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_240124/master.m3u8
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_240124/mobile_master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_310124/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_310124/mobile_master.m3u8
 
 #EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 4
 http://103.84.206.6:80/stream/6/index.m3u8?username=OhKLHUe9aY&password=5Ng442GY2X
@@ -1743,6 +1743,7 @@ http://103.84.206.6:80/stream/6/index.m3u8?username=OhKLHUe9aY&password=5Ng442GY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
 https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+
 #EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
@@ -1758,7 +1759,7 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-#EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 8
+#EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020c970519e635452e81e2496c919ca:87114e92d957670e78e6d38113c340c5
 https://llnw.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc130gttyz)/master.mpd
@@ -1770,4 +1771,4 @@ https://llnw.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc130gttyz)/m
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/16961_stream.mpd?hdnts=exp=1706630641~acl=/drm/dash/*~id=151029070~hmac=72ae1135567798a91164b418ea05579ec1d66880990d70de1949c125b05b02df
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/my9qb19/indonesia-vs-uzbekistan.jpg" group-title="AFC QATAR 2023", 2.INDONESIA U20 VS UZBEKISTAN U20
-https://iptv.lancartech.co.id/playlist/2024mantap/2024mantap/m3u_plus
+#https://iptv.lancartech.co.id/playlist/2024mantap/2024mantap/m3u_plus
