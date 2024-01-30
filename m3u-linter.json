@@ -1745,6 +1745,12 @@ https://webudit.hlsjs.ru/lb/premium33/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium34/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", V Sports Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1byekvIU13Ugq3+qHsrRCw","kid":"y9E7eog+U+mNXH800AE76A"}],"type":"temporary"}
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12079/index.m3u8
 
 
 
@@ -1762,7 +1768,9 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_310124/mobile_master.m3u8
 
 #EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 4
-http://103.84.206.6:80/stream/6/index.m3u8?username=OhKLHUe9aY&password=5Ng442GY2X
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
+https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
 
 #EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
