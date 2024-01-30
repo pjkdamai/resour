@@ -1,3 +1,28 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>SpyIptv</title>
+        <script defer="defer" src="runtimechunk~popup.js"></script>
+        <script defer="defer" src="vendors.js"></script>
+        <script defer="defer" src="popup.js"></script>
+    </head>
+    <body>
+	
+	<a href="https://none.com">none</a>
+  
+    <img src="https://none.com"
+	
+        <div id="app"></div>
+    </body>
+
+</head>
+ 
+<noscript>
+
+
+
 {
   "files": ["streams/*.m3u"],
   "rules": {
