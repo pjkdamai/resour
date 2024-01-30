@@ -1763,3 +1763,11 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 #KODIPROP:inputstream.adaptive.license_key=0020c970519e635452e81e2496c919ca:87114e92d957670e78e6d38113c340c5
 https://llnw.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc130gttyz)/master.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff9e5fa8162883cf6d3095ea91f9b284:e9237daae16919ca840459396c6fc465
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="https://i.ibb.co/my9qb19/indonesia-vs-uzbekistan.jpg" group-title="AFC QATAR 2023", 1.INDONESIA U20 VS UZBEKISTAN U20
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/16961_stream.mpd?hdnts=exp=1706630641~acl=/drm/dash/*~id=151029070~hmac=72ae1135567798a91164b418ea05579ec1d66880990d70de1949c125b05b02df
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/my9qb19/indonesia-vs-uzbekistan.jpg" group-title="AFC QATAR 2023", 2.INDONESIA U20 VS UZBEKISTAN U20
+https://iptv.lancartech.co.id/playlist/2024mantap/2024mantap/m3u_plus
