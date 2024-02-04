@@ -1745,14 +1745,22 @@ https://webudit.hlsjs.ru/lb/premium33/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium34/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", V Sports Premium
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1byekvIU13Ugq3+qHsrRCw","kid":"y9E7eog+U+mNXH800AE76A"}],"type":"temporary"}
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12079/index.m3u8
-
-
+#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="SPORTS ⚽", HubPremier1-FHD
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="SPORTS ⚽", HubPremier2-FHD
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="SPORTS ⚽", HubPremier3-FHD
+https://7pal.short.gy/HPremier3
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://i.pinimg.com/originals/3a/6e/f2/3a6ef23a9908ceb32469f8ad2c2ba44f.jpg" group-title="SPORTS ⚽", USA_NetWork-FHD
+https://7pal.short.gy/usanetwork
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORTS ⚽", NowSportsPL1-FHD
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="SPORTS ⚽", NowSportsPL2-FHD
+https://7pal.short.gy/nowhkp2
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="SPORTS ⚽", SkySportsPL-FHD
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/TRX5fQr.png" group-title="SPORTS ⚽", SkySportsFBALL-FHD
+https://7pal.short.gy/ssportsfb
 
 #EXTINF:-1 tvg-id="Channel1.sg" tvg-name="Channel 1" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/05/AFC-Asian-Cup-Qatar-2023-Logo-Vector.svg-.png" group-title="AFC QATAR 2023",CHannel 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
