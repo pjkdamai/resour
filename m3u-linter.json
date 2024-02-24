@@ -1983,7 +1983,7 @@ https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager
 #KODIPROP:inputstream.adaptive.license_key=d094d1401faa5cd29cfb361274629aad:793d3bf7e16e9300c0298fb2b3ba6f68
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV4 Sport Live 2" tvg-logo="https://i.ibb.co/8Bs44xG/tv4sportl2.png" group-title="SPORTS", TV4 SPORT LIVE 2 🇸🇪
+#EXTINF:-1 tvg-id="TV4 Sport Live 2" tvg-logo="https://i.ibb.co/8Bs44xG/tv4sportl2.png" group-title="SPORTS ⚽", TV4 SPORT LIVE 2 🇸🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2053,7 +2053,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co/p24tp0P/unifisports.png" group-title="SPORTS ⚽", UNIFI SPORTS 🇲🇾
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="" tvg-logo="https://i.ibb.co/Fw2xmvZ/usantwrk.png" group-title="SPORTS", USA (EAST) 🇺🇸
+#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="" tvg-logo="https://i.ibb.co/Fw2xmvZ/usantwrk.png" group-title="SPORTS ⚽", USA (EAST) 🇺🇸
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
