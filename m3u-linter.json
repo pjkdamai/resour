@@ -1236,31 +1236,31 @@ https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spec
 #KODIPROP:inputstream.adaptive.license_key=b3f1c9271d9d51999a401da6ded4d376:9ebd349045e5c8435e2cc50eeaf7d227
 https://0055-jbc.dtvott.com/dash_live_0057/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web
 
-#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png" group-title="SPORTS ⚽" , DAZN 01 🇩🇪 
+#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png" group-title="SPORTS ⚽" ,03.DAZN 01 🇩🇪 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-017/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://i.ibb.co/NmHJWdT/dazn2.png" group-title="SPORTS ⚽" , DAZN 02 🇩🇪 
+#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://i.ibb.co/NmHJWdT/dazn2.png" group-title="SPORTS ⚽" ,03.DAZN 02 🇩🇪 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png" group-title="SPORTS ⚽" , DAZN 1 🇪🇸 
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png" group-title="SPORTS ⚽" ,03.DAZN 1 🇪🇸 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://i.ibb.co/NmHJWdT/dazn2.png" group-title="SPORTS ⚽" , DAZN 2 🇪🇸 
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://i.ibb.co/NmHJWdT/dazn2.png" group-title="SPORTS ⚽" ,03.DAZN 2 🇪🇸 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-038/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://i.ibb.co/jLx33bM/dazn3.png" group-title="SPORTS ⚽",DAZN 3 🇪🇸
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://i.ibb.co/jLx33bM/dazn3.png" group-title="SPORTS ⚽",03.DAZN 3 🇪🇸
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1268,7 +1268,7 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-038/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=b4641842b5824390a7fe8d4ec781031d:cd156815ef05dcc9fcc3626e7d52db79
 https://cors-proxy.cluster.fun/http://stover-wp7.cdn.telefonica.com/4961/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
 
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png" group-title="SPORTS ⚽",DAZN 4 🇪🇸
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png" group-title="SPORTS ⚽",03.DAZN 4 🇪🇸
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1276,85 +1276,85 @@ https://cors-proxy.cluster.fun/http://stover-wp7.cdn.telefonica.com/4961/vxfmt=d
 #KODIPROP:inputstream.adaptive.license_key=436c2164392e460dae41420f53f9f396:8e0ea1289135355f0aef59266bd0070e
 https://cors-proxy.cluster.fun/http://stover-wp7.cdn.telefonica.com/4962/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
 
-#EXTINF:-1 tvg-id="DAZN1HD.uk" tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png" group-title="SPORTS ⚽" , DAZN 1 🇬🇧
+#EXTINF:-1 tvg-id="DAZN1HD.uk" tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png" group-title="SPORTS ⚽" ,03.DAZN 001 🇬🇧
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-045/stream.mpd
 
-#EXTINF:-1 tvg-id="Canal+ Ligue 1.fr" tvg-logo="https://i.ibb.co/HCM50yH/daznxcanalplusl1.png" group-title="SPORTS ⚽" , DAZN CANAL+ LIGUE 1 🇫🇷
+#EXTINF:-1 tvg-id="Canal+ Ligue 1.fr" tvg-logo="https://i.ibb.co/HCM50yH/daznxcanalplusl1.png" group-title="SPORTS ⚽" ,DAZN CANAL+ LIGUE 1 🇫🇷
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-046/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" , DAZN ELEVEN 1 🇫🇷
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 1 🇫🇷
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-048/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" , DAZN ELEVEN 1 🇳🇱
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 1 🇳🇱
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-047/stream.mpd
 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" , DAZN ELEVEN 1 🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 1 🇵🇹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" , DAZN ELEVEN 2 🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 2 🇵🇹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-055/stream.mpd  
 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" , DAZN ELEVEN 3 🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 3 🇵🇹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-056/stream.mpd  
 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" , DAZN ELEVEN 4 🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 4 🇵🇹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-057/stream.mpd  
 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" , DAZN ELEVEN 5 🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 5 🇵🇹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-058/stream.mpd 
 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" , DAZN ELEVEN 6 🇵🇹
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 6 🇵🇹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-059/stream.mpd 
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/cC5fH2g/daznxelevenproleague1.png" group-title="SPORTS ⚽" , DAZN ELEVEN PRO LEAGUE 1 🇳🇱
+#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/cC5fH2g/daznxelevenproleague1.png" group-title="SPORTS ⚽" ,DAZN ELEVEN PRO LEAGUE 1 🇳🇱
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-049/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/cC5fH2g/daznxelevenproleague1.png" group-title="SPORTS ⚽" , DAZN ELEVEN PRO LEAGUE 1 🇫🇷
+#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/cC5fH2g/daznxelevenproleague1.png" group-title="SPORTS ⚽" ,DAZN ELEVEN PRO LEAGUE 1 🇫🇷
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-050/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/SJWpngL/daznxelevenproleague2.png" group-title="SPORTS ⚽" , DAZN ELEVEN PRO LEAGUE 2
+#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/SJWpngL/daznxelevenproleague2.png" group-title="SPORTS ⚽" ,DAZN ELEVEN PRO LEAGUE 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
 
-#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/GpMD7tJ/daznxelevenproleague3.png" group-title="SPORTS ⚽" , DAZN ELEVEN PRO LEAGUE 3
+#EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/GpMD7tJ/daznxelevenproleague3.png" group-title="SPORTS ⚽" ,DAZN ELEVEN PRO LEAGUE 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
@@ -1381,11 +1381,6 @@ https://cors-proxy.cluster.fun/http://stover-wp7.cdn.telefonica.com/4608/vxfmt=d
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-043/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png" group-title="SPORTS ⚽" , DAZN LaLiga 🇪🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png" group-title="SPORTS ⚽" , DAZN LaLiga 🇪🇸
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
@@ -1395,7 +1390,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-502/stream.mpd
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN FAST+" tvg-logo="https://i.ibb.co/tJP1cxn/daznfastplus.png" group-title="SPORTS ⚽" , DAZN FAST+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1467,37 +1462,23 @@ https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-030/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-031/stream.mpd
 
-#EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co/ryjz8NB/playsports1.png" group-title="SPORTS ⚽" , PLAY SPORTS 1 🇧🇪
+#EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://i.ibb.co/ryjz8NB/playsports1.png" group-title="SPORTS ⚽" ,03.PLAY SPORTS 1 🇧🇪
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="https://i.ibb.co/MB271LX/playsports2.png" group-title="SPORTS ⚽" , PLAY SPORTS 2 🇧🇪
+#EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="https://i.ibb.co/MB271LX/playsports2.png" group-title="SPORTS ⚽" ,03.PLAY SPORTS 2 🇧🇪
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 tvg-id="Play Sports HD3.be" tvg-logo="https://i.ibb.co/ZGwTw4Q/playsports3.png" group-title="SPORTS ⚽" , PLAY SPORTS 3 🇧🇪
+#EXTINF:-1 tvg-id="Play Sports HD3.be" tvg-logo="https://i.ibb.co/ZGwTw4Q/playsports3.png" group-title="SPORTS ⚽" ,03.PLAY SPORTS 3 🇧🇪
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-053/stream.mpd
-
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://i.ibb.co/yNH0P5r/foxsp1ar.png" group-title="SPORTS ⚽", FOX SPORTS 1 🇦🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/ 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
-
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://i.ibb.co/C8bfYcN/foxsp2ar.png" group-title="SPORTS ⚽", FOX SPORTS 2 🇦🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/ 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
 
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.imgur.com/9FJknMK.png",04.True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
@@ -1535,21 +1516,6 @@ https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|Referer=ht
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS ⚽" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg",TVRI Sport
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
-
-#EXTINF:0 group-title="SPORTS ⚽" tvg-id="vsportfootball.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",05.V Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
-#https://aws-appeartv-cdn.rikstv.no/rikstv/1474/2/dash/Viasport_1/manifest.mpd
-
-#EXTINF:0 group-title="SPORTS ⚽" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",05.V Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=ae9eb255000c9ea429c5a077ef9211d4:4aeb818921f4d3a553295b02524bb53d
-#https://aws-appeartv-cdn.rikstv.no/rikstv/1475/2/dash/Viasport_2/manifest.mpd 
-
-#EXTINF:0 group-title="SPORTS ⚽" tvg-id="vsportpremium.se" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPI8C_zFSPiCaVxkZXaYK1VXDZFkiCYJLUQ&usqp=CAU",05.V Sport 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c95b184864d5f25f3de9ffbb8b0ec24d:14d6713904b32a72b6859c3316f92cce
-#https://aws-appeartv-cdn.rikstv.no/rikstv/1476/2/dash/Viasport_3/manifest.mpd
 
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-id="match.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/he/a/a1/Match_tv_2019.png",06.MATCH! 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1606,6 +1572,20 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/Fox
 #EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Argentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="SPORTS ⚽",07.FOX Sports 3
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://i.ibb.co/yNH0P5r/foxsp1ar.png" group-title="SPORTS ⚽",07.FOX SPORTS 1 🇦🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://i.ibb.co/C8bfYcN/foxsp2ar.png" group-title="SPORTS ⚽",07.FOX SPORTS 2 🇦🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/ 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://csc-ptn-edge01.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
+
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-id="ARENA SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dARwtGnvgT13KMBLPEU-fzdc_zkDTLMqsA&usqp=CAU",08.ARENA SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
@@ -1651,7 +1631,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="SPORTS ⚽" , 09.ZIGGO VOETBAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="SPORTS ⚽" ,09.ZIGGO VOETBAL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -1772,9 +1752,6 @@ https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:-1 tvg-id="KSASports4.sa" tvg-logo="https://i.imgur.com/TNZEKP6.png" group-title="SPORTS ⚽",KSA Sports 4 HD
 https://edge.taghtia.com/sa/17.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1672512690/6781.png" group-title="SPORTS ⚽",Viaplay Xtra
-#https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS ⚽",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
@@ -1786,18 +1763,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="SPORTS ⚽",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",TENNIS CHANNEL
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11811
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",NBC GOLF
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11812
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS ⚽",Sport Klub Golf
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11814
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rsScCHw/fox.png" group-title="SPORTS ⚽",FOX 502
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
@@ -1842,70 +1807,36 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgb/master.m3u8
 #EXTINF:-1 group-title="SPORTS ⚽" tvg-logo="https://i.ibb.co/SBYtCpt/alkas.png",Alkass 5
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="SPORTS ⚽",BeIN Sports 1 AIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="SPORTS ⚽",01.BeIN Sports 1 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="SPORTS ⚽",BeIN Sports 2 AIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lpk9gnv/Bein-2.png" group-title="SPORTS ⚽",01.BeIN Sports 2 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="SPORTS ⚽",BeIN Sports 3 AIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQvKn0B/Bein-3.png" group-title="SPORTS ⚽",01.BeIN Sports 3 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
-#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="SPORTS ⚽", HubPremier1-FHD
-https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="SPORTS ⚽", HubPremier2-FHD
-https://7pal.short.gy/HPremier2
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="SPORTS ⚽", HubPremier3-FHD
-https://7pal.short.gy/HPremier3
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://i.pinimg.com/originals/3a/6e/f2/3a6ef23a9908ceb32469f8ad2c2ba44f.jpg" group-title="SPORTS ⚽", USA_NetWork-FHD
-https://7pal.short.gy/usanetwork
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORTS ⚽", NowSportsPL1-FHD
-https://7pal.short.gy/nowhkp1
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="SPORTS ⚽", NowSportsPL2-FHD
-https://7pal.short.gy/nowhkp2
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="SPORTS ⚽", SkySportsPL-FHD
-https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/TRX5fQr.png" group-title="SPORTS ⚽", SkySportsFBALL-FHD
-https://7pal.short.gy/ssportsfb
-
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="SPORTS ⚽",Astro SuperSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://superlivehdplay.ru/premiumtv/daddylivehd.php?id=123
-https://webudit.webhd.ru/lb/premium123/index.m3u8
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="SPORTS ⚽",Astro SuperSport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://superlivehdplay.ru/premiumtv/daddylivehd.php?id=124
-https://webudit.webhd.ru/lb/premium124/index.m3u8
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="SPORTS ⚽",Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://superlivehdplay.ru/premiumtv/daddylivehd.php?id=125
-https://webudit.webhd.ru/lb/premium125/index.m3u8
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="SPORTS ⚽",Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://superlivehdplay.ru/premiumtv/daddylivehd.php?id=126
-https://webudit.webhd.ru/lb/premium126/index.m3u8
-
-#EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://i.ibb.co/jJPrP6c/beinsp.png" group-title="SPORTS ⚽",  BEIN SPORTS 🇺🇸
+#EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://i.ibb.co/jJPrP6c/beinsp.png" group-title="SPORTS ⚽",01.BEIN SPORTS 🇺🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f81af7922a8d461aa81da4b225f8f883:d0f27c123c5f1331429d08638fa3727e
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1144/dash/cenc/BEIN1HD_04735/manifest.mpd
 
-#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co/zNhs5Nj/beinspes.png" group-title="SPORTS ⚽",  BEIN SPORTS En Español 🇺🇸
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co/zNhs5Nj/beinspes.png" group-title="SPORTS ⚽",01.BEIN SPORTS En Español 🇺🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42176706e135442ab500ee8b3a32ff31:072ea5e4b049541f4aba6f5d6bc2b3c8
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1147/dash/cenc/BEIN2HD_04736/manifest.mpd
 
-#EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://i.ibb.co/v1bpVxN/beinxtraen.png" group-title="SPORTS ⚽" , BEIN SPORTS XTRA 🇺🇸
+#EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://i.ibb.co/v1bpVxN/beinxtraen.png" group-title="SPORTS ⚽" ,01.BEIN SPORTS XTRA 🇺🇸
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.ibb.co/44jf5LR/beinxtraes.png" group-title="SPORTS ⚽" , BEIN SPORTS XTRA En Español 🇺🇸
@@ -1956,7 +1887,7 @@ https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 https://cor-coran.theriumworld29.workers.dev/dash-wv/linear/2601/default.mpd
 
-#EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="https://i.ibb.co/rdfyH83/sport1plushd.png" group-title="SPORTS ⚽", SPORT1+ HD 🇩🇪
+#EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="https://i.ibb.co/rdfyH83/sport1plushd.png" group-title="SPORTS ⚽",05.SPORT1+ HD 🇩🇪
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
@@ -2002,14 +1933,14 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-#EXTINF:-1 tvg-id="TV2 Sport 1 HD (N) (T)" tvg-logo="https://i.ibb.co/bW9whWg/tv2sport1.png" group-title="SPORTS ⚽", TV2 SPORT1 🇳🇴
+#EXTINF:-1 tvg-id="TV2 Sport 1 HD (N) (T)" tvg-logo="https://i.ibb.co/bW9whWg/tv2sport1.png" group-title="SPORTS ⚽",05.TV2 SPORT1 🇳🇴
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://i.ibb.co/RNwxw23/tv2sportpremium.png" group-title="SPORTS ⚽", TV2 Sport Premium 🇳🇴
+#EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://i.ibb.co/RNwxw23/tv2sportpremium.png" group-title="SPORTS ⚽",05.TV2 Sport Premium 🇳🇴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2017,7 +1948,7 @@ https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/64393bf81dbc891fd41f53ac/man
 #KODIPROP:inputstream.adaptive.license_key=d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 https://ch11-hls-live.akamaized.net/out/u/433127.mpd
 
-#EXTINF:-1 tvg-id="TV3+ (N) (T)" tvg-logo="https://i.ibb.co/k3ML0XR/tv3plus.png" group-title="SPORTS ⚽", TV3+ 🇳🇴
+#EXTINF:-1 tvg-id="TV3+ (N) (T)" tvg-logo="https://i.ibb.co/k3ML0XR/tv3plus.png" group-title="SPORTS ⚽",05.TV3+ 🇳🇴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2025,7 +1956,7 @@ https://ch11-hls-live.akamaized.net/out/u/433127.mpd
 #KODIPROP:inputstream.adaptive.license_key=bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
 https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV4 Fotboll" tvg-logo="https://i.ibb.co/D8xFZ3G/tv4fotboll.png" group-title="SPORTS ⚽", TV4 FOTBOLL 🇸🇪
+#EXTINF:-1 tvg-id="TV4 Fotboll" tvg-logo="https://i.ibb.co/D8xFZ3G/tv4fotboll.png" group-title="SPORTS ⚽",05.TV4 FOTBOLL 🇸🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2033,7 +1964,7 @@ https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
 https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV4 Motor" tvg-logo="https://i.ibb.co/SxS86hq/tv4motor.png" group-title="SPORTS ⚽", TV4 MOTOR 🇸🇪
+#EXTINF:-1 tvg-id="TV4 Motor" tvg-logo="https://i.ibb.co/SxS86hq/tv4motor.png" group-title="SPORTS ⚽",05.TV4 MOTOR 🇸🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2041,14 +1972,14 @@ https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager
 #KODIPROP:inputstream.adaptive.license_key=39557d4a1ba75e168fc7b13756084b4d:efe8223510249dc20db097bb814feb41
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c58f47a23d7ce45cf30f/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV4 Sportkanalen" tvg-logo="https://i.ibb.co/KKpMt3Q/tv4sportkanalen.png" group-title="SPORTS ⚽", TV4 SPORT KANALEN 🇸🇪
+#EXTINF:-1 tvg-id="TV4 Sportkanalen" tvg-logo="https://i.ibb.co/KKpMt3Q/tv4sportkanalen.png" group-title="SPORTS ⚽",05.TV4 SPORT KANALEN 🇸🇪
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9e0ecea640959c6aec904a1f34934a5:284ea8e5fa0de4bc90c17c21148dbdea
 https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV4 Sport Live 1" tvg-logo="https://i.ibb.co/MkXKSDd/tv4sportl1.png" group-title="SPORTS ⚽", TV4 SPORT LIVE 1 🇸🇪
+#EXTINF:-1 tvg-id="TV4 Sport Live 1" tvg-logo="https://i.ibb.co/MkXKSDd/tv4sportl1.png" group-title="SPORTS ⚽",05.TV4 SPORT LIVE 1 🇸🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2056,7 +1987,7 @@ https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager
 #KODIPROP:inputstream.adaptive.license_key=d094d1401faa5cd29cfb361274629aad:793d3bf7e16e9300c0298fb2b3ba6f68
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV4 Sport Live 2" tvg-logo="https://i.ibb.co/8Bs44xG/tv4sportl2.png" group-title="SPORTS ⚽", TV4 SPORT LIVE 2 🇸🇪
+#EXTINF:-1 tvg-id="TV4 Sport Live 2" tvg-logo="https://i.ibb.co/8Bs44xG/tv4sportl2.png" group-title="SPORTS ⚽",05.TV4 SPORT LIVE 2 🇸🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2064,7 +1995,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d6877
 #KODIPROP:inputstream.adaptive.license_key=d7a1fb185df6505fbc8b63df59c31f55:368257ec8b55026bc42e2de5b60aa737
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896d1247a23dae065cd5f4/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV4 Sport Live 3" tvg-logo="https://i.ibb.co/xfx6Zsm/tv4sportl3.png" group-title="SPORTS ⚽", TV4 SPORT LIVE 3 🇸🇪
+#EXTINF:-1 tvg-id="TV4 Sport Live 3" tvg-logo="https://i.ibb.co/xfx6Zsm/tv4sportl3.png" group-title="SPORTS ⚽",05.TV4 SPORT LIVE 3 🇸🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2072,7 +2003,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896d1247a23dae06
 #KODIPROP:inputstream.adaptive.license_key=90397fef042351ec88035875ada6d1dd:6edb6ccecf50362a74d647e6ea285365
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896d3547a23d6bbd5cd609/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV4 Sport Live 4" tvg-logo="https://i.ibb.co/j6YkgRr/tv4sportl4.png" group-title="SPORTS ⚽", TV4 SPORT LIVE 4 🇸🇪
+#EXTINF:-1 tvg-id="TV4 Sport Live 4" tvg-logo="https://i.ibb.co/j6YkgRr/tv4sportl4.png" group-title="SPORTS ⚽",05.TV4 SPORT LIVE 4 🇸🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2080,7 +2011,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896d3547a23d6bbd
 #KODIPROP:inputstream.adaptive.license_key=99c9c1d2eff15da09b1b64ed16a17a84:6f7174c7e2d5e07fff7ba012e2e94956
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896d5647a23d19495cd627/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV4 Tennis" tvg-logo="https://i.ibb.co/DMXtLrF/tv4tennis.png" group-title="SPORTS ⚽", TV4 TENNIS 🇸🇪
+#EXTINF:-1 tvg-id="TV4 Tennis" tvg-logo="https://i.ibb.co/DMXtLrF/tv4tennis.png" group-title="SPORTS ⚽",05.TV4 TENNIS 🇸🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2116,11 +2047,15 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.ibb.co/BCQ5VDq/usi1.png" group-title="SPORTS ⚽", USEE SPORTS 🇮🇩
+#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.ibb.co/BCQ5VDq/usi1.png" group-title="SPORTS ⚽",00.USEE SPORTS 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
 
-#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.ibb.co/BCQ5VDq/usi1.png" group-title="SPORTS ⚽", USEE SPORTS 🇮🇩
+#EXTINF:-1 tvg-id="UseeSports2" tvg-logo="https://i.ibb.co/18wXzzY/usi2.png" group-title="SPORTS ⚽",00.USEE SPORTS 2 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0002f5b4-bcc0-4b51-93c8-0de407cf7e19)/manifest.mpd
+
+#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.ibb.co/BCQ5VDq/usi1.png" group-title="SPORTS ⚽",00.USEE SPORTS 01 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2129,11 +2064,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 
-#EXTINF:-1 tvg-id="UseeSports2" tvg-logo="https://i.ibb.co/18wXzzY/usi2.png" group-title="SPORTS ⚽", USEE SPORTS 2 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0002f5b4-bcc0-4b51-93c8-0de407cf7e19)/manifest.mpd
-
-#EXTINF:-1 tvg-id="UseeSports2" tvg-logo="https://i.ibb.co/18wXzzY/usi2.png" group-title="SPORTS ⚽", USEE SPORTS 2 🇮🇩
+#EXTINF:-1 tvg-id="UseeSports2" tvg-logo="https://i.ibb.co/18wXzzY/usi2.png" group-title="SPORTS ⚽",00.USEE SPORTS 02 🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
