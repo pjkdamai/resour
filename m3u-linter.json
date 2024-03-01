@@ -1326,40 +1326,34 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-048/stream.mpd
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-047/stream.mpd
 
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 1 🇵🇹
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-054/stream.mpd?p=web 
 
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 2 🇵🇹
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashrdm/dazn-linear-055/stream.mpd  
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-055/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 3 🇵🇹
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd  
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-056/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 4 🇵🇹
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd  
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-057/stream.mpd?p=web  
 
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 5 🇵🇹
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-058/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="SPORTS ⚽" ,03.DAZN ELEVEN 6 🇵🇹
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-059/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="DAZN ELEVEN PRO LEAGUE 1" tvg-logo="https://i.ibb.co/cC5fH2g/daznxelevenproleague1.png" group-title="SPORTS ⚽" ,DAZN ELEVEN PRO LEAGUE 1 🇳🇱
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
