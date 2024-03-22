@@ -824,7 +824,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMzqcrS/cinemachi.png" group-title="6.PREMIUM",154.Cinemachi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMzqcrS/cinemachi.png" group-title="5.PILEM",154.Cinemachi
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd|referer=https://www.visionplus.id  
   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
