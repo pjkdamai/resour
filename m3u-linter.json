@@ -1129,43 +1129,43 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
+https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
 
 #EXTINF:-1 tvg-id="Arena Fight.ba" tvg-logo="https://i.ibb.co/6Z4XYGy/arenafight.jpg" group-title="13.SPORT",380. Arena Fight
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
+https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 
 #EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.ibb.co/VY0K399/as1.jpg" group-title="13.SPORT", 380.ArenaSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
 #EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://i.ibb.co/g95bVrF/as2.jpg" group-title="13.SPORT", 380.ArenaSport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
 #EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.ibb.co/L6q3BNY/a3.jpg" group-title="13.SPORT", 380.ArenaSport 3A 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
 #EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://i.ibb.co/BwRJ2KL/as4.jpg" group-title="13.SPORT", 380.ArenaSport 4A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 #EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://i.ibb.co/B6qKLhg/as5.jpg" group-title="13.SPORT", 380.ArenaSport 5A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
 #EXTINF:-1 tvg-id="Arena Sport 6.ba" tvg-logo="https://i.ibb.co/7CpGswn/as6.jpg" group-title="13.SPORT", 380.ArenaSport 6A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1177,30 +1177,30 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QkD0Kn5/asport.jpg" group-title="13.SPORT", 380.Arena Sport PL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 #EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://i.ibb.co/3fjkfhm/a1p.jpg" group-title="13.SPORT", 380.Arena Sport Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
 #EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://i.ibb.co/Xb0R7qr/a2p.jpg" group-title="13.SPORT", 380.Arena Sport Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
 #EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co/6Dt59zY/a3p.jpg" group-title="13.SPORT", 380.Arena Sport Premium 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -1340,7 +1340,7 @@ http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/dzes2.png" group-title="13.SPORT", DAZN ES 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2PJzsZ/dzan.png" group-title="13.SPORT", DAZN ES 2
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
