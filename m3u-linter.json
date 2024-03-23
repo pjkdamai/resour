@@ -1376,6 +1376,51 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005fad32eb7fe7f488093e851d71c5f:6342118978914afbc5fec26e93168b64
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="Sky Sports (MT)",Sky Sports Main Event
+https://linear018-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="Sky Sports (MT)",Sky Sports MotoGP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sky Sports (MT)",Sky Sports F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003cbfae95b7b788879af8addd77635:c3510d26e94e19c65f73f0f57fa045f3
+https://linear028-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_720_30/Live/channel(sportsf150)/manifest_mob.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005598a4d0f91328444c6fcdea04acb:ab03caec7a18da1fa6a8f306d91715a1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="Sky Sports (MT)",Sky Sports Football
+https://linear027-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png" group-title="Sky Sports (MT)",Sky Sports Premier League
+https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b4856d9b1eb17e459f4ad4f480b7e:1162c56a12e96ecd7afba37a3d650201
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Sport_Bundesliga_1_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_1_DE_Logo_2020.svg.png" group-title="Sky Sports (MT)",Sky Sports Bundes 1
+http://trial.qtv.my.id/skybundes1.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b0e25c61df5358bd1c4f3f5ab90d2:bd346e7500fc3fbb0f1a8fd54c5b9f79
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/8/86/Sky_Sport_Bundesliga_2_Logo_2020.png" group-title="Sky Sports (MT)",Sky Sports Bundes 2
+http://trial.qtv.my.id/skybundes2.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000b37f8448ff52016fec4c763aa1c00:9d30e9752ed5c8526ad987a694770ab2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/de/Sky_Sport_Bundesliga_3_Logo_2020.png" group-title="Sky Sports (MT)",Sky Sports Bundes 3
+http://trial.qtv.my.id/skybundes3.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+
+
+
+
 #EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇸🇬
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
