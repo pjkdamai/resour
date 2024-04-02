@@ -1494,27 +1494,29 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
-#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 1
+#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 01
 https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
-#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 2
+#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport2_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 02
 https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
-#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 3 
+#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 03 
 https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
 
 #EXTINF:-1 tvg-id="Star Sports Select 1.in" tvg-logo="https://i.ibb.co/tMqPvc9/starselect1.png" group-title="13.SPORT",Star Sports Select 1 🇮🇳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80fd009ededd3fbda3808dd627fc1693:5e63bd38e1d5a8852f35a5d492ec0279
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="Star Sports Select 2.in" tvg-logo="https://i.ibb.co/dsT5Ghk/starselect2.png" group-title="13.SPORT",Star Sports Select 2 🇮🇳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df96756d26e6393697a1aa8821378e2a:1c2eb0f472874cdcd9e3f2615f677315
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://liveb.streamready.in/starsportsselect2/smil:common.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="VIAPLAY" tvg-logo="https://i.ibb.co/c6KPdSr/viaplay.png" group-title="13.SPORT",Viaplay 🇸🇪
