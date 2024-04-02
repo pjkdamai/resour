@@ -1507,26 +1507,71 @@ https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/man
 #EXTINF:-1 group-title="13.SPORT" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 3 
 https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wyCdzTN/kplusp1.png" group-title="13.SPORT",K+ Sport1 🇻🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://laotv.la
-https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/K+Sport1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p0kcdXG/kplusp2.png" group-title="13.SPORT",K+ Sport2 🇻🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://laotv.la
-https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/K+Sport2/index.m3u8
-
-#EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="" group-title="13.SPORT" tvg-logo="https://i.ibb.co/wRWZkWs/spotv.png",SPO TV 🇲🇾
+#EXTINF:-1 tvg-id="Star Sports Select 1.in" tvg-logo="https://i.ibb.co/tMqPvc9/starselect1.png" group-title="13.SPORT",Star Sports Select 1 🇮🇳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-https://cor-coran.theriumworld29.workers.dev/dash-wv/linear/5058/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=80fd009ededd3fbda3808dd627fc1693:5e63bd38e1d5a8852f35a5d492ec0279
+https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-name="" group-title="13.SPORT" tvg-logo="https://i.ibb.co/ZM8qx15/spotv2.png",SPO TV 2 🇲🇾
+#EXTINF:-1 tvg-id="Star Sports Select 2.in" tvg-logo="https://i.ibb.co/dsT5Ghk/starselect2.png" group-title="13.SPORT",Star Sports Select 2 🇮🇳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-https://cor-coran.theriumworld29.workers.dev/dash-wv/linear/5079/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=df96756d26e6393697a1aa8821378e2a:1c2eb0f472874cdcd9e3f2615f677315
+https://liveb.streamready.in/starsportsselect2/smil:common.smil/manifest.mpd
 
+#EXTINF:-1 tvg-id="VIAPLAY" tvg-logo="https://i.ibb.co/c6KPdSr/viaplay.png" group-title="13.SPORT",Viaplay 🇸🇪
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
+https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
+
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-logo="https://i.ibb.co/th3Jn1C/viaplaysp1.png" group-title="13.SPORT",Viaplay SPORTS 1 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4ace310f235981bef56897fe94e766:06383cd4cdcc92bb3e83d8ea49245472
+https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports1uk/vpsports1uk.isml/index.mpd
+
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-logo="https://i.ibb.co/RCRgqDn/viaplaysp2.png" group-title="13.SPORT",Viaplay SPORTS 2 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fe6d9cf50835945881cb56a38839fce:213ad868126fd2cb352b189b07b25421
+https://cors-proxy.cluster.fun/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vpsports2uk/vpsports2uk.isml/index.mpd
+
+#EXTINF:-1 tvg-id="V Sport 1" tvg-logo="https://i.ibb.co/PQwT2fS/vsport1.png" group-title="13.SPORT",V Sport 1 🇸🇪
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="V Sport Extra" tvg-logo="https://i.ibb.co/5Gg10wg/vsportxtra.png" group-title="13.SPORT",V Sport EXTRA 🇸🇪
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
+https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+
+#EXTINF:-1 tvg-id="V Sport Football" tvg-logo="https://i.ibb.co/hWDYVJx/vsportfootball.png" group-title="13.SPORT",V Sport FOOTBALL 🇸🇪
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
+https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+
+#EXTINF:-1 tvg-id="V Sport Premium" tvg-logo="https://i.ibb.co/gFY7QKF/vsportpremium.png" group-title="13.SPORT",V Sport PREMIUM 🇸🇪
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#EXTINF:-1 tvg-id="V Sport Ultra HD" tvg-logo="https://i.ibb.co/vsRLWMF/vsportuhd.png" group-title="13.SPORT",V Sport UHD 🇸🇪
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
+https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
 
 =================================================================================##### MUSIK-RADIO #####==========================================================================
 
