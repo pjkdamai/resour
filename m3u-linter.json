@@ -165,7 +165,7 @@ ch.close();
         "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/TwitchProvider.cs3",
         "name": "TwitchProvider"
     }
-]=0
+]
 
 
 
@@ -349,7 +349,9 @@ ch.close();
 
 
 
-
+<head>
+<meta http-equiv='refresh' content='0; URL=https://www.hops.id/unik/2948046789/lirik-lagu-insan-biasa-lesti-kejora-mirip-kisah-rumah-tangga-lesti-kejora-dan-rizky-billar'>
+<script>
 
 
 ------------------------------- PLAYLIST GRATIS--------------------------
@@ -1490,28 +1492,6 @@ https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/li
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png" group-title="13.SPORT", USA NETWORK
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png" group-title="13.SPORT",Unifi Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1785&mag_hms=1785,1793,1786,1788&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
-
-#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png", ELEVEN SPORT 1 BEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1716799712c744198e1a1c9d354dda6d:a148e55e5535bbfb7dc24c224d2683e4
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague1nl/Manifest.mpd
-
-#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png", ELEVEN SPORT 2 BEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
-
-#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png", ELEVEN SPORT 3 BEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
 #EXTINF:-1 group-title="13.SPORT" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 1
@@ -1527,19 +1507,33 @@ https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/man
 #EXTINF:-1 group-title="13.SPORT" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport3_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 3 
 https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", tvg-id="ksport1hd" group-title="13.SPORT", Spotv mpd
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL | Canal + Sport HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="13.SPORT",Canal Sport HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4e942b1dad92436baad0c6a6901f6d13":"5adefdb3f4edd5ceee23d37c10c37e5c","5fb92575d7da45219e9a88646cd3e243":"31d1f1df9c246eb734de1be0f6bf6acf","7c35f5ae279941b7be726157476d7031":"53dcc0a61387ce3fa3bfa290a9bc80c7","7cd69bed1cc54d83bd7f988f622c1157":"332e0a856cdfcd7a1d6da6dcf84633a7"}
+https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png", tvg-id="ksport1hd" group-title="13.SPORT", Spotv 2 mpd
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL | Canal + Sport 2 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussport2hd.png" group-title="13.SPORT",Canal Sport 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4f7fa9f0250a43cea8aebd8167f1fc81":"f6bbc783b0e7a46a147e673a4347730a","f5c080517f6c4366b1930315a6aa70e7":"581eba7045254d1de036557789932a05","89787fecb0ac43ab86aa356054e2a183":"f0153c6dc5c55c5f23fcdeed8241d5e4"}
+https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport2HD/hd2-dashdrm02/CplusSport2HD.mpd
+
+#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="PL | Canal + Sport 3 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="13.SPORT",Canal Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"274cafc63e854f9ca14acbc49af103a0":"4dc63ff74dc5415f3c0c63b62f8fedaa","b4274e5bdb7e4370bb87af609a74a64e":"4763cbd2fa26f4de8bead22db09b0f46","009d1ea463574791a88e5d008f7ab15c":"fa4812bd0d608c2f8bfeb02fb213320d"}
+https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport3HD/hd2-dashdrm02/CplusSport3HD.mpd
+
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL | Canal + Sport 4 HD" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/canalplussporthd.png" group-title="13.SPORT",Canal Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bdcfde35c73f4c2dbd628fa3694010b9":"96a0683d85cc793eeb116b94731b2a4e","638d2f06b75c4341a990ebebae2055ae":"493508c2f5af5428bb8e09da1207324c"}
+https://cors-proxy.cluster.fun/https://ec01-tpnet-waw.cdn-canalplus.pl/live/store01/CplusSport4HD/hd2-dashdrm02/CplusSport4HD.mpd
 
 
 
@@ -2031,3 +2025,240 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgbab/master.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgnb/master.m3u8
 
+<style type="text/css">html { padding-top: 26px; } #xt_auth_iframe { position: fixed; top: 0; left: 0; background: transparent; }</style><iframe id="xt_auth_iframe" allowTransparency="true" scrolling="no" frameBorder="0" style="width: 100%; border: 0; height: 26px;" src="https://xtgem.com/__xt_authbar?data=eyJ1cmwiOiJodHRwOlwvXC90dm5pZC53YXBnZW0uY29tXC9hc3dhamEubTN1OCIsImxvZ2dlZF9pbiI6ZmFsc2UsImRvbWFpbiI6InR2bmlkLndhcGdlbS5jb20iLCJwb3NpdGlvbiI6eyJhYnNvbHV0ZSI6ImZpeGVkIn19"></iframe><br /><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><div id="st1712070481" style="z-index:999999;z-index:999999999;"><span id="a1712070481"><a href="http://xtgem.com/click?p=forums_catalog_web&amp;u=__urlaHR0cDovL3h0Z2VtLmNvbS9mb3J1bXM/YWQ9MQ==&amp;s=tvnid.wapgem.com&amp;t=KhscHR8eGAAFCgIZAgMADg0ODw4LCwl5dA==&amp;_is_adult=No&amp;_ad_pos=Bottom&amp;_ad_format=Plain&amp;_ad_url=dHZuaWQud2FwZ2VtLmNvbS9hc3dhamEubTN1OA==&amp;_ad_networks=&amp;_ad_type=Banner" target="_blank"><img src="http://xtgem.com/images/forum/xtgem-forums.jpg" alt="XtGem Forum catalog"></a></span>        <style type="text/css">
+            #st1712070481 *
+            {
+                box-sizing:content-box !important;
+            }
+
+            #st1712070481 a
+            {
+                display: inline-block !important;
+                vertical-align: top;
+                padding: 0; margin: 0;
+            }
+
+            #st1712070481 a img
+            {
+                display: inline-block !important;
+            }
+
+            #st1712070481 ._xt_ad_close, #st1712070481 ._xt_ad_close_internal
+            {
+                display: inline-block !important;
+                position: absolute !important;
+                right: 6px !important;
+                width: 20px !important;
+                height: 20px !important;
+                cursor: pointer;
+            }
+
+            #st1712070481 ._xt_ad_close
+            {
+                top: -10px !important;
+            }
+
+            #st1712070481 ._xt_ad_close_internal
+            {
+                border: 6px solid transparent;
+                top: -12px !important;
+                right: 3px !important;
+            }
+
+            #a1712070481
+            {
+                display: inline-block !important;
+                position: relative !important;
+                text-align: left !important;
+                visibility: visible !important;
+                max-width: 100% !important;
+                max-height: none !important;
+                z-index:999999 !important;
+                z-index:999999999 !important;
+            }
+
+            #a1712070481 img
+            {
+                max-width: none !important;
+                max-height: none !important;
+                width: auto !important;
+                height: auto !important;
+                min-width: 0 !important;
+                min-height: 0 !important;
+            }
+
+            .fba1712070481
+            {
+                color: #1D1EEB !important;
+                background-color: #fff !important;
+                padding: 10px 50px 10px 10px !important;
+                border: 1px solid #2C2C2C !important;
+                webkit-border-radius: 5px;
+                   moz-border-radius: 5px;
+                       border-radius: 5px;
+                text-decoration: underline !important;
+                font-weight: bold !important;
+                display: block !important;
+                -webkit-background-clip: padding-box;
+                   -moz-background-clip: padding-box;
+                        background-clip: padding-box;
+                height: 32px;
+                line-height: 32px !important;
+                background-image: url(//xtgem.com/images/arrow.gif) !important;
+                background-repeat: no-repeat !important;
+                background-position: 95% center !important;
+            }
+
+            .fbp1712070481
+            {
+                position: relative !important;
+                display: block !important;
+                width:320px !important;
+                height:50px !important;
+                text-align:left !important;
+                background-color: #fff !important;
+                -moz-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                -webkit-box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
+                padding: 3px !important;
+                border-radius: 3px !important;
+                border: 1px solid #6bc135 !important;
+                text-decoration: underline !important;
+            }
+
+            .fbp_txt1712070481
+            {
+                position:relative !important;
+                display: inline-block !important;
+                min-width: 200px;
+                max-width: 200px;
+                height:50px !important;
+                vertical-align: top !important;
+                line-height:50px !important;
+                margin-left: 6px !important;
+                text-align: left !important;
+                color: #0274d4 !important;
+                font-family: Helvetica, Arial, sans-serif !important;
+                font-size: 13px !important;
+                font-weight: bold !important;
+                text-decoration: underline !important;
+            }
+
+            .fbp_ico1712070481
+            {
+                position: absolute !important;
+                right: 10px !important;
+                height: 50px !important;
+                line-height: 46px !important;
+                vertical-align: top !important;
+                color: #6bc135 !important;
+            }
+
+            #st1712070481 .rolling_ad { display: none !important; }
+            #st1712070481 .rolling_ad.roll_on { display: inline-block !important; }
+        </style></div><script type="text/javascript" src="http://xtgem.com/js/page_templates.js"></script><div style="display:none"><script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-0cfM8Oh7M9bVQ"
+});
+</script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-0cfM8Oh7M9bVQ.gif" border="0" height="1" width="1" alt=""/>
+</noscript></div><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><script type="text/javascript" id="xtjs">                (function (){
+
+                    var d, b, ad_pos = false, el_rolling_ads, html, el, el_inner, el_new = '', i = 0;
+
+                    function xt_cache () {
+                        d = document;
+                        b = d.getElementsByTagName('body')[0];
+                        html = d.documentElement;
+                        el = d.getElementById( 'st1712070481' );
+                        el_inner = d.getElementById( 'a1712070481' );
+                        el_rolling_ads = el.getElementsByClassName( 'rolling_ad' );
+                    }
+
+                    xt_cache();
+
+                        if ( el.children[ 0 ] !== el_inner && el.children[ 0 ].tagName == "A" ) {
+
+                            for ( i = 1; i < el.children.length; i++ ) {
+                                el_new += el.children[i].outerHTML;
+                            }
+
+                            el.innerHTML = el_inner.outerHTML.split( '>' )[ 0 ] + '>' + el_new + '</span>';
+
+                            xt_cache();
+                        }
+                        else if ( el.offsetParent === null ) {
+                            b.insertBefore( el, b.firstChild );
+
+                            xt_cache();
+                            ad_pos = true;
+                        }
+
+                        if (d.getElementById('kosmos-banner')) {
+                            ad_pos = true;
+                        }
+
+                        el.style.display="block";
+                        el.style.textAlign="center";
+                        el.style.position="fixed";
+                        if ( ad_pos ) { el.style.top=10+"px"; el.style.bottom='auto'; } else { el.style.bottom=10+"px"; }
+                        el.style.left="0";
+                        el.style.right="0";
+                        el.style.height="1px";
+
+                        var el_imgs = el.getElementsByTagName( 'IMG' );
+                        for (i=0,len=el_imgs.length; i<len; i++) { el_imgs[i].onload = fix_height; }
+
+                        function fix_height () {
+                            el.style.marginBottom = el_inner.offsetHeight+"px";
+                            if ( ad_pos ) {
+                                html.style.paddingTop = el_inner.offsetHeight+9+"px";
+                            } else {
+                                html.style.paddingBottom = el_inner.offsetHeight+9+"px";
+                            }
+                        }
+
+                        setTimeout(function(){fix_height();},200);
+
+                        var closebutton = d.createElement('IMG');
+                            closebutton.src = '//xtgem.com/images/close2.png?v=0.01';
+                            closebutton.alt = '[x]';
+                            closebutton.setAttribute( 'class', '_xt_ad_close' );
+                            closebutton.onclick = function () { closebutton.setAttribute( 'style', 'display: none !important' ); el.style.position = 'static';  closebutton.onclick = null; html.style.paddingBottom = '0'; html.style.paddingTop = '0'; if ( d.getElementById('wr1712070481') ) { d.getElementById('wr1712070481').style.bottom = '0'; } };
+                            el_inner.appendChild(closebutton);
+
+                        // lets roll ads if needed
+                        if ( el_rolling_ads )
+                        {
+                            function roll_ads () {
+                                var i = 0,
+                                    len = el_rolling_ads.length,
+                                    curr_ad,
+                                    next_ad,
+                                    first_ad = el_rolling_ads[ 0 ];
+
+                                for ( ; i < len; i++) {
+                                    curr_ad = el_rolling_ads[ i ];
+                                    next_ad = el_rolling_ads[ i + 1 ] ? el_rolling_ads[ i + 1 ] : first_ad;
+
+                                    if ( curr_ad.className.indexOf( ' roll_on' ) !== -1 ) {
+                                        curr_ad.className = curr_ad.className.replace(' roll_on', '');
+                                        next_ad.className = next_ad.className + ' roll_on';
+                                        break;
+                                    }
+                                }
+                                setTimeout(roll_ads, 3500);
+                            }
+                            roll_ads();
+                        }
+                }());</script>
