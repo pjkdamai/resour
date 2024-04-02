@@ -19,11 +19,7 @@
 
 </head>
  
-<noscript>
-
-
-
-{
+<noscript>{
   "files": ["streams/*.m3u"],
   "rules": {
     "no-empty-lines": true,
@@ -39,6 +35,7 @@
     "no-dash": true
   }
 }
+<noscript>
 !/usr/bin/env python3
 
 from urllib.parse import urlparse;
@@ -131,8 +128,7 @@ print('\t\t%s:%s'%(
 
 ch.close();
 
-
-[
+<script>[
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
         "apiVersion": 1,
@@ -169,7 +165,7 @@ ch.close();
         "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/TwitchProvider.cs3",
         "name": "TwitchProvider"
     }
-]
+]=0
 
 
 
