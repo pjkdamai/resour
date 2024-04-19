@@ -376,11 +376,11 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="13246" tvg-name="TVRI" tvg-logo="https://i.imgur.com/NlDPik4.png" group-title="Indonesia",TVRI
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -396,7 +396,10 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1 tvg-id="13358" tvg-name="Kompas TV" tvg-logo="https://i.imgur.com/hjnrwSZ.png" group-title="Indonesia",Kompas TV 1
-#https://link.zozotv.xyz:443/rozila969/abc12345/143
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 
 #EXTINF:-1 tvg-id="13358" tvg-name="Kompas TV" tvg-logo="https://i.imgur.com/hjnrwSZ.png" group-title="Indonesia",Kompas TV 2
 https://sonar.ytlive.workers.dev/stream/BBzdSRt-zSQ/master.m3u8
@@ -421,6 +424,10 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-id="13340" tvg-name=" Inews TV" tvg-logo="https://i.imgur.com/4lcK9zI.png" group-title="Indonesia", Inews TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-inews.rctiplus.id/inews-sdi.mpd
 
 #EXTINF:-1 tvg-id="13298" tvg-name="RCTI" tvg-logo="https://i.imgur.com/pwp8PCp.png" group-title="Indonesia",RCTI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -467,14 +474,28 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="13403" tvg-name="Trans 7" tvg-logo="https://i.imgur.com/odO3m5j.png" group-title="Indonesia",Trans 7 1
-#https://link.zozotv.xyz:443/rozila969/abc12345/44
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #EXTINF:-1 tvg-id="13376" tvg-name="Trans TV" tvg-logo="https://i.imgur.com/ZgWd7YU.png" group-title="Indonesia",Trans TV 
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="13376" tvg-name="Trans TV" tvg-logo="https://i.imgur.com/ZgWd7YU.png" group-title="Indonesia",Trans TV 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+
 #EXTINF:-1 tvg-id="13401" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/6b24FpG.png" group-title="Indonesia",Indosiar 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2newG1/9OKqDp3L9S/621
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-id="13401" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/6b24FpG.png" group-title="Indonesia",Indosiar1
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 tvg-id="13308" tvg-name="ANTV" tvg-logo="https://i.imgur.com/ljrA5oq.png" group-title="Indonesia",ANTV 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -506,9 +527,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-id="09" tvg-name="Kompas TV" tvg-logo="https://i.imgur.com/6qGkkTs.png" group-title="Indonesia",Net tv 1
 #https://link.zozotv.xyz:443/rozila969/abc12345/50
 
-#EXTINF:-1 tvg-id="09" tvg-name="Inews" tvg-logo="https://i.imgur.com/4lcK9zI.png" group-title="Indonesia",INews
-#https://link.zozotv.xyz:443/rozila969/abc12345/51
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="13719" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/ziPJ8IB.png" group-title="Indonesia",CNN Indonesia 1
@@ -526,7 +544,10 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-id="13740" tvg-name="RTV" tvg-logo="https://i.imgur.com/AJc5fqy.png" group-title="Indonesia",RTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
 
 
