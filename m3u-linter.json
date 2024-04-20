@@ -382,10 +382,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="13246" tvg-name="TVRI" tvg-logo="https://i.imgur.com/NlDPik4.png" group-title="Indonesia",TVRI word
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
 
 #EXTINF:-1 tvg-id="13246" tvg-name="TVRI" tvg-logo="https://i.imgur.com/NlDPik4.png" group-title="Indonesia",TVRI sport
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
@@ -399,9 +398,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
-
-#EXTINF:-1 tvg-id="13358" tvg-name="Kompas TV" tvg-logo="https://i.imgur.com/hjnrwSZ.png" group-title="Indonesia",Kompas TV 2
-https://sonar.ytlive.workers.dev/stream/BBzdSRt-zSQ/master.m3u8
 
 #EXTINF:-1 tvg-id="13357" tvg-name="Kompas TV" tvg-logo="https://i.imgur.com/Ws2Femw.png" group-title="Indonesia",moji 1
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
@@ -467,9 +463,6 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd|user-agent=mozilla/8
 #EXTINF:-1 tvg-id="13249" tvg-name="SCTV" tvg-logo="https://i.imgur.com/DEdfdLw.png" group-title="Indonesia",SCTV 2
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-id="13249" tvg-name="SCTV" tvg-logo="https://i.imgur.com/DEdfdLw.png" group-title="Indonesia",SCTV 3
-#https://link.zozotv.xyz:443/rozila969/abc12345/46
-
 #EXTINF:-1 tvg-id="13403" tvg-name="Trans 7" tvg-logo="https://i.imgur.com/odO3m5j.png" group-title="Indonesia",Trans 7 
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
@@ -504,18 +497,18 @@ https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/indosiar.m3u8
 #EXTINF:-1 tvg-id="13308" tvg-name="ANTV" tvg-logo="https://i.imgur.com/ljrA5oq.png" group-title="Indonesia",ANTV 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-id="13367" tvg-name="TV One" tvg-logo="https://i.imgur.com/9Xx8Eap.png" group-title="Indonesia",TV One 2
+#EXTINF:-1 tvg-id="13367" tvg-name="TV One" tvg-logo="https://i.imgur.com/9Xx8Eap.png" group-title="Indonesia",TV One 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="13367" tvg-name="TV One" tvg-logo="https://i.imgur.com/9Xx8Eap.png" group-title="Indonesia",TV One 3
+#EXTINF:-1 tvg-id="13367" tvg-name="TV One" tvg-logo="https://i.imgur.com/9Xx8Eap.png" group-title="Indonesia",TV One 1
 http://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="13364" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/Ltj4njn.png" group-title="Indonesia",Metro TV 3
+#EXTINF:-1 tvg-id="13364" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/Ltj4njn.png" group-title="Indonesia",Metro TV 
 http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
