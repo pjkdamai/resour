@@ -492,8 +492,14 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png",91 TV One 1
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png",01 TV One 1
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png",01 TV One 2
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -537,6 +543,12 @@ https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/indosiar.m3u8
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png",05 ANTV 1
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png",05 ANTV 2
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
+
 #EXTINF:-1 tvg-name="Trans TV" tvg-id="TransTV.id" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_transtv.png",06 Trans TV 1
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
@@ -574,8 +586,14 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png",Metro TV 
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png",Metro TV 1
 http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png",Metro TV 2
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png",11 Kompas TV 1
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
@@ -604,7 +622,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.ibb.co/VQ9SbjM/Untitled-3-03.png" group-title="NASIONAL",13 CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="rtv.id" tvg-name="rtv" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rtv.png" group-title="NASIONAL",14 RTV
+#EXTINF:-1 tvg-id="rtv.id" tvg-name="rtv" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rtv.png" group-title="NASIONAL",14 RTV 1
+http://210.210.155.37/uq2663/h/h10/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv.id" tvg-name="rtv" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rtv.png" group-title="NASIONAL",14 RTV 2
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
