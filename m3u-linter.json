@@ -1453,7 +1453,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
-#EXTINF:-1 group-title="Pengetahuan"KNOWLEDGE tvg-logo="https://dl.dropboxusercontent.com/s/72sqnvzggklsllz/animalplanet.png", Animal Planet
+#EXTINF:-1 group-title="KNOWLEDGE"KNOWLEDGE tvg-logo="https://dl.dropboxusercontent.com/s/72sqnvzggklsllz/animalplanet.png", Animal Planet
 https://raw.githubusercontent.com/eepunx/cancan/main/anim
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropboxusercontent.com/s/rvxizpk5qmtsdc0/natgeo.png" , National Geograpic
