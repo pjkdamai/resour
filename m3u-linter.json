@@ -2091,14 +2091,15 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-name="Rai Sport Ⓖ" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" group-title="SPORTS",Rai Sport
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 tvg-name="Alkass One" tvg-logo="https://i.imgur.com/rdGWDUY.png" tvg-id="AlkassOne.qa" group-title="SPORTS",Alkass One
-https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassOne
+#https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassOne
 #EXTINF:-1 tvg-name="Alkass Two" tvg-logo="https://i.imgur.com/vAqaXPs.png" tvg-id="AlkassTwo.qa" group-title="SPORTS",Alkass Two
-https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassTwo
+#https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassTwo
 #EXTINF:-1 tvg-name="Alkass Three" tvg-logo="https://i.imgur.com/Y2Eftqe.png" tvg-id="AlkassThree.qa" group-title="SPORTS",Alkass Three
-https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassThree
+#https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassThree
 #EXTINF:-1 tvg-name="Alkass Four" tvg-logo="https://i.imgur.com/xIxqZSY.png" tvg-id="AlkassFour.qa" group-title="SPORTS",Alkass Four
-https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassFour
+#https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassFour
 
 
 
