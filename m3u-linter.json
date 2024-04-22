@@ -2085,6 +2085,27 @@ https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/da
 #EXTINF:-1 tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/kFdooR4.png" tvg-id="Match.ru" group-title="SPORTS",Матч
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
 
+#EXTINF:0 tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAcs80nU4q8F8gi5KS1-5EqMdU3sDWnsZ-w&usqp=CAU" group-title="SPORTS",Bein Alkass 1 HD
+http://m-iptv.net:6204/live/miran/123/7045.m3u8
+#EXTINF:0 tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAcs80nU4q8F8gi5KS1-5EqMdU3sDWnsZ-w&usqp=CAU" group-title="SPORTS",Bein Alkass 2 HD
+http://m-iptv.net:6204/live/miran/123/7046.m3u8
+#EXTINF:0 tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAcs80nU4q8F8gi5KS1-5EqMdU3sDWnsZ-w&usqp=CAU" group-title="SPORTS",Bein Alkass 3 HD
+http://m-iptv.net:6204/live/miran/123/14446.m3u8
+#EXTINF:0 tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAcs80nU4q8F8gi5KS1-5EqMdU3sDWnsZ-w&usqp=CAU" group-title="SPORTS",Bein Alkass 4 HD
+http://m-iptv.net:6204/live/miran/123/7047.m3u8
+#EXTINF:0 tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAcs80nU4q8F8gi5KS1-5EqMdU3sDWnsZ-w&usqp=CAU" group-title="SPORTS",Bein Alkass 5 HD
+http://m-iptv.net:6204/live/miran/123/7050.m3u8
+
+
+
+
+
+
+
+
+
+
+
 #================================WarKop DKI================================#
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RNxqhxz/Warkop1.jpg" group-title="WarKop DKI", Warkop DKI Reborn: Jangkrik Boss! Part 1 (2016)
