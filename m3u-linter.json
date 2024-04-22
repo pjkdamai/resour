@@ -2085,19 +2085,20 @@ https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/da
 #EXTINF:-1 tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/kFdooR4.png" tvg-id="Match.ru" group-title="SPORTS",Матч
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
 
-#EXTINF:0 tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAcs80nU4q8F8gi5KS1-5EqMdU3sDWnsZ-w&usqp=CAU" group-title="SPORTS",Bein Alkass 1 HD
-http://m-iptv.net:6204/live/miran/123/7045.m3u8
-#EXTINF:0 tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAcs80nU4q8F8gi5KS1-5EqMdU3sDWnsZ-w&usqp=CAU" group-title="SPORTS",Bein Alkass 2 HD
-http://m-iptv.net:6204/live/miran/123/7046.m3u8
-#EXTINF:0 tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAcs80nU4q8F8gi5KS1-5EqMdU3sDWnsZ-w&usqp=CAU" group-title="SPORTS",Bein Alkass 3 HD
-http://m-iptv.net:6204/live/miran/123/14446.m3u8
-#EXTINF:0 tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAcs80nU4q8F8gi5KS1-5EqMdU3sDWnsZ-w&usqp=CAU" group-title="SPORTS",Bein Alkass 4 HD
-http://m-iptv.net:6204/live/miran/123/7047.m3u8
-#EXTINF:0 tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuAcs80nU4q8F8gi5KS1-5EqMdU3sDWnsZ-w&usqp=CAU" group-title="SPORTS",Bein Alkass 5 HD
-http://m-iptv.net:6204/live/miran/123/7050.m3u8
-
-
-
+#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://i.imgur.com/Mut2omN.png" tvg-id="CCTV5.cn" group-title="SPORTS",CCTV-5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://i.imgur.com/UNjmQVS.png" tvg-id="CCTV5Plus.cn" group-title="SPORTS",CCTV-5+
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-name="Rai Sport Ⓖ" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" group-title="SPORTS",Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-name="Alkass One" tvg-logo="https://i.imgur.com/rdGWDUY.png" tvg-id="AlkassOne.qa" group-title="SPORTS",Alkass One
+https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassOne
+#EXTINF:-1 tvg-name="Alkass Two" tvg-logo="https://i.imgur.com/vAqaXPs.png" tvg-id="AlkassTwo.qa" group-title="SPORTS",Alkass Two
+https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassTwo
+#EXTINF:-1 tvg-name="Alkass Three" tvg-logo="https://i.imgur.com/Y2Eftqe.png" tvg-id="AlkassThree.qa" group-title="SPORTS",Alkass Three
+https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassThree
+#EXTINF:-1 tvg-name="Alkass Four" tvg-logo="https://i.imgur.com/xIxqZSY.png" tvg-id="AlkassFour.qa" group-title="SPORTS",Alkass Four
+https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassFour
 
 
 
