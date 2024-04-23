@@ -2127,14 +2127,30 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/ou
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",CANAL+ SPORT 1
-http://146.59.70.61:8880/297/token=0e318668ba9b1d41dd3333/video.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",CANAL+ SPORT 2
-http://146.59.70.61:8880/298/token=0e318668ba9b1d41dd3333/video.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",CANAL+ SPORT 3
-http://146.59.70.61:8880/340/token=0e318668ba9b1d41dd3333/video.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",CANAL+ SPORT 4
-http://146.59.70.61:8880/341/token=0e318668ba9b1d41dd3333/video.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8|origin=https://claplivehdplay.ru/
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 2
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8|origin=https://claplivehdplay.ru/
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 3
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8|origin=https://claplivehdplay.ru/
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 4
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8|origin=https://claplivehdplay.ru/
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 5
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NFGNs5T/tudn.png" group-title="SPORTS", TUDN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2257,34 +2273,19 @@ http://210.210.155.37/uq2663/h/h25/index.m3u8
 https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6cvFpkxs-56KdzsuVQSf9MR7SfhwdHGWTA&usqp=CAU", Fox Sports 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a5ee0465846b56021136c6c69741375:a273d74c9c9269c0793862da41cf41b9
-#https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS)/master.mpd
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium767/index.m3u8|origin=https://claplivehdplay.ru/
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGT62seMX8WkTotuetFE9h6QUhuklNBbHyBQ&usqp=CAU", Fox Sports 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6e347e55f793df11e4ed7fc4ca397dd:ccc0df4145157aa753e61a3940603d0b
-#https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS_2)/master.mpd
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium788/index.m3u8|origin=https://claplivehdplay.ru/
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCd7UvOnIlL9uu_y9luBnTQtB4G0f-jSvNyQ&usqp=CAU", Fox Sports 3
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07d6de0963faf991eadde57c90605350:214f8c082dfb8ba30c28d1034f5c1eb2
-#https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS_3)/master.mpd
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium789/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/cw9h4hzhxiyqh9z/dubaisports.png",Dubai Sports 1
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
@@ -2304,8 +2305,9 @@ https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChanne
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/HLS/variant.m3u8
  
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/0uzffo0lbbxfd29/adsports3.png", ABU DHABI SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel4/HLS/variant.m3u8
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://webhdrus.onlinehdhls.ru/lb/premium609/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nbuimwqqvhc4brm/images%20%282%29.jpeg" group-title="SPORTS", STADIUM
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
