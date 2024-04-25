@@ -2137,7 +2137,7 @@ https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|origin=https://claplivehdplay.ru/
-https://ctrl.laotv.la/live/ASSP1/index.m3u8
+https://ctrl.laotv.la/live/Assp1/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",ASSP 2
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
@@ -5044,7 +5044,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC CUP", AFC CUP 🇮🇩
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/rcti.m3u8
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/Rcti.m3u8
 
 #EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC CUP", AFC CUP 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
