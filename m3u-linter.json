@@ -1971,43 +1971,52 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
- 
+#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
+
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein2.png" group-title="SPORTS",beiN Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
- 
+#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein3.png" group-title="SPORTS",beiN Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein4.png" group-title="SPORTS",beiN Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein5.png" group-title="SPORTS",beiN Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein6.png" group-title="SPORTS",beiN Sport 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein7.png" group-title="SPORTS",beiN Sport 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 #EXTINF:-1 tvg-id="Fox Deportes en Español (U.S.)" tvg-logo="https://i.ibb.co/58HXy9T/foxdeportes.png" group-title="SPORTS",FOX DEPORTES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2134,6 +2143,26 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/kFdooR4.png" tvg-id="Match.ru" group-title="SPORTS",Матч!
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
 
+#EXTINF:-1 tvg-id="AstroArena" group-title="sports mpd" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",Astro Arena
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+#EXTVLCOPT:http-referrer=https://csds-astro.astro.com.my
+#EXTVLCOPT:http-referrer=https://linear-poster.astro.com.my
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/2604/default.mpd
+
+#EXTINF:-1 tvg-id="AstroArena" group-title="sports mpd" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",Astro Arena 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+#EXTVLCOPT:http-referrer=https://csds-astro.astro.com.my
+#EXTVLCOPT:http-referrer=https://linear-poster.astro.com.my
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",ASSP 1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
@@ -2152,7 +2181,15 @@ https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|origin=https://claplive
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",ASSP 4
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|origin=https://claplivehdplay.ru/
+#https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|origin=https://claplivehdplay.ru/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+#EXTVLCOPT:http-referrer=https://csds-astro.astro.com.my
+#EXTVLCOPT:http-referrer=https://linear-poster.astro.com.my
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/2506/default.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/b5jnn0j8lk9lo9w/truepremierfootball1.png" group-title="SPORTS",True Premiere 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
