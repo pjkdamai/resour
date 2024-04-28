@@ -2143,7 +2143,7 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/kFdooR4.png" tvg-id="Match.ru" group-title="SPORTS",Матч!
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
 
-#EXTINF:-1 tvg-id="AstroArena" group-title="sports mpd" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",Astro Arena
+#EXTINF:-1 tvg-id="AstroArena" group-title="SPORTS" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",Astro Arena
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2153,7 +2153,7 @@ https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTVLCOPT:http-referrer=https://linear-poster.astro.com.my
 https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/2604/default.mpd
 
-#EXTINF:-1 tvg-id="AstroArena" group-title="sports mpd" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",Astro Arena 2
+#EXTINF:-1 tvg-id="AstroArena" group-title="SPORTS" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",Astro Arena 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2161,7 +2161,7 @@ https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 #EXTVLCOPT:http-referrer=https://csds-astro.astro.com.my
 #EXTVLCOPT:http-referrer=https://linear-poster.astro.com.my
-https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",ASSP 1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
