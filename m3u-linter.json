@@ -1977,12 +1977,12 @@ https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/5066/default_primary.mpd
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein3.png" group-title="SPORTS",beiN Sport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/2705/default_primary.mpd
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein4.png" group-title="SPORTS",beiN Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
