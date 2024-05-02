@@ -525,7 +525,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="NASIONAL",04 Indosiar 2
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/indosiar.m3u8
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png",05 ANTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
@@ -543,7 +543,8 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/transtv.m3u8
 
 #EXTINF:-1 tvg-name="Trans 7" tvg-id="Trans7.id" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trans7.png",07 Trans 7 1
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/trans7.m3u8
 
 #EXTINF:-1 tvg-name="Trans 7" tvg-id="Trans7.id" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trans7.png",07 Trans 7 2
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
@@ -953,11 +954,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonito.jpg", Cartoonito
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:https://www.transvision.co.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bd1932fa7de4cbab16db022d58b8d3e:395876eaa793b48c0837e304ae279de6
+https://m7rovideolive.solocoo.tv/blueskylivedash/blueboomerang/Manifest.mpd
 
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/toon.jpg", Toon Goggles
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -981,11 +980,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/duniaanak.jpg", Dunia Anak
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
 
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonclassic.jpg", Cartoon TV Classics
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2149,18 +2146,18 @@ https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",ASSP 1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|origin=https://claplivehdplay.ru/
-
+#https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|origin=https://claplivehdplay.ru/
+http://abcnew.site:8880/12mmk180105/81462658/1722
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",ASSP 2
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|origin=https://claplivehdplay.ru/
- 
+#https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|origin=https://claplivehdplay.ru/
+http://abcnew.site:8880/12mmk180105/81462658/1721
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",ASSP 3
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|origin=https://claplivehdplay.ru/
- 
+#https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|origin=https://claplivehdplay.ru/
+http://abcnew.site:8880/12mmk180105/81462658/1720
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png" group-title="SPORTS",ASSP 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
