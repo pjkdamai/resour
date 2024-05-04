@@ -496,7 +496,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png",01 TV One 2
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/tvone/manifest.mpd
 
 #EXTINF:-1 tvg-id="13298" tvg-name="RCTI" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="NASIONAL",02 RCTI 1
@@ -593,13 +593,16 @@ https://1a-inews.rctiplus.id/inews-sdi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.imgur.com/qRr4PtC.jpeg" group-title="NASIONAL",13.CNN Indonesia 
+#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.imgur.com/qRr4PtC.jpeg" group-title="NASIONAL",13.CNN Indonesia 1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.imgur.com/qRr4PtC.jpeg" group-title="NASIONAL",13.CNN international
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.imgur.com/qRr4PtC.jpeg" group-title="NASIONAL",13.CNN Indonesia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
+https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.ibb.co/VQ9SbjM/Untitled-3-03.png" group-title="NASIONAL",13 CNBC Indonesia 1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
