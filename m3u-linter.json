@@ -601,7 +601,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
 https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.ibb.co/VQ9SbjM/Untitled-3-03.png" group-title="NASIONAL",13 CNBC Indonesia 1
