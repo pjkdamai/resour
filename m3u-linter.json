@@ -586,7 +586,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://hometv.pw/logo/lokal/kompastv.png",11 Kompas TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://streaming.indihometv.com/atm/DASH/kompastv/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
+https://cors-proxy.pulsesoftware.com/https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
 
 #EXTINF:-1 tvg-id="INews.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png" group-title="NASIONAL",12 Inews TV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -621,7 +621,7 @@ http://210.210.155.37/uq2663/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-id="rtv.id" tvg-name="rtv" tvg-logo="https://hometv.pw/logo/lokal/rtv.png" group-title="NASIONAL",14 RTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://streaming.indihometv.com/atm/DASH/rtv/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
+https://cors-proxy.elfsight.com/https://cdn09jtedge.indihometv.com/dvr/139/rtv/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png",15 Net tv 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
