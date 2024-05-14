@@ -2045,11 +2045,11 @@ https://epg.pw/stream/baa697f88cf0cb319ba97478931df42fd04cc15da234020b188858be1f
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zjecc4d8dq1zrc7/sbs.png" group-title="ENTERTAINMENT", SBS TV
 http://1.245.74.5:1935/live/tv/.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOL8qrvkWUFh544oKsxrEp_o-C10ggnJwmSiE3qRqDB-AAOyDny7thTBqEoWqEkXmoLo&usqp=CAU" group-title="ENTERTAINMENT",Nagaswara (yt)
+#EXTINF:0 tvg-logo="https://i.ibb.co/VqJKnpT/nagas.jpg" group-title="ENTERTAINMENT",Nagaswara (yt)
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/v2206
 https://pl.kokokputik.my.id/iptv/youtube/index.m3u8?id=Is03gZsBeq0
 
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AIdro_mtwLIQrNbDIHsc_CtG-a__OOZDoH0-08l1P7M7iA=s48-c-k-c0x00ffffff-no-rj" group-title="ENTERTAINMENT",Aquarius Musikindo (yt)
+#EXTINF:0 tvg-logo="https://i.ibb.co/sVNrhmF/amindo.jpg" group-title="ENTERTAINMENT",Aquarius Musikindo (yt)
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/v2206
 https://pl.kokokputik.my.id/iptv/youtube/index.m3u8?id=YQ0ECV2mTuc
 
