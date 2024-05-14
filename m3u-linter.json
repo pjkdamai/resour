@@ -1726,11 +1726,11 @@ https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/hisi_ngw/playlist_
 #EXTINF:-1 channel-id="samsung-GBBA220000751" tvg-id="GBBA220000751" tvg-logo="https://i.ibb.co/Yy7fQ6T/in-wild.png" group-title="KNOWLEDGE" , INWILD
 https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
 
-#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/13859833.5484b1033fa8a.png" group-title="KNOWLEDGE",National Geographic Wild (yt)
+#EXTINF:0 tvg-logo="https://i.ibb.co/n1Bwnr8/ngwild.jpg" group-title="KNOWLEDGE",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://pl.kokokputik.my.id/iptv/youtube/index.m3u8?id=PLR6KdmyTho
 
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/OsILVN24vcOj1TCJAy15Z_TFY1eYnDVj3EMnQIv5TreYmskDhtVn1Sz1IeBjoexUxjmXgKdO2Q=s48-c-k-c0x00ffffff-no-rj" group-title="KNOWLEDGE",National Geo kids (yt)
+#EXTINF:0 tvg-logo="https://i.ibb.co/c8MTL04/ngkids.jpg" group-title="KNOWLEDGE",National Geo kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://pl.kokokputik.my.id/iptv/youtube/index.m3u8?id=zuy5N_mhVDc
 
