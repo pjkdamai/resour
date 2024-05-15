@@ -497,12 +497,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 #EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://hometv.pw/logo/lokal/tvone.png" group-title="NASIONAL",01 TV One 2
-#KODIPROP:inputstream.adaptive.license_type=widevine 
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true 
-#KODIPROP:inputstream.adaptive.license_key=bfc3d890aab43f68a4aada9250de38a4:96438be57265d6967ac23d41a4ee1faf
-#EXTVLCOPT:http-referrer=https://maxstream.tv/ 
-#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.12.2 
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0f118d05-28b3-49ed-8de8-ccb58f6460e1)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://melon-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="13298" tvg-name="RCTI" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="NASIONAL",02 RCTI 1
 #EXTVLCOPT:http-user-agent=android-R+
@@ -677,10 +674,11 @@ https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/mentaritv.m3u8
 https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6c3a722be5/20220808030746.jpg",Gossip
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTVLCOPT:https://www.transvision.co.id/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/cubmu
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
 
 #EXTINF:-1 tvg-name="BERITA SATU" tvg-logo="https://hometv.pw/logo/lokal/beritasatu.png" group-title="NASIONAL",BERITA SATU
