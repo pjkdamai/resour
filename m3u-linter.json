@@ -499,10 +499,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://hometv.pw/logo/lokal/tvone.png" group-title="NASIONAL",01 TV One 2
 #KODIPROP:inputstream.adaptive.license_type=widevine 
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true 
+#KODIPROP:inputstream.adaptive.license_key=bfc3d890aab43f68a4aada9250de38a4:96438be57265d6967ac23d41a4ee1faf
 #EXTVLCOPT:http-referrer=https://maxstream.tv/ 
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.12.2 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0f118d05-28b3-49ed-8de8-ccb58f6460e1)/manifest.mpd
-
 
 #EXTINF:-1 tvg-id="13298" tvg-name="RCTI" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="NASIONAL",02 RCTI 1
 #EXTVLCOPT:http-user-agent=android-R+
