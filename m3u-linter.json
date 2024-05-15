@@ -2562,7 +2562,7 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/ou
 #KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
 https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
 
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://en.m.wikipedia.org/wiki/File:UnifiSports2023.png" group-title="SPORTS", UNIFI SPORTS
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-title="SPORTS", UNIFI SPORTS
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/kFdooR4.png" tvg-id="Match.ru" group-title="SPORTS",Матч!
