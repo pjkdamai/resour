@@ -649,15 +649,15 @@ http://rr3.dens.tv/s/s41/index.m3u8
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="NASIONAL",16 moji 2
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be6135dc5905/20200924043115.png",TVRI
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://hometv.pw/logo/lokal/tvri.png",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be6135dc5905/20200924043115.png",TVRI word
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://hometv.pw/logo/lokal/tvri.png",TVRI word
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be6135dc5905/20200924043115.png",TVRI sport
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://hometv.pw/logo/lokal/tvri.png",TVRI sport
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
 https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tvrisport.m3u8
 
@@ -784,7 +784,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 
 =============================================================###### TV LOKAL ######=============================================================================
 
-#EXTINF:-1 tvg-id="INFO" group-title="TV LOKAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jaktv.png" ch-number="92",Jak TV
+#EXTINF:-1 tvg-id="INFO" group-title="TV LOKAL" tvg-logo="https://hometv.pw/logo/lokal/jaktv.jpg" ch-number="92",Jak TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 https://melon-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd|referer=https://www.visionplus.id
@@ -859,7 +859,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427
 ===============================================================================###### BERITA ######=========================================================================
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKppD1J/sindo.png" group-title="BERITA",Sindo News 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/news/sindo_news.png" group-title="BERITA",Sindo News 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 https://testfunctionlive.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|referer=https://www.visionplus.id
@@ -869,12 +869,12 @@ https://testfunctionlive.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 https://testfunctionlive.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd|referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-id="INFO" group-title="BERITA" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/93a0add4ed871fcabfd7.jpg" ch-number="92",IDX CHANNEL
+#EXTINF:-1 tvg-id="INFO" group-title="BERITA" tvg-logo="https://hometv.pw/logo/news/idx.png" ch-number="92",IDX CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://testfunctionlive.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd|referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jgmd0yS/sea.jpg" group-title="BERITA",Sea Today
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/news/sea_today.png" group-title="BERITA",Sea Today
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 https://testfunctionlive.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd|referer=https://www.visionplus.id 
