@@ -497,9 +497,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 #EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://hometv.pw/logo/lokal/tvone.png" group-title="NASIONAL",01 TV One 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://melon-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd|referer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
 #EXTINF:-1 tvg-id="13298" tvg-name="RCTI" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="NASIONAL",02 RCTI 1
 #EXTVLCOPT:http-user-agent=android-R+
@@ -2389,74 +2388,81 @@ https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|origin=https://claplivehdplay.ru/
-http://abcnew.site:8880/12mmk180105/81462658/1722
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_shareext@assp1.ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="SPORTS",ASSP 2
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|origin=https://claplivehdplay.ru/
-http://abcnew.site:8880/12mmk180105/81462658/1721
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_shareext@assp2.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="SPORTS",ASSP 3
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|origin=https://claplivehdplay.ru/
-http://abcnew.site:8880/12mmk180105/81462658/1720
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_shareext@assp3.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTS",ASSP 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 #https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/2506/default_primary.mpd
-http://abcnew.site:8880/12mmk180105/81462658/1719
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=ts&play_shareext@assp4.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3fh3h16lgp0835m/truepremierfootball1.png" group-title="SPORTS",True Premiere 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#https://ctrl.laotv.la/live/TSport1/index.m3u8
+#https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186563&extension=ts&play_shareext@premier1TH.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3fh3h16lgp0835m/truepremierfootball2.png" group-title="SPORTS",True Premiere 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#https://ctrl.laotv.la/live/TSport2/index.m3u8
+#https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186576&extension=ts&play_shareext@premier2TH.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/r83u0ga13f4ajpa/truepremierfootball3.png" group-title="SPORTS",True Premiere 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
- 
+#https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186569&extension=ts&play_shareext@premier3TH.ts
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/j4qaqxhnqwijf63/truepremierfootball4.png" group-title="SPORTS",True Premiere 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
- 
+#https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186571&extension=ts&play_shareext@premier4TH.ts
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pcqvszx59tu0xg9/truepremierfootball5.png" group-title="SPORTS", True Premiere 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+#https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186573&extension=ts&play_shareext@premier5HD.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports1.th" tvg-logo="https://dl.dropboxusercontent.com/s/3ypeowly0e6zqdb/truesports1.png",True Sports 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
-#https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186600&extension=ts&play_shareext@truesport1TH.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports2.th" tvg-logo="https://dl.dropboxusercontent.com/s/fv8l24cb1ihz689/truesports2.png",True Sports 2
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
-#https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186593&extension=ts&play_shareext@truesport2TH.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://dl.dropboxusercontent.com/s/r46cvbq6oia3dea/truesports3.png",True Sports 3
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
-#https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+#https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186602&extension=ts&play_shareext@@truesport3.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/iq30brv2ntkmmqn/truesports4.png" group-title="SPORTS",TrueSport 4
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#https://sport.livedoomovies.com:4431/02_2sporthd6_720p/chunklist.m3u8
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186597&extension=ts&play_shareext@truesport7TH.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/nhkjohmfw98e0bq/truesports5.png" group-title="SPORTS",TrueSports 5
+http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186596&extension=ts&play_shareext@truesport5TH.ts
 
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/mbz253pyyvycavw/impact.png", IMPACT ! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
@@ -2465,7 +2471,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/txrhza2co3508cc/fightsports.png",Fight Sport
-http://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title="SPORTS",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
@@ -2997,7 +3003,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762e
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTM3MDE2MjQiLCJyZWZyZXNoX3Rva2VuIjoiMFZaMzV2UHRHcHQ4M3h6alVmZmNwcHJzcHZlWllcL2hEWk1TR3ZEYkhUbHVNVXFjeWtzdW1lcmNpenEzWHZnUDZ5SmRKVHFNZlo2eXJ4NGx6UGtFQTh4XC9OXC8xQnJReGVsY1lsSHFLeU5aNWoweldDSEVYK3BJbXZDU3YxTGorMnFYTjYzaEFZdklpQVpJeTNVbUdoXC9cL3BBZEFxSWhyRXFvRXE3R2ZJXC9sZTZHcm9yY3FOaTJHN2g5SkZtZHhoYUJTUXlEcDFydGFQaysxSU1EdEtTZ1MybzJEK0xPWmx3U09uVzU5a0gzSWhmUTJxYjB0Z29xbzNhSVQ3RHkwUEVDSVZ5TXpOanRndkNuOEhRUmFkUGlBakVVQllHaWNmaTRJNkZvQUlaYWZTcStWV0VPS1NYTmFOSUJ0cmZObkpTOHAifQ== 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTA0NjM3ODUiLCJyZWZyZXNoX3Rva2VuIjoiN29FM1FHT29QNVBWeUlYMmhQeGQ3eWQreUlnSlBuS2YyT2oyaHRlcTRKSDc4T3FVTDBoZWV0SUU1cThqTFgxSnZHaFZLdEdmSzVsZHZ2T2s1R0pHSzRRb1Uzd3NldkRuQWdMc0Jhc0lrRlFOWWVmbEN6Z2tOcnVIbWRvcnJzWkVsQkVcL25SdGVuK1I3Y2dBNU9tMEZjb0E5ejh1YjdsVkpSNkVkam9NYzNRdGsyM0d0bWZ4bVNxQjFqV1BcL0R5ckFnVUZBVXBPb3RoRWJBNCs0d2Z3bWZkWFZVRWFMTkVSWDRTUHJqVVNieDIzTjNDdGRMZzhnd3RYb0k4M1FTS3RLelNQeHdoWWFxMW9qcjIrN2ZkTXY2d1dTcnYrSGtOTVlxckpKS29RRVR6eDJkZmJHakIwelVrb2Z4NkN5UHFsSkFUYlVXSFlPR0lzdDBLWnpuOWlYT0FcL29jNWtRNjRpTjhjUEhhcFB6VDk3QThOR0FnZVl3RVFRVlM4aGsxNGVzVzhLYlFSR2xMTEhFbGhcLzJvdkU4VEE9PSJ9 
+#https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTA0NjM3ODUiLCJyZWZyZXNoX3Rva2VuIjoiN29FM1FHT29QNVBWeUlYMmhQeGQ3eWQreUlnSlBuS2YyT2oyaHRlcTRKSDc4T3FVTDBoZWV0SUU1cThqTFgxSnZHaFZLdEdmSzVsZHZ2T2s1R0pHSzRRb1Uzd3NldkRuQWdMc0Jhc0lrRlFOWWVmbEN6Z2tOcnVIbWRvcnJzWkVsQkVcL25SdGVuK1I3Y2dBNU9tMEZjb0E5ejh1YjdsVkpSNkVkam9NYzNRdGsyM0d0bWZ4bVNxQjFqV1BcL0R5ckFnVUZBVXBPb3RoRWJBNCs0d2Z3bWZkWFZVRWFMTkVSWDRTUHJqVVNieDIzTjNDdGRMZzhnd3RYb0k4M1FTS3RLelNQeHdoWWFxMW9qcjIrN2ZkTXY2d1dTcnYrSGtOTVlxckpKS29RRVR6eDJkZmJHakIwelVrb2Z4NkN5UHFsSkFUYlVXSFlPR0lzdDBLWnpuOWlYT0FcL29jNWtRNjRpTjhjUEhhcFB6VDk3QThOR0FnZVl3RVFRVlM4aGsxNGVzVzhLYlFSR2xMTEhFbGhcLzJvdkU4VEE9PSJ9 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg", tvg-id="ksport1hd" group-title="SPORTS", Sky Football
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3005,7 +3011,7 @@ https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiOTA0NjM3ODUiLCJyZWZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjQxMDI5NTgiLCJyZWZyZXNoX3Rva2VuIjoieHE2T2VBVW9HWUU5b1ZWNWpOY2hHTEIydFhvQXd5NzlvV0toVjVQcTFhdVphUWV3akhySVJ5WFkrdHh3ajdYdkpGM2M4OTJcL1paOVAyZ0o1RHJXSVlTMkwrd3VPRVU5ZlIyM1ZLeTJsUjAyeHJoTDZcL1d1amVCRG5ySE12Z2dUZlJVdktZaHBDZndNN2hoYzkwbktyT0crRm1TMVorck1ZZStcL3FNcVBCQlhJZnhWXC9BWENlMzk0T055KzRwRTNHMndqQWY4aURoNWZaXC85VERMUGszNVUrZHZONTM3WVhiR25jd1MwVWVaQWF2RU1pQ1wvK0x6cVJOeTlGSCtrSXBXWnlMU09UU3R6dkJpRW00RzdlUEZCOUxiZ0hic3hpRUFiMjR4XC9BRkRhVXRIb1lJU0tEZGVHVUNkeXVRS2VjVEhFIn0= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjc5MTM1MDgiLCJyZWZyZXNoX3Rva2VuIjoiVU9UbHFBcEV6cDZUamFKUUdkdFwvSkRIbklxU0dqeGJ3MjU1NkUwNzVVSWFDUTVWMGhmS3EreU1ESjE0UzJiZTRuU0l5aGcrM25BT3REYlwvdGUzV2M5XC9sTWpaMUVcL29QTjNVYkhEdE4zSjlZOWdRUEx0dkFvY2s1TERzdGRYN2VvSU5oY3oxc2xndUthdXBpQURYYm5GSElxKzNNNlpQbmtvNVo3RzhnYmFVNUNRZDhGYVF2SFRiNEhTUGNEVXRGTnY5UEhFcm03UXgrVWhKMWx6Wnl2ZElxQ0FqMms2ZGJVVjJydnFEVFIyUWFkbjY0Zmo0TnF5ckhJbmIxSkljdHdqcnE5S1RjS0xPdFFWczJWcXVqNU5uXC9pb1p4VGVTUWdMT09HSG85NlB2a0FVXC9RQUdNTlwvRTlkdGhsdmUzZ1M3Z3R2aDJDekJUQlJOeU84VFlyeWVDaGFpUnc0bzRidTQ4eUhuYk4wd29kYjB0K0ZxY2FIbWJcL29EYUVFVkRtRmcifQ== 
+#https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjc5MTM1MDgiLCJyZWZyZXNoX3Rva2VuIjoiVU9UbHFBcEV6cDZUamFKUUdkdFwvSkRIbklxU0dqeGJ3MjU1NkUwNzVVSWFDUTVWMGhmS3EreU1ESjE0UzJiZTRuU0l5aGcrM25BT3REYlwvdGUzV2M5XC9sTWpaMUVcL29QTjNVYkhEdE4zSjlZOWdRUEx0dkFvY2s1TERzdGRYN2VvSU5oY3oxc2xndUthdXBpQURYYm5GSElxKzNNNlpQbmtvNVo3RzhnYmFVNUNRZDhGYVF2SFRiNEhTUGNEVXRGTnY5UEhFcm03UXgrVWhKMWx6Wnl2ZElxQ0FqMms2ZGJVVjJydnFEVFIyUWFkbjY0Zmo0TnF5ckhJbmIxSkljdHdqcnE5S1RjS0xPdFFWczJWcXVqNU5uXC9pb1p4VGVTUWdMT09HSG85NlB2a0FVXC9RQUdNTlwvRTlkdGhsdmUzZ1M3Z3R2aDJDekJUQlJOeU84VFlyeWVDaGFpUnc0bzRidTQ4eUhuYk4wd29kYjB0K0ZxY2FIbWJcL29EYUVFVkRtRmcifQ== 
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="#🌍 EPL with VPN 🌍#", 🇸🇬 Hub Premier 2 - 4K
@@ -3091,7 +3097,7 @@ https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjc5MTM1MDgiLCJyZWZ
 #KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTQ2MTgzNzUiLCJyZWZyZXNoX3Rva2VuIjoiUWdWemZvZXhjTHExXC9neTk2SDA2UDlTNXVrMEVSa1B4alVMMHREVnJOWEJGWnNDWGczNW1NN3l2Ymd1dVhvTVR1VGI3S3RyYXgwZGxyQTFiaUJYOWNFcXZVOFpHNmk4RFVMYkcyazB0R3VnM0t6UzV2Unk0eWQzYUV5cTVIZmdsaEhLOTZidWVwd1NDTGlpN0tuYjBFNXQwMHV3c3BjWVZSVkNIN1U0ZGtkbmlZVG5ydkdRZWIzZERqTUZcLzRCdm9tczRwUkl6NTNKZTFlUTlPZ28yc08zdDAwbzBVbHNCZGdmQWhQNFh4bUlhXC85QUxkeG95UFJsNUV0XC9za25cL0xHb0xoWlR1YVgzMDRQYVRJS01DWGEzdGJYMXduUWUyUWtmS1MyZTV2K2dpSWRlZ1llaWtnc2EwV0ZHN3kzMTJ1MCJ9 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIES",HBO (Maxstream)
-https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjU0MTkzMDciLCJyZWZyZXNoX3Rva2VuIjoiZnJTVmEwb1V6NVhXRFNjbGtvZFBzTDhGd3Z3MFUzZTBtbU11WVA2R0R1MEczSDV6c3VGcFgyMkt6NWtxMXN2U0ZKMXI5M2ZLRVZsTWhSUmpPTkJibktlYTh6bGJwS0h0SE01NmpuMnJhTG9wMGJMVDI0RFhNY0hhV0JhME85Wk9NTGNNcmtSRENKaDhYSUZmQU5ZZ1JEenpybnFmaFhZNWhOVXhoekQyWG83aDNkdVRDbmxDaERVV1JvaFZRWDduYzhNRjhsblBraHpcL0NNNm15WlZzcG9tY0dCOWs0XC9rM0R0MHFyWXJoM0xZeVljS2xNKys2ZEdwN1VLNWdpWkltTWhmQW9rWUZOQWlGRTJVdko3NWt4M0FZbWxkOWk1MGRWV29FQlhzcW9TXC9pMjBzeVJcL1V4UVA2VnUwWEhiZ0NSUGdPQW02K1loY2hhWkw1eTZ3VXJMc2dtZUFsWFVsR0ZUTDFyOVNpU1FaZ1c3blBGMk11QWd1eHE2dDRlWTZiMnNqYWlQNWdcLzJ3Vnk4SW5NQTYyS3BBPT0ifQ== 
+#https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjU0MTkzMDciLCJyZWZyZXNoX3Rva2VuIjoiZnJTVmEwb1V6NVhXRFNjbGtvZFBzTDhGd3Z3MFUzZTBtbU11WVA2R0R1MEczSDV6c3VGcFgyMkt6NWtxMXN2U0ZKMXI5M2ZLRVZsTWhSUmpPTkJibktlYTh6bGJwS0h0SE01NmpuMnJhTG9wMGJMVDI0RFhNY0hhV0JhME85Wk9NTGNNcmtSRENKaDhYSUZmQU5ZZ1JEenpybnFmaFhZNWhOVXhoekQyWG83aDNkdVRDbmxDaERVV1JvaFZRWDduYzhNRjhsblBraHpcL0NNNm15WlZzcG9tY0dCOWs0XC9rM0R0MHFyWXJoM0xZeVljS2xNKys2ZEdwN1VLNWdpWkltTWhmQW9rWUZOQWlGRTJVdko3NWt4M0FZbWxkOWk1MGRWV29FQlhzcW9TXC9pMjBzeVJcL1V4UVA2VnUwWEhiZ0NSUGdPQW02K1loY2hhWkw1eTZ3VXJMc2dtZUFsWFVsR0ZUTDFyOVNpU1FaZ1c3blBGMk11QWd1eHE2dDRlWTZiMnNqYWlQNWdcLzJ3Vnk4SW5NQTYyS3BBPT0ifQ== 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3099,7 +3105,7 @@ https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjU0MTkzMDciLCJyZWZ
 #KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMzA4MjY1OTciLCJyZWZyZXNoX3Rva2VuIjoiSE5GQ2pOXC9WQjFqTWFkcDdISDFhaFhwN1ZiQXMzXC90QmNjN1NZa3F3XC9nNEZJaTVKNFZcL1wvaHJ5YVVwaFNQcDRMd1E4SkhrNFdoZnFQS3ExR0VjOGsyT3dMU2QySlo2N1RkUkFTYmR5b0NDN3V0M1ZBSTUwaHRkenFuXC9cL1VlUkdPTW9CeDFYc2RCOGhwV0JjdXdTeG1uRGRiR0NiTWNQYWNheDlDRFZMTFJvRjN4XC9EazRcL2xcL3MrSGFyTXpcL2RYcVl5V2JXcFcrRmZ4T2pjZkdRb2FZWUZyNVA3ZkRDNGlKYWQ5aEdKQU1CeGpOQ1puc1Y2dlJmR0pudEl4MndCM0JPcjVhSVV4R2M3dTJlTUJGR0RWbVVSOVAyZDNkTXBzZDNUNGl5aHNkQzhxY09OY0h1VHppc3ZxcnE2QVdVTlpFNyJ9 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES",HBO Family (Maxstream)
-https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDY1ODQyMzEiLCJyZWZyZXNoX3Rva2VuIjoiS1luOVByWnpCU3I3TCs4VlhVSGJLdGk0WUZpcE9tQ2pnWUdWdTN6QU5RaWFxU1JzeXduQUtySU1LdHRqdkVwWGJxTFwvM1RlQlY3dDJURm1KeXJuOEptVVoyNm95U3I1S1wvWnJ3ZUxpeW1aZVVxTng1QkpZY3dra3J1RGV5bWVZR3hkaHg3ZE1WdTliMW5kMkZZQjVkMXJDYm9mTkd3cTZIaG83NzhBMThrMTZsMzlmME5XY1hrbEhCeXlrMnU1TEdJcXpmckU0OVh0dTJmTHBUWEp0bU1mUGozaTZLeEgzeEJcL0Yxb2lHN1VmdWdqRlVFZVVMeTVZVmJcL05cLzdaRXp6aUZaM2ZhRTZwTFwvOU1HQytRcjJcL1NwdFpBSTluMmVteUorUDRmeVhkSldWSFltcUZKeTlsSjVJekdIUmJpdnNLQ080NTRaUUdrdzdRNDhjdThGeWc3cTArOUFoZnJ1eE1HQ21wK1ZDd3c2WTlZZG5VVFpkN0JTNEJFdW9ucVBPRWdXVnBSdm5MUjVSamZwWlFocURoeXc9PSJ9 
+#https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDY1ODQyMzEiLCJyZWZyZXNoX3Rva2VuIjoiS1luOVByWnpCU3I3TCs4VlhVSGJLdGk0WUZpcE9tQ2pnWUdWdTN6QU5RaWFxU1JzeXduQUtySU1LdHRqdkVwWGJxTFwvM1RlQlY3dDJURm1KeXJuOEptVVoyNm95U3I1S1wvWnJ3ZUxpeW1aZVVxTng1QkpZY3dra3J1RGV5bWVZR3hkaHg3ZE1WdTliMW5kMkZZQjVkMXJDYm9mTkd3cTZIaG83NzhBMThrMTZsMzlmME5XY1hrbEhCeXlrMnU1TEdJcXpmckU0OVh0dTJmTHBUWEp0bU1mUGozaTZLeEgzeEJcL0Yxb2lHN1VmdWdqRlVFZVVMeTVZVmJcL05cLzdaRXp6aUZaM2ZhRTZwTFwvOU1HQytRcjJcL1NwdFpBSTluMmVteUorUDRmeVhkSldWSFltcUZKeTlsSjVJekdIUmJpdnNLQ080NTRaUUdrdzdRNDhjdThGeWc3cTArOUFoZnJ1eE1HQ21wK1ZDd3c2WTlZZG5VVFpkN0JTNEJFdW9ucVBPRWdXVnBSdm5MUjVSamZwWlFocURoeXc9PSJ9 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3107,7 +3113,7 @@ https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDY1ODQyMzEiLCJyZWZ
 #KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjkxMDc0ODMiLCJyZWZyZXNoX3Rva2VuIjoialVBQnVxcVZhOVhQTEZzK1czdFJYOFM1RnA2WXpVa2lpN3FTVXZJZGRnRHN4Q2ZzaXdlTDAwZld6Yll2Zlhac2lkQ29nUnZxKzViY1I1eXdKYzN5NFNOOVVmaWJuYmFMUVptaVZFaUNvRzVOdU1PY0NYRTArVDZrdkFKb2lsNE5MTFlGbWZPYldaeE10amR6SW9VMGZCdzY5NWM4NE1NSHdKNkNHZUo5czZRbFg0K01NeUJ3YTFSZ0ZTelNHeEdJaDl6S2dWSm5iNFoxRFF2M1QzcUpqbHhSRnk5dEVCRVhENmY3TCtmbndnZkorbjFYU2pkSkh3NVA0K2tPY2wyZ1FpVUtrcFNrMVVWaTUyK29VQXpUaEZIQUh3ckZWNUZIVEhHUWlMXC9NUzA1WVNzQnV1K0FYaTRcL0g0YlVLYitcL2UifQ== 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",HBO Hits (Maxstream)
-https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDMwMjk4NjUiLCJyZWZyZXNoX3Rva2VuIjoicE1aUlVlZjhIcFRCbW8rWEhwQnQzclZtWEhlRk4xUXdGN3lCTUJLWWUrT09Wb0dOcndielhYa2cxR3JRZzI1SmpZQkRJVVR0SVZTK2I1SFdDcW5NQk4wMHEwOXE1QWE1YXU5dlVNQkpEY3NnQ0lkMnp0ZmtRNldseU03R1BsNmsxNmJcL2RoclQ3c014UEhvdlBzMHBKRmtDdWU2dlhiMUkrbkp4VWMyNEJJYTlaTDZ1cDBVVytxbUZacnZXYll1cXlDYTZpcHJPR2lsdFJsc3RqdTRZZ01OcjBDWXU1YXdBemZudW8zRnVaRDd0VnlVYjBQWmxEcDFKTlJqYmhrWFwvR1RyRTdYN1JUeEwzWm5wemY0S28rb3BcL2h3cjdBVlRrYUpVR0lDdEdydDlGNGN4K3VzU09ibzVUdWlIbXZPOSt6bHY1Sjk2bGNJRGtHaWRUYkFrTmdvVXphMytzUTFHUmU3S1loQ2txZ1RBVFhGTWJwbHNTZkhQZWtSVFJVbEhIYnZCWWsyVFBwMU9VTHZGaVVqTjJpQT09In0= 
+#https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDMwMjk4NjUiLCJyZWZyZXNoX3Rva2VuIjoicE1aUlVlZjhIcFRCbW8rWEhwQnQzclZtWEhlRk4xUXdGN3lCTUJLWWUrT09Wb0dOcndielhYa2cxR3JRZzI1SmpZQkRJVVR0SVZTK2I1SFdDcW5NQk4wMHEwOXE1QWE1YXU5dlVNQkpEY3NnQ0lkMnp0ZmtRNldseU03R1BsNmsxNmJcL2RoclQ3c014UEhvdlBzMHBKRmtDdWU2dlhiMUkrbkp4VWMyNEJJYTlaTDZ1cDBVVytxbUZacnZXYll1cXlDYTZpcHJPR2lsdFJsc3RqdTRZZ01OcjBDWXU1YXdBemZudW8zRnVaRDd0VnlVYjBQWmxEcDFKTlJqYmhrWFwvR1RyRTdYN1JUeEwzWm5wemY0S28rb3BcL2h3cjdBVlRrYUpVR0lDdEdydDlGNGN4K3VzU09ibzVUdWlIbXZPOSt6bHY1Sjk2bGNJRGtHaWRUYkFrTmdvVXphMytzUTFHUmU3S1loQ2txZ1RBVFhGTWJwbHNTZkhQZWtSVFJVbEhIYnZCWWsyVFBwMU9VTHZGaVVqTjJpQT09In0= 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -3115,7 +3121,7 @@ https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDMwMjk4NjUiLCJyZWZ
 #KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTIxNDk4MDMiLCJyZWZyZXNoX3Rva2VuIjoianRSU240T3QyR3VidXZSNStmOG1rVXhUNXlnK1RTQysyUGRcL3RZS2h3ODNxcEI0MjBiMXpcL0ZOVnFqNXhQaFRhY1Z1ak1vKzFLV2xwVEhSYzU0M0V2bm5lSXo1VjB2VlNDYXhIME9jZUFrQnlaMm4yeXNvKzc2WjdqaWU4V1BqQkZNYUYralQ1aGZSdHYwN1U1OEhzRWs5RjdMTjFYVkVoQ1pqODc1NlwvcWxDU3hNYUFzdEpyMnlwc2llcnpvR0JsQU11d0Y4R21hTGlzbEttU3VlUmd0QVdoRjkxb3ZpbFVvQ1BRSDVKaHZyUytmZG1RN3UwNWF1eDlFcnVZc2hwMkQ0XC9HUWtoU084MEpBZWtkM3dyQkt5bkZ2N2N3Y05JcHhrbHQ0VmRFXC9wc2RpYkxWMWR6MDlRMURtZlkyY0x6UCJ9 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature (Maxstream)
-https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDQ4MzE2MjkiLCJyZWZyZXNoX3Rva2VuIjoiRVE2Q1R5UGlFbkU0YUZhcWdqTW5jckM3cEZCcjFUb000b3ZuTmRZcmJYbWNhSHNjK29kdlBWektLV1BBd2pcL2xDcUlwcXlRYTJtaWNiMllSMTRXNW1JaVd6Yis5R1NqdzIrQzlmZHg0bCtpRVwvUDVta2hzNE1PNXo1cm90dnZTZWt2XC9jYnBtNVNVTzRZK3NDVzA2V3BUTWdZcTNad2JMZjl2RjhIVHVoYklwN2lMZ0xZSFFYN1RqaFZzK1QySGgydlhXeUdaY2VkdDIybzU4bllqbGlSNEpLWE00Nm5vUDZxNjFlV1p6YXAramtWdWxMV1pDT0Q2OXYxRmpFcmF3cjNPSGc1MytBZ0NJU3dLNlBcL0lUcFwvQ0hBQW9sK3Brb3dheEJmRG5IQVp6MEM3SGwzRUJQUGh3bUJGNWZrT1dnVCtNZXF2U0N1ZmRUcFlSK0pOZlNOemlSMlNaMDlRMk5aa1FZUkNpd1wvYkNxbmpMS21Xd2VxVVJoWnBwZE5ERElWczk5K21xbkhmS1N1UzZJWnZWYjJ4Zz09In0= 
+#https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDQ4MzE2MjkiLCJyZWZyZXNoX3Rva2VuIjoiRVE2Q1R5UGlFbkU0YUZhcWdqTW5jckM3cEZCcjFUb000b3ZuTmRZcmJYbWNhSHNjK29kdlBWektLV1BBd2pcL2xDcUlwcXlRYTJtaWNiMllSMTRXNW1JaVd6Yis5R1NqdzIrQzlmZHg0bCtpRVwvUDVta2hzNE1PNXo1cm90dnZTZWt2XC9jYnBtNVNVTzRZK3NDVzA2V3BUTWdZcTNad2JMZjl2RjhIVHVoYklwN2lMZ0xZSFFYN1RqaFZzK1QySGgydlhXeUdaY2VkdDIybzU4bllqbGlSNEpLWE00Nm5vUDZxNjFlV1p6YXAramtWdWxMV1pDT0Q2OXYxRmpFcmF3cjNPSGc1MytBZ0NJU3dLNlBcL0lUcFwvQ0hBQW9sK3Brb3dheEJmRG5IQVp6MEM3SGwzRUJQUGh3bUJGNWZrT1dnVCtNZXF2U0N1ZmRUcFlSK0pOZlNOemlSMlNaMDlRMk5aa1FZUkNpd1wvYkNxbmpMS21Xd2VxVVJoWnBwZE5ERElWczk5K21xbkhmS1N1UzZJWnZWYjJ4Zz09In0= 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -3123,7 +3129,7 @@ https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDQ4MzE2MjkiLCJyZWZ
 #KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTMwNDcxODkiLCJyZWZyZXNoX3Rva2VuIjoiNG5GRGdIWFJWQlB3Nkc1dHpJeTJRUktRMVwveVJiODI0N0p5ME9mWmdURkFpdzJWYVF0S3JBSWhnV2NSSkc5aE1tUTZ4VVRGRFBlRmpGNzFIbFl5Q1FJTFVTZ3A3dm1oRmhhVXRXcW9XR0gwcFJOVTdCNXpaWEo4K1B5cEFiRWsxZDhHMGJ0NGczNUMwV0JsaUdJZDBHOUE3Zk9WWWR3bFl0ME51SnlcL09oQkdPR0RvY1ZwcFRXRVdFQ1pYYU5rcnNZTUxsZXFrdG1LSFV2U1k3S0dyN2gwTllzc0JqUE9ZVFM2U3dlTk5OZWh3YmNKMTF5eUdpb0dlV2orSjQ0Tnk3YXJsYTFlQVV3elNxaVFcLzU0cXhKSVZzYU5iSGNZejFrbDNSbHVHTTQzN2s3TzQ5SnlOM28zQVQxQlFTdGFyeXYifQ== 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",Cinemax (Maxstream)
-https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTY5MjU3MzAiLCJyZWZyZXNoX3Rva2VuIjoiZ3lmNThlRnpSMVJ4WE1BQzlPcU9wRVBKZVhnbDl5aXFDZU5JRHcrZitNMEJyXC9zOHo1XC9vamdZS01oVDZVbnkyVXFQNnE3RW9SM0RWVTRKSzJEczhmZ0hiSWduSmhLT2JzOHNhN1RhSlFTSFYrMytHUk5GcTNBdzIxQzVlSnRtdnJlYlhcL2Y4MHU3QnhQdWNoXC9vRVg3akZwWXBjYVhnN3NrVjhjSUNzMUx2T2JKNVBvMmR1RksreWtMM2huMG9raXowZVN2cXdNZXZkMllvcXZPY0xwaFwvYkJhR3dhU0ZlOHBHbnErYkRENjMzOXNxWXI1SGQ1OTFwc2t4WFwvXC9RYWVMRXR3aEJBQXhDeks0SmRJYUQzOVJrb2k0dDJYVnlycEZNUGNIS2pXXC9VbmdCQ3hpc3ZKVlc4RTZYMmZJVlJyODgwSGpNcVJzRTA2SlFuQXNHTSswVVZTSXVpNU9Eck5IYldTditFaExcL0NVRlkxWExFTGRzajhwRHJiU1I4ZW8rSjZTK2o2Q0FnK2kxc0IrbVQ4V0R2Zz09In0= 
+#https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTY5MjU3MzAiLCJyZWZyZXNoX3Rva2VuIjoiZ3lmNThlRnpSMVJ4WE1BQzlPcU9wRVBKZVhnbDl5aXFDZU5JRHcrZitNMEJyXC9zOHo1XC9vamdZS01oVDZVbnkyVXFQNnE3RW9SM0RWVTRKSzJEczhmZ0hiSWduSmhLT2JzOHNhN1RhSlFTSFYrMytHUk5GcTNBdzIxQzVlSnRtdnJlYlhcL2Y4MHU3QnhQdWNoXC9vRVg3akZwWXBjYVhnN3NrVjhjSUNzMUx2T2JKNVBvMmR1RksreWtMM2huMG9raXowZVN2cXdNZXZkMllvcXZPY0xwaFwvYkJhR3dhU0ZlOHBHbnErYkRENjMzOXNxWXI1SGQ1OTFwc2t4WFwvXC9RYWVMRXR3aEJBQXhDeks0SmRJYUQzOVJrb2k0dDJYVnlycEZNUGNIS2pXXC9VbmdCQ3hpc3ZKVlc4RTZYMmZJVlJyODgwSGpNcVJzRTA2SlFuQXNHTSswVVZTSXVpNU9Eck5IYldTditFaExcL0NVRlkxWExFTGRzajhwRHJiU1I4ZW8rSjZTK2o2Q0FnK2kxc0IrbVQ4V0R2Zz09In0= 
 
 
 #================================WarKop DKI================================#
