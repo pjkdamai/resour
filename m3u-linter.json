@@ -2519,10 +2519,10 @@ http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186602&ex
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/iq30brv2ntkmmqn/truesports4.png" group-title="SPORTS",TrueSport 4
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186597&extension=ts&play_shareext@truesport7TH.ts
+https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186597&extension=ts&play_shareext@truesport7TH.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/nhkjohmfw98e0bq/truesports5.png" group-title="SPORTS",TrueSports 5
-http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186596&extension=ts&play_shareext@truesport5TH.ts
+https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186596&extension=ts&play_shareext@truesport5TH.ts
 
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://dl.dropboxusercontent.com/s/mbz253pyyvycavw/impact.png", IMPACT ! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
