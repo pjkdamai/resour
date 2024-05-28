@@ -2286,20 +2286,19 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/408/default_primary.mpd
-http://toh-users.xyz:8080/42204120/16250164/855425
+https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_shareext@beinsport1TH.ts
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein2.png" group-title="SPORTS",beiN Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-#https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/5066/default_primary.mpd
-http://toh-users.xyz:8080/42204120/16250164/855428
+https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186615&extension=ts&play_shareext@beinsport2TH.ts
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein3.png" group-title="SPORTS",beiN Sport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/2705/default_primary.mpd
-http://toh-users.xyz:8080/42204120/16250164/855431
+https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186615&extension=ts&play_shareext@beinsport3TH.ts
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein4.png" group-title="SPORTS",beiN Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
