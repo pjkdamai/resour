@@ -489,11 +489,30 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/ulKCVf74EQfr486X5bTzJpbbSvg=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4837867/original/007603400_1716217308-Uji_Coba_-_Timnas_Indonesia_Vs_Tanzania_copy.jpg" group-title="live",indonesia vs tanzania
 https://viet1.starlive.workers.dev/live/stream-329740_lsd.m3u8
+
+#EXTINF: -1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/ulKCVf74EQfr486X5bTzJpbbSvg=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4837867/original/007603400_1716217308-Uji_Coba_-_Timnas_Indonesia_Vs_Tanzania_copy.jpg" group-title="live",indonesia vs tanzania
+http://103.226.232.196:8000/play/a00l/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/ulKCVf74EQfr486X5bTzJpbbSvg=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4837867/original/007603400_1716217308-Uji_Coba_-_Timnas_Indonesia_Vs_Tanzania_copy.jpg" group-title="live",indonesia vs tanzania ch2
 https://viet2.starlive.workers.dev/live/stream-479849_lhd.flv?auth_key=1717320674-0-0-9de0260508239321be71749b8b7dd731
+
 #EXTINF: -1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/ulKCVf74EQfr486X5bTzJpbbSvg=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4837867/original/007603400_1716217308-Uji_Coba_-_Timnas_Indonesia_Vs_Tanzania_copy.jpg" group-title="live",indonesia vs tanzania ch3
 https://xem.bdhub.xyz/v11/?link=https%3A%2F%2Fobevcimanyd179249207.thapcam.link%2Flive%2FZ2FHD%2Fchunklist.m3u8&amp;id=M6qn860&amp;theme_id=vebotv&amp;t=1&amp;
 
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png " group-title="live",Astro 1 Live Only
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
+  
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png  " group-title="live",Astro 2 Live Only
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp2.m3u8
+
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png " group-title="live",Astro 3 Live Only
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
+
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png " group-title="live",Astro 4
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="live",MOJI 
+http://103.226.232.196:8000/play/a022/index.m3u8
 
 =====================================================================####### NASIONAL #######=================================================================================
 
