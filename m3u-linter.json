@@ -596,6 +596,16 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="live event" ,Volly 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://hqth.me/Livevolly1_ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="live event" ,Volly 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://idn87.tigoals60.com/
+https://hqth.me/Livevolly2_ts
+
 =====================================================================####### NASIONAL #######=================================================================================
 
 
