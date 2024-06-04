@@ -499,7 +499,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF: -1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/ulKCVf74EQfr486X5bTzJpbbSvg=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4837867/original/007603400_1716217308-Uji_Coba_-_Timnas_Indonesia_Vs_Tanzania_copy.jpg" group-title="live event",indonesia vs tanzania
-https://viet1.starlive.workers.dev/live/stream-329740_lsd.m3u8
+#https://viet1.starlive.workers.dev/live/stream-329740_lsd.m3u8
+https://channel-e3a5e184c3f5710d.live.sportall.media/cPxwayRkeqVn.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc2ODkxMTYsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6InI3XzRXR3hQU0R4Q0pLRHF6OTVWd2dSOVJZQ0RBcjBfd0dPekRWekFrTzgiLCJwYXRocyI6WyIvb3V0L3YxL2VhZmY2NTY4NTg1ZDQ3Nzc4ZGNkYTJlZGEyNTBiMTJjLyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzUxNjMxNn0.RICukfiZqozaeleBjtfLb7JD7KTZb5qD1mS9xGLtm_M/out/v1/eaff6568585d47778dcda2eda250b12c/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/ulKCVf74EQfr486X5bTzJpbbSvg=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4837867/original/007603400_1716217308-Uji_Coba_-_Timnas_Indonesia_Vs_Tanzania_copy.jpg" group-title="live event",indonesia vs tanzania
 http://103.226.232.196:8000/play/a00l/index.m3u8
