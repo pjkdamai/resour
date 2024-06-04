@@ -3009,9 +3009,14 @@ https://d17c7mhdsdu50m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #https://cors-proxy.elfsight.com/https://webhdrunns.onlinehdhls.ru/lb/premium550/index.m3u8|Origin=https://lewblivehdplay.ru
 
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/tenis.png",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/kozoom.jpeg",KOZOOM TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
 
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/fite.jpeg",FITE
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
 
 
