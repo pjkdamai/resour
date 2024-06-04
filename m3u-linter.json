@@ -518,13 +518,15 @@ https://xem.bdhub.xyz/v11/?link=https%3A%2F%2Fobevcimanyd179249207.thapcam.link%
 https://viet1.starlive.workers.dev/live/stream-329740_lsd.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png"  group-title="live event",Astro SuperSport 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
-  
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
+https://z88.ubtvfans.com/live/rx3/444/374f3a89485dae993739529766d65c1b/index.m3u8
+
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="live event",Astro SuperSport 2 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp2.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="live event",Astro SuperSport 3 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
+#https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
+https://z88.ubtvfans.com/live/rx3/446/1e3a19eba5731087b35ae8bbf54420ab/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="live event",Astro SuperSport 4 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
