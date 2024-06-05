@@ -2467,13 +2467,13 @@ http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 #KODIPROP::http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-https://cors-proxy.elfsight.com/https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+#https://cors-proxy.elfsight.com/https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein5.png" group-title="SPORTS",beiN Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-https://cors-proxy.elfsight.com/https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+#https://cors-proxy.elfsight.com/https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein6.png" group-title="SPORTS",beiN Sport 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2493,7 +2493,7 @@ https://cors-proxy.elfsight.com/https://58-64-60-73-rewriter.ais-vidnt.com/ais/p
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=58.64.60.73
 #KODIPROP:inputstream.adaptive.license_type=https://web-player.ais-vidnt.com/
 #KODIPROP::http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cors-proxy.elfsight.com/https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/DASH/B0022.mpd
+#https://cors-proxy.elfsight.com/https://58-64-60-73-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/DASH/B0022.mpd
 
 #EXTINF:-1 tvg-id="Fox Deportes en Español (U.S.)" tvg-logo="https://i.ibb.co/58HXy9T/foxdeportes.png" group-title="SPORTS",Fox Deportes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
