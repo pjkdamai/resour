@@ -2404,29 +2404,24 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony1.png" group-title="SPORTS", Sony Sport 1 HD
-#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-#https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+https://hqth.me/SpysportsTen1_ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony2.png" group-title="SPORTS", Sony Sport 2 HD
-#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-#https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+https://hqth.me/SpysportsTen2_ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony3.png" group-title="SPORTS", Sony Sport 3 HD
-#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-#https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+https://hqth.me/SpysportsTen3_ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony4.png" group-title="SPORTS", Sony Sport 4 HD
-#EXTVLCOPT:http-referrer=https://sony.bulbtv.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-#https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+https://hqth.me/SpysportsTen4_ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony5.png" group-title="SPORTS", Sony Sport 5 HD
-#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-#https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+https://hqth.me/SpysportsTen5_ts
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein1.png" group-title="SPORTS",beiN Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2448,7 +2443,7 @@ https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/2705/default_primary.mpd
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186616&extension=ts&play_shareext@beinsport3TH.ts
+http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein4.png" group-title="SPORTS",beiN Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
