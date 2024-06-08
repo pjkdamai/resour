@@ -3171,13 +3171,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="SPORTS"  tvg-id="js4" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png", J SPORTS 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="SPORTS",tvg-logo="https://lo1.in/MALAY/astroarn1.png",ASTRO ARENA HD
+#EXTINF:-1 group-title="SPORTS",tvg-logo="https://lo1.in/MALAY/astroar.png",Astro Arena 1 
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191853
-#EXTINF:-1 group-title="SPORTS", tvg-logo="https://lo1.in/MALAY/astroarn2.png",ASTRO ARENA 2 HD
+#EXTINF:-1 group-title="SPORTS", tvg-logo="https://lo1.in/MALAY/astroarn2.png",Astro Arena 2
 http://mytv-extra.com:80/t12mgxyb335/9832948789/185822
-#EXTINF:-1 group-title="SPORTS", tvg-logo="https://lo1.in/MALAY/astroar.png",ASTRO ARENA BOLA HD
+#EXTINF:-1 group-title="SPORTS", tvg-logo="https://lo1.in/MALAY/astroar.png",Astro Arena Bola 1 
 http://mytv-extra.com:80/t12mgxyb335/9832948789/23931
-#EXTINF:-1 group-title="SPORTS", tvg-logo="https://lo1.in/MALAY/astroar.png",ASTRO ARENA BOLA 2 HD
+#EXTINF:-1 group-title="SPORTS", tvg-logo="https://lo1.in/MALAY/astroarn2.png",Astro Arena Bola 2 
 http://mytv-extra.com:80/t12mgxyb335/9832948789/23930
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SPORTS" tvg-logo="https://telegra.ph/file/ec444fecfcb3a20cd6aa4.png" tvg-id="AstroSupersport",Astro Supersport
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supersport1_norvegicus/playlist.m3u8
