@@ -549,22 +549,22 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.hlsjs.ru/lb/premium524/index.m3u8
+#https://webudit.hlsjs.ru/lb/premium524/index.m3u8
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport2.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634",Astro SuperSport 2
 #EXTVLCOPT:http-referrer=https://livehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/astrosupersport2/chunks.m3u8
+#https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/astrosupersport2/chunks.m3u8
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport3.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",Astro SuperSport 3
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/astrosupersport3/chunks.m3u8
+#https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/astrosupersport3/chunks.m3u8
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748",Astro SuperSport 4
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/astrosupersport4/chunks.m3u8
+#https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/astrosupersport4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="live event",MOJI 1
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
@@ -639,15 +639,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="live event" ,Volly 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://hqth.me/Livevolly1_ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAHEjRF.png" group-title="live event" ,Volly 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://idn87.tigoals60.com/
-https://hqth.me/Livevolly2_ts
 
 ==================================================================Murotall==============================================================================
 
@@ -2907,14 +2899,14 @@ https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1106/da
 #KODIPROP:inputstream.adaptive.license_key=260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
 #https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd?
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sports 1 HDTV" tvg-logo="https://i.imghippo.com/files/7b4rH1715786591.png", FS 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sports 1 HDTV" tvg-logo="https://imgx.fubo.tv/station_logos/fs1_2021_m.png", FS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sports 2" tvg-logo="https://i.imghippo.com/files/880tp1715786642.png", FS 2
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sports 2" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_2021_m.png", FS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2985,7 +2977,7 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/ou
 #KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
 https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
 
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.imghippo.com/files/3QRoq1715746792.png" group-title="SPORTS", UNIFI SPORTS
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.postimg.cc/xCYy1ynf/Unifi-Sports-1.png" group-title="SPORTS", UNIFI SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
@@ -3226,7 +3218,7 @@ https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
 https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 1" tvg-logo="https://i.ibb.co/TLDsrbz/matchf1.png", Матч! FOOTBALL 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Match%21_Futbol_1_Stacked.svg/revision/latest/scale-to-width-down/640", Матч! FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
