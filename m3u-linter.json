@@ -532,6 +532,11 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/16
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
 https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=205
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
+
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png"  group-title="live event",Astro SuperSport 
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
 https://z88.ubtvfans.com/live/rx3/444/374f3a89485dae993739529766d65c1b/index.m3u8
@@ -574,6 +579,11 @@ https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="live event",MOJI 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="live event",MOJI 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=206&type=hls
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", LIGA BRI 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -2419,14 +2429,14 @@ https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/TqTo01715786413.png" group-title="SPORTS",beiN Sport USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png" group-title="SPORTS",beiN Sport USA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f81af7922a8d461aa81da4b225f8f883:d0f27c123c5f1331429d08638fa3727e
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1144/dash/cenc/BEIN1HD_04735/manifest.mpd
 
-#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.imghippo.com/files/1R1ni1715786474.png" group-title="SPORTS",beiN Sport En Español
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png" group-title="SPORTS",beiN Sport En Español
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3000,6 +3010,12 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 #https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/5057/default_primary.mpd
 #https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5057/default.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORTS",Astro Arena Bola 1
+https://bit.ly/4bx3ToG
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="SPORTS",Astro Arena Bola 2
+https://bit.ly/4e0KaPL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS",ASSP 1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
