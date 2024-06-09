@@ -546,6 +546,26 @@ https://z88.ubtvfans.com/live/rx3/446/1e3a19eba5731087b35ae8bbf54420ab/index.m3u
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="live event",Astro SuperSport 4 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
 
+#EXTINF:-1 group-title="live event" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/astrosupersport/chunks.m3u8
+
+#EXTINF:-1 group-title="live event" tvg-id="astrosupersport2.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634",Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/astrosupersport2/chunks.m3u8
+
+#EXTINF:-1 group-title="live event" tvg-id="astrosupersport3.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/astrosupersport3/chunks.m3u8
+
+#EXTINF:-1 group-title="live event" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748",Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/astrosupersport4/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="live event",MOJI 1
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
