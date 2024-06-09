@@ -528,7 +528,9 @@ http://103.155.250.139:25461/v3/Ub5dHa4TJp/19
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/16
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 5
-https://viet1.starlive.workers.dev/live/stream-329740_lsd.m3u8
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
+https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=205
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png"  group-title="live event",Astro SuperSport 
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
@@ -932,7 +934,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 =============================================================###### TV LOKAL ######=============================================================================
 
 
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" tvg-id="HBOHits.id" tvg-name=" " group-title="TV LOKAL", jowo
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/l2e0yba8adweea2wpqm71/Jowo.jpeg?rlkey=x1n6sxplsv3i1wcdmindxgmmf&dl=0" group-title="TV LOKAL", jowo
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/34
 
@@ -971,8 +973,8 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x30TXnm/indosiana.png" group-title="TV LOKAL",Indosiana
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_3.m3u8
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://dl.dropboxusercontent.com/s/38kg8t87gin4h15/indonesiana.png",Indonesiana TV
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 #EXTINF:-1 tvg-id="INFO" group-title="TV LOKAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ntv.png" ch-number="92",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
@@ -992,6 +994,27 @@ http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 #EXTINF:-1 tvg-id="INFO" group-title="TV LOKAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ktv.png" ch-number="92",KTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
 https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/ktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/1uilhr00cjewhv447z5fe/Surabayatv.jpeg?rlkey=bavuo311kc7aapfaav1wcoshi&dl=0" group-title="TV LOKAL",SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:-1  tvg-id="TVKU.id" group-title="TV LOKAL" tvg-logo="https://dl.dropbox.com/s/xanqfxjkx5njvy9/TVKU%20.jpeg",TVKU Semarang
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qsizx2x70l77lvt/Sangajitv.jpeg"  group-title="TV LOKAL", Sangaji tv
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g9heovajdew2153/Sakti%20Tv.jpeg" group-title="TV LOKAL", SAKTI TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/r9sumtq5hrbg8n8/Rctv.jpeg" group-title="TV LOKAL",Radar Cirebon TV
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1, group-title="TV LOKAL" tvg-logo="https://dl.dropbox.com/s/owpp55wvs9huk1g/ADi%20Tv.jpeg", ADi TV
+https://v10.siar.us/aditv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7b17tc0xm7gxqwi/Radar%20tv%20tasik.png"  group-title="TV LOKAL", Radar Tasikmalaya
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://dl.dropbox.com/s/hev10vcbopv9g6p/PKTV.jpg", PK TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/8bgct35iq7hti3f/garudatv.png" group-title="TV LOKAL", GARUDA TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://dl.dropboxusercontent.com/s/06wiut4q11q92mc/nusantaratv.png" group-title="TV LOKAL",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858d6351f0018dc0100d513246/400351b236f544c2b2beeb95691c8ed0.jpg" group-title="TV LOKAL",PSJ TV
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -1126,11 +1149,7 @@ https://liveaneviadev.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 ===================================================================================##### KID #####===========================================================================
 
 
-#EXTINF:-1 group-title="ANAK" tvg-id="pbskids.us" tvg-logo="https://i.ibb.co/Wgx11pz/pbs.png",Pbs Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 tvg-id="INFO" group-title="ANAK" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ebskids.png" ch-number="92",EBS KIDS
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MY KIDZ" tvg-logo="https://hometv.pw/logo/kids/mykidz.png" group-title="ANAK",My Kidz
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1222,7 +1241,11 @@ https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/toonmax.m3u8
 #EXTINF:-1 group-title="ANAK" tvg-logo="http://guki.my.id/logo/anak/boomerang.png", BOOMERANG
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="ANAK", ANIPLUS
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", ANIPLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="ANAK", ANIPLUS in
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1300,19 +1323,36 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6858afb4c71018b03bd40c
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858afb4c71018b03be407b1527/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NyMzNn3/disneych.png" group-title="ANAK", DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/3bmtm7171p7ccv4/disneychannel.png" group-title="ANAK", DISNEY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e38726127ec742179722a9804f1f25b8:2067f01820febdf8f80a26ae8630f840
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyro/Manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GdQY7KX/disneyjr.png" group-title="ANAK", DISNEY JR
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/krcmfbwdyapzxpi/disneyjunior.png" group-title="ANAK", DISNEY JR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e8bc6ce693c4579a185f137fac1d655:959ddd298a2ec2d4f9001d97f2c4bf44
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyjuniorro/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/45wtw7y1b37vtph/images%20%281%29.jpeg" group-title="ANAK", NUROTO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Pluto TV Dora TV" tvg-country="US" tvg-language="English" tvg-logo="https://dl.dropboxusercontent.com/s/pu99ywa0k36z8nt/doratv.png" group-title="ANAK",Dora TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ozc4u9twi5f4917/moonbugkids.png" group-title="ANAK", Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://dl.dropbox.com/s/vaar4is5vpsv38c/images%20%283%29.jpeg", PBS Kids  
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INFO" group-title="ANAK" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ebskids.png" ch-number="92",EBS KIDS
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/9mn355oqegtlee52pcwgy/Discokids.jpeg?rlkey=hswkgqoyr5no4n7xyh80kw30m&dl=0" group-title="ANAK", Discovery Kids
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
 
 ===================================================================##### movie #####==============================================================================
 
@@ -1608,7 +1648,7 @@ https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
 #EXTINF:-0 group-title="MOVIES" tvg-id="HBO Signature.th" tvg-logo="https://hometv.pw/logo/movies/hbo_sign.png", HBO Signature th
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://distractible-smile.000webhostapp.com/keyid/hbosig.html
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 
 #EXTINF:-0 group-title="MOVIES" tvg-id="HBO Hits.th" tvg-logo="https://hometv.pw/logo/movies/hbo_hits.png", HBO Hits th
@@ -1623,7 +1663,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="CINEMAX.th" tvg-logo="https://hometv.pw/logo/movies/cinemax.png",CINEMAX th
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://distractible-smile.000webhostapp.com/keyid/cinemax.html
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
 =====================================================================================###### KNOWLEDGE #####==================================================================
@@ -1728,6 +1768,13 @@ https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/c8MTL04/ngkids.jpg" group-title="KNOWLEDGE",National Geo kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #https://pl.kokokputik.my.id/iptv/youtube/index.m3u8?id=zuy5N_mhVDc
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/scl/fi/vnoqc48oiugscsyqh2txq/Stingray-Naturescape.jpeg?rlkey=czr4hias90uk2jogp7173smas&dl=0", STINGRAY NATURE SCAPE
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingraynaturescape.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/scl/fi/949ve885ao33q6ms3aqg1/Dmax.jpeg?rlkey=wstsn9cide8rzb2s905ncjbb3&dl=0", D MAX
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+
+
+
 
 =========================================== ENTERTAINMENT ===========================================
 
@@ -2103,11 +2150,24 @@ https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="MUSIK",K Pop Channel
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://dl.dropbox.com/scl/fi/861dv2qloe3jvrmqk4kv7/Imtv.jpeg?rlkey=f9j0x2c8em27a1ktpkzgblerl&dl=0" group-title="ENTERTAINMENT", IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://dl.dropboxusercontent.com/s/qtjr8dtnerodc5g/kpop.png" group-title="ENTERTAINMENT", KPOP
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="MUSIK",K-Pop2 Channel
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://dl.dropboxusercontent.com/s/qtjr8dtnerodc5g/kpop.png" group-title="ENTERTAINMENT", KPOP 2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/tknh0epwjz93rhi/globalfashion.png" group-title="ENTERTAINMENT", Global Fashion Chanel
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/seh99xsuzg7opg3/ftv.png" group-title="ENTERTAINMENT", Fashion TV
+https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://dl.dropboxusercontent.com/s/fldtbe5kvdc3k75/axstvnow.png",  aXs tv now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+
+
+
 
 ===============================================================================##### SPORT #####========================================================================
 
@@ -3194,8 +3254,11 @@ https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/astro_supe
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa05000728841e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRut21Kt_fGn1n7r291DRFs6AZGD7ZjgYoonA&usqp=CAU",Glory KickBoxing
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/28n1lcpyx0qubqo/Screenshot_20230214_232508_Chrome.jpg" group-title="SPORTS",beIN Sports Xtra
+#https://siloh.pluto.tv/lilo/production/bein/b1121710f0b14c1146591b65168004e6/master.m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/28n1lcpyx0qubqo/Screenshot_20230214_232508_Chrome.jpg" group-title="SPORTS",Bein Sports Xtra Australia
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 
 
 =====================================================================hbo=====================================================================
