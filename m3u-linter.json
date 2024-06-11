@@ -496,6 +496,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #EXTVLCOPT:http-Referer=https://flstv.online/
 https://playlist.footytv.live/live/stream_moto.m3u8|origin=https://flstv.online
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -521,11 +522,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 5
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
@@ -538,28 +539,43 @@ https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=205
 https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHzwLVVMnEcuX_RWouFW_Ier.png" group-title="live event",ASSP 1
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/118
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/118
+
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHy3O2LN8dDE9Jx24z8Ew69C.png" group-title="live event",ASSP 2
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/119
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/119
+
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHyzgT70OFIIt3Sce2X7vmpH.png" group-title="live event",ASSP 3
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/120
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/120
+
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHwVtUIS560IarIfHfmlE-r7.png" group-title="live event",ASSP 4
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/121
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/121
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="live event",ASTRO ARENA 1
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11629
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11629
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="live event",ASTRO ARENA 2
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11815
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11815
+
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
-https://bit.ly/456h1i1
+https://cors-proxy.elfsight.com/https://bit.ly/456h1i1
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport2.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634",Astro SuperSport 2
-https://bit.ly/4bGFyNf
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://bit.ly/4bGFyNf
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport3.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",Astro SuperSport 3
-https://bit.ly/3Vm4d3S
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://bit.ly/3Vm4d3S
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748",Astro SuperSport 4
-https://bit.ly/4ciCHdx
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://bit.ly/4ciCHdx
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="live event",MOJI 1
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
@@ -1605,13 +1621,17 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/larva.png" group-title="ANAK",LARVA
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/66
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/66
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/upin_ipin.png" group-title="ANAK",UPIN IPIN
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/67
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/67
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/masha_bear.png" group-title="ANAK",MASHA & BEAR
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/70
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/70
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/doraemon.png" group-title="ANAK",DORAEMON
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/68
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/68
 
 ===================================================================##### movie #####==============================================================================
 
@@ -2063,11 +2083,14 @@ https://testfunctionlive.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 #EXTINF:-1 tvg-name="MTV 90s" tvg-logo="https://hometv.pw/logo/music/mtv90s.png" group-title="ENTERTAINMENT",Mtv 90s
 https://testfunctionlive.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/2gkLJn7/7m70.jpg" ,Now 70
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://hometv.pw/logo/music2/now70s.png" ,Now 70
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/60k5j41/80.png",Now 80
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://hometv.pw/logo/music2/now80s.png",Now 80
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/now90s.png" group-title="ENTERTAINMENT",NOW 90s
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/tM3zQ5V/rock.png",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -2310,34 +2333,34 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/a0pnyssary1h07u/shanghaidragontv.png" group-title="ENTERTAINMENT", Shanghai Dragon TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.pw/logo/china2/dragon_tv.png" group-title="ENTERTAINMENT", Shanghai Dragon TV
 https://testfunctionlive.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/dwhgz7cbeo3w2we/anhuitv.png" group-title="ENTERTAINMENT",Anhui TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.pw/logo/china2/anhui.png" group-title="ENTERTAINMENT",Anhui TV
 https://testfunctionlive.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/vc7hf9brqhdw3v4/hunantv.png" group-title="ENTERTAINMENT", Hunan Tv
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.pw/logo/china2/hunan.png" group-title="ENTERTAINMENT", Hunan Tv
 https://testfunctionlive.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/zx4et44ip5hrgur/jiangsutv.png" group-title="ENTERTAINMENT",Jiangsu Tv
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.pw/logo/china2/jiangsu.png" group-title="ENTERTAINMENT",Jiangsu Tv
 https://testfunctionlive.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/a03htptk5qxa4zz/xingkongtv.png" group-title="ENTERTAINMENT", Xingkong TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.pw/logo/china2/xingkong.png" group-title="ENTERTAINMENT", Xingkong TV
 https://testfunctionlive.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
  
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/qg4jvzdgooy7hq2/k%2B.png" group-title="ENTERTAINMENT", K+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/music2/kpop.png" group-title="ENTERTAINMENT", K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="ENTERTAINMENT", Dunia Sinema
@@ -2379,7 +2402,7 @@ https://liveaneviadev.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:-1 tvg-name="SBS ENGLISH" tvg-logo="https://hometv.pw/logo/entertainment/sbs_english.png" group-title="ENTERTAINMENT",SBS KOREA
 #https://epg.pw/stream/baa697f88cf0cb319ba97478931df42fd04cc15da234020b188858be1fe5179f.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zjecc4d8dq1zrc7/sbs.png" group-title="ENTERTAINMENT", SBS TV
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/entertainment2/sbs_english.png" group-title="ENTERTAINMENT", SBS TV
 http://1.245.74.5:1935/live/tv/.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/VqJKnpT/nagas.jpg" group-title="ENTERTAINMENT",Nagaswara
@@ -2424,7 +2447,9 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://dl.dropboxusercontent.com/s/fldtbe5kvdc3k75/axstvnow.png",  aXs tv now
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lifestyle2/ftv_midnight.png" group-title="ENTERTAINMENT",Fashion TV Midnight
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/80
 
 
 
