@@ -521,11 +521,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/19
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/16
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 5
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
@@ -537,20 +537,18 @@ https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=205
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png"  group-title="live event",Astro SuperSport 
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
-https://z88.ubtvfans.com/live/rx3/444/374f3a89485dae993739529766d65c1b/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="live event",Astro SuperSport 2 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp2.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="live event",Astro SuperSport 3 
-#https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
-https://z88.ubtvfans.com/live/rx3/446/1e3a19eba5731087b35ae8bbf54420ab/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="live event",Astro SuperSport 4 
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHzwLVVMnEcuX_RWouFW_Ier.png" group-title="live event",ASSP 1
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/118
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHy3O2LN8dDE9Jx24z8Ew69C.png" group-title="live event",ASSP 2
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/119
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHyzgT70OFIIt3Sce2X7vmpH.png" group-title="live event",ASSP 3
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/120
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHwVtUIS560IarIfHfmlE-r7.png" group-title="live event",ASSP 4
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/121
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="live event",ASTRO ARENA 1
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11629
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="live event",ASTRO ARENA 2
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11815
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
 https://bit.ly/456h1i1
 
@@ -1179,9 +1177,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 =============================================================###### TV LOKAL ######=============================================================================
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/l2e0yba8adweea2wpqm71/Jowo.jpeg?rlkey=x1n6sxplsv3i1wcdmindxgmmf&dl=0" group-title="TV LOKAL", jowo
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/34
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/tv_daerah2/jowo_channel.png" group-title="TV LOKAL",JOWO CHANNEL
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/155
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.visionplus.id/images/repository/989/49989-SNAPSHOT-m.png",Bandung TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1251,7 +1248,7 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/r9sumtq5hrbg8n8/Rctv.jpeg" group-title="TV LOKAL",Radar Cirebon TV
 https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1, group-title="TV LOKAL" tvg-logo="https://dl.dropbox.com/s/owpp55wvs9huk1g/ADi%20Tv.jpeg", ADi TV
-https://v10.siar.us/aditv/livestream/playlist.m3u8
+https://v2.siar.us/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7b17tc0xm7gxqwi/Radar%20tv%20tasik.png"  group-title="TV LOKAL", Radar Tasikmalaya
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://dl.dropbox.com/s/hev10vcbopv9g6p/PKTV.jpg", PK TV
@@ -1277,6 +1274,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c95db2/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia2/tv1.png" group-title="TV LOKAL",TV 1
+https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv1/manifest.mpd
+#EXTINF:-1, group-title="TV LOKAL" tvg-id="" tvg-logo="https://hometv.pw/logo/malaysia2/tv2.png",TV 2
+https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+#EXTINF:-1, group-title="TV LOKAL" tvg-id="" tvg-logo="https://hometv.pw/logo/malaysia2/tv3.png",TV 3
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11625
 
 ===============================================================================###### BERITA ######=========================================================================
 
@@ -1598,6 +1603,15 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/9mn355oqegtlee52pcwgy/Discokids.jpeg?rlkey=hswkgqoyr5no4n7xyh80kw30m&dl=0" group-title="ANAK", Discovery Kids
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/larva.png" group-title="ANAK",LARVA
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/66
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/upin_ipin.png" group-title="ANAK",UPIN IPIN
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/67
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/masha_bear.png" group-title="ANAK",MASHA & BEAR
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/70
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/doraemon.png" group-title="ANAK",DORAEMON
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/68
 
 ===================================================================##### movie #####==============================================================================
 
@@ -3035,6 +3049,13 @@ https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00
 #https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/2506/default_primary.mpd
 https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=ts&play_shareext@assp4.ts
 
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1soQjAf-_H6yjnmydMX27Y9m.png" group-title="SPORTS",beIN SPORTS 1 MY
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11937
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1soQjAf-_H6yjnmydMX27Y9m.png" group-title="SPORTS",beIN SPORTS 2 MY
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11938
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1soQjAf-_H6yjnmydMX27Y9m.png" group-title="SPORTS",beIN SPORTS 3 MY
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11939
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3fh3h16lgp0835m/truepremierfootball1.png" group-title="SPORTS",True Premiere 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186563&extension=ts&play_shareext@premier1TH.ts
@@ -3270,8 +3291,8 @@ https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
-https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd
-
+#https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12109
 #EXTINF:-1 tvg-id="Ziggo Sport Docu" tvg-logo="https://guki.my.id/logo/sports/zdocu.png" group-title="SPORTS", Ziggo Sport Docu
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3285,7 +3306,7 @@ https://wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
-
+#https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12112
 #EXTINF:-1 tvg-id="Ziggo Sport Racing" tvg-logo="https://guki.my.id/logo/sports/zrac.png" group-title="SPORTS", Ziggo Sport Racing
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3298,8 +3319,8 @@ https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
-
+#https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12113
 #EXTINF:-1 tvg-id="Ziggo Sport Tennis" tvg-logo="https://guki.my.id/logo/sports/ztennis.png" group-title="SPORTS",Ziggo Sport Tennis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3312,8 +3333,8 @@ https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd
-
+#https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12111
 #EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.ibb.co/jDMKd9S/ssm.png" group-title="SPORTS",SuperSports Motorsport
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
@@ -3510,7 +3531,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/28n1lcpyx0qubqo/Screenshot_20230214_232508_Chrome.jpg" group-title="SPORTS",Bein Sports Xtra Australia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/ufc.png" group-title="SPORTS",UFC FHD
+https://play.gachor99.my.id:443/roni/jimbaran/85
 
 =====================================================================hbo=====================================================================
 
