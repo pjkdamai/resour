@@ -495,7 +495,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #EXTVLCOPT:http-Referer=https://flstv.online/
-https://playlist.footytv.live/live/stream_moto.m3u8|origin=https://flstv.online
+#https://playlist.footytv.live/live/stream_moto.m3u8|origin=https://flstv.online
 https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 2
@@ -505,7 +505,7 @@ https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/li
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/14
+https://arjuna.trans7.co.id/Trans7-L1v3stream/index.fmp4.m3u8 
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 1
 #https://channel-e3a5e184c3f5710d.live.sportall.media/cPxwayRkeqVn.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc2ODkxMTYsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6InI3XzRXR3hQU0R4Q0pLRHF6OTVWd2dSOVJZQ0RBcjBfd0dPekRWekFrTzgiLCJwYXRocyI6WyIvb3V0L3YxL2VhZmY2NTY4NTg1ZDQ3Nzc4ZGNkYTJlZGEyNTBiMTJjLyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzUxNjMxNn0.RICukfiZqozaeleBjtfLb7JD7KTZb5qD1mS9xGLtm_M/out/v1/eaff6568585d47778dcda2eda250b12c/index.m3u8
@@ -537,6 +537,16 @@ https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=205
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 7
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/indosiar_play_shareext-xs
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://cors-proxy.elfsight.com/https://s.id/sctvHD_shareext-xs
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHzwLVVMnEcuX_RWouFW_Ier.png" group-title="live event",ASSP 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -576,6 +586,10 @@ https://cors-proxy.elfsight.com/https://bit.ly/3Vm4d3S
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748",Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://cors-proxy.elfsight.com/https://bit.ly/4ciCHdx
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="live event", MOJI
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="live event",MOJI 1
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
