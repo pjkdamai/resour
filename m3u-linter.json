@@ -596,11 +596,11 @@ https://cors-proxy.elfsight.com/https://bit.ly/3Vm4d3S
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://cors-proxy.elfsight.com/https://bit.ly/4ciCHdx
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="live event", MOJI
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="live event", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="live event",MOJI 1
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="live event",MOJI 1
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
 https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
@@ -953,7 +953,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NASIONAL",04 Indosiar 3
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="NASIONAL",04 Indosiar 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
 
@@ -1083,8 +1083,8 @@ https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd|user-agent=mozilla/8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://hometv.pw/logo/sports2/tvri_sports.png",TVRI sport
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
-#https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tvrisport.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png",mentari 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
