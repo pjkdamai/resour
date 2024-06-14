@@ -930,7 +930,7 @@ https://archive.org/download/MurotalMR/114.mp3
 
 =====================================================================####### NASIONAL #######=================================================================================
 
-
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqhlqbUSWmzNdYqLsrFj7mKNnX6YOHoRxNTQ&s" group-title="NASIONAL"
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png",01 TV One 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
