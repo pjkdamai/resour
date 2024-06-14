@@ -960,18 +960,18 @@ https://raw.githubusercontent.com/Arrasyid22/vision-/main/sctv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NASIONAL",04 Indosiar 2
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="NASIONAL",04 Indosiar 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="NASIONAL",04 Indosiar 3
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR HD" tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="NASIONAL",04 Indosiar 3
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png",05 ANTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv" group-title="NASIONAL" tvg-logo="https://hometv.pw/logo/lokal/antv.png",05 ANTV 2
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv" group-title="NASIONAL" tvg-logo="https://i.imgur.com/Wj6qu6M.png",05 ANTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
@@ -1007,7 +1007,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
-#EXTINF:-1 tvg-id="13345" tvg-name="GTV" tvg-logo="https://hometv.pw/logo/lokal/gtv.png" group-title="NASIONAL",09 GTV 2
+#EXTINF:-1 tvg-id="13345" tvg-name="GTV" tvg-logo="https://i.imgur.com/OPaUgqx.png" group-title="NASIONAL",09 GTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=gtv
