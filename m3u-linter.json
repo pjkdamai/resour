@@ -3134,11 +3134,11 @@ https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00
 #EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://i.imgur.com/UPuBbOx.png"group-title="SPORTS",True Sports 7 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186597&extension=ts&play_shareext@truesport7TH.ts
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/spotv1.png" group-title="SPORTS",SPO TV 1 korea
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/spotv1.png" group-title="SPORTS",SPO TV 1 korea
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://z88.ubtvfans.com/live/rx3/266/8ae8a498bd520e74e5bbf3f8bfe8d284/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/spotv2.png" group-title="SPORTS",SPO TV 2 korea
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/spotv2.png" group-title="SPORTS",SPO TV 2 korea
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://z88.ubtvfans.com/live/rx3/267/3c043641f93dff1d2d11ad8e8b613056/index.m3u8
 
@@ -3619,7 +3619,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/28n1lcpyx0qubqo/Screenshot_20230214_232508_Chrome.jpg" group-title="SPORTS",Bein Sports Xtra Australia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/ufc.png" group-title="SPORTS",UFC FHD
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/ufc.png" group-title="SPORTS",UFC FHD
 https://play.gachor99.my.id:443/roni/jimbaran/85
 
 
