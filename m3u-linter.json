@@ -1012,7 +1012,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
 #EXTINF:-1 tvg-name="Trans TV" tvg-id="TransTV.id" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_transtv.png",06 Trans TV 1
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(784e32da-bdac-7794-7122-0989aaf8959e)/manifest.mpd
 
 #EXTINF:-1 tvg-name="Trans TV" tvg-id="TransTV.id" group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/958/49958-SNAPSHOT-m.png",06 Trans TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1021,6 +1022,7 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd|user-agent=mozill
 #EXTINF:-1 tvg-name="Trans 7" tvg-id="Trans7.id" group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/956/49956-SNAPSHOT-m.png",07 Trans 7 1
 #https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bab870e9-ceaa-c720-864e-0cb46a9f5c03)/manifest.mpd
+
 #EXTINF:-1 tvg-name="Trans 7" tvg-id="Trans7.id" group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/956/49956-SNAPSHOT-m.png",07 Trans 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
@@ -1062,9 +1064,8 @@ https://raw.githubusercontent.com/Arrasyid22/vision-/main/metrotv.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-m.png",11 Kompas TV 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|referer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://stb.mbahnunungonline.net/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 #EXTINF:-1 tvg-id="INews.id" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png" group-title="NASIONAL",12 Inews TV 1
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
@@ -1099,11 +1100,14 @@ http://210.210.155.37/uq2663/h/h10/index.m3u8
 #EXTINF:-1 tvg-id="rtv.id" tvg-name="rtv" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-m.png" group-title="NASIONAL",14 RTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|referer=https://www.visionplus.id
+#https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|referer=https://www.visionplus.id
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png",15 Net tv 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+http://stb.mbahnunungonline.net/live/m3u8/id/6cdb3402d11f58d.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-m.png",15 Net tv 2
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
