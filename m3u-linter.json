@@ -597,20 +597,20 @@ https://cors-proxy.elfsight.com/https://bit.ly/3Vm4d3S
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://cors-proxy.elfsight.com/https://bit.ly/4ciCHdx
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="live event", MOJI
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/moji.png" group-title="live event", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/sports2/moji.png" group-title="live event",MOJI 1
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/moji.png" group-title="live event",MOJI 1
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
 https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="live event",MOJI 2
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/moji.png" group-title="live event",MOJI 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="live event",MOJI 3
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/moji.png" group-title="live event",MOJI 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 
@@ -2056,7 +2056,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="GlobalTrekker.id"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_201.png" group-title="KNOWLEDGE", Global Trekker
+#EXTINF:-1 tvg-id="GlobalTrekker.id"  tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/global-trecker-1.png" group-title="KNOWLEDGE", Global Trekker
 https://testfunctionlive.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JfRjGcP.png" group-title="KNOWLEDGE",Wild Earth
