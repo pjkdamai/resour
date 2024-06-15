@@ -989,7 +989,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd|user-agent=mozilla/8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal2/sctv.png" group-title="NASIONAL",03 SCTV 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9
+https://cors-proxy.elfsight.com/http://103.237.32.213:9981/stream/channelid/2075096037?profile=pass
 #https://raw.githubusercontent.com/Arrasyid22/vision-/main/sctv.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="NASIONAL",04 Indosiar 1
@@ -1002,7 +1002,7 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=mozil
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR HD" tvg-logo="https://hometv.biz.id/logo/lokal2/indosiar.png" group-title="NASIONAL",04 Indosiar 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
+https://cors-proxy.elfsight.com/http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
 #https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png",05 ANTV 1
@@ -1123,13 +1123,7 @@ http://rr3.dens.tv/s/s41/index.m3u8
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="NASIONAL",16 moji 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://combilolo.my.id/ch/firstmedia.mpd?id=MOJIOChannel&token=qj3t11tjydf2dsf1sqdsswdsy323q3t2wd2q33t1d1y3qd11rsa22a1t2had32das2ae3122jl1s1tas34y12a132e1l3d222a4s 
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/Lk0f0G4.png",TVRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1312,7 +1306,7 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
-#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://dl.dropboxusercontent.com/s/38kg8t87gin4h15/indonesiana.png",Indonesiana TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="TV LOKAL",Indonesiana TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 #EXTINF:-1 tvg-id="INFO" group-title="TV LOKAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ntv.png" ch-number="92",Nusantara TV
@@ -1367,17 +1361,17 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c95db2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/malaysia2/tv1.png" group-title="TV LOKAL",TV 1
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/malaysia2/tv1.png" group-title="TV LOKAL",TV 1 Malaysia
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://cors-proxy.elfsight.com/https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv1/manifest.mpd
 
-#EXTINF:-1, group-title="TV LOKAL" tvg-id="" tvg-logo="https://hometv.biz.id/logo/malaysia2/tv2.png",TV 2
+#EXTINF:-1, group-title="TV LOKAL" tvg-id="" tvg-logo="https://hometv.biz.id/logo/malaysia2/tv2.png",TV 2 Malaysia
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://cors-proxy.elfsight.com/https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
-#EXTINF:-1, group-title="TV LOKAL" tvg-id="" tvg-logo="https://hometv.biz.id/logo/malaysia2/tv3.png",TV 3
+#EXTINF:-1, group-title="TV LOKAL" tvg-id="" tvg-logo="https://hometv.biz.id/logo/malaysia2/tv3.png",TV 3 Malaysia
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11625
 
 ===============================================================================###### BERITA ######=========================================================================
@@ -1533,7 +1527,7 @@ https://testfunctionlive.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ozc4u9twi5f4917/moonbugkids.png" group-title="ANAK", Moonbug Tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://testfunctionlive.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd|referer=https://www.visionplus.id
+#https://testfunctionlive.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd|referer=https://www.visionplus.id
 
 #EXTINF:0 tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-m.png" group-title="ANAK",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1606,8 +1600,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
 https://cors-proxy.pulsesoftware.com/https://cdnjt24.useetv.com/dassdvr/130/smil:aniplus.smil/manifest.mpd
 #https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 
-#EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonnetwork.jpg", Cartoon Network
+#EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonnetwork.jpg", Cartoon Network in
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.gmanews.tv/webpics/2022/10/cartoon_network_2_2022_10_18_15_56_46.jpg" group-title="ANAK", CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonito.jpg", Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1689,19 +1688,23 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyro/Manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1e8bc6ce693c4579a185f137fac1d655:959ddd298a2ec2d4f9001d97f2c4bf44
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyjuniorro/Manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/45wtw7y1b37vtph/images%20%281%29.jpeg" group-title="ANAK", NUROTO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQtV8MV9jXRkzVA7GnlogAbG5RkRQSJIzsA&usqp=CAU" group-title="ANAK", NUROTO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Pluto TV Dora TV" tvg-country="US" tvg-language="English" tvg-logo="https://dl.dropboxusercontent.com/s/pu99ywa0k36z8nt/doratv.png" group-title="ANAK",Dora TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/VFhZ3Pl.png", PBS Kids  
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://feedlix.net/tv/asi/pbs_kids.png", PBS Kids  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INFO" group-title="ANAK" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ebskids.png" ch-number="92",EBS KIDS
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/9mn355oqegtlee52pcwgy/Discokids.jpeg?rlkey=hswkgqoyr5no4n7xyh80kw30m&dl=0" group-title="ANAK", Discovery Kids
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
+
+#EXTINF:-1 tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="ANAK", B KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/larva.png" group-title="ANAK",LARVA
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
