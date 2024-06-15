@@ -953,8 +953,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NASIONAL",03 SCTV 3
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/sctv.m3u8
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal2/sctv.png" group-title="NASIONAL",03 SCTV 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9
+#https://raw.githubusercontent.com/Arrasyid22/vision-/main/sctv.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="NASIONAL",04 Indosiar 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
@@ -964,8 +966,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR HD" tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="NASIONAL",04 Indosiar 3
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR HD" tvg-logo="https://hometv.biz.id/logo/lokal2/indosiar.png" group-title="NASIONAL",04 Indosiar 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
+#https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="antv" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png",05 ANTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
@@ -1045,13 +1049,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.imgur.com/qRr4PtC.jpeg" group-title="NASIONAL",13.CNN Indonesia 1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://hometv.pw/logo/lokal/cnn_indonesia.png" group-title="NASIONAL",13.CNN Indonesia 2
+#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://hometv.biz.id/logo/lokal2/cnn_indonesia.png" group-title="NASIONAL",13.CNN Indonesia 2
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://hometv.pw/logo/lokal2/cnbc_indonesia.png" group-title="NASIONAL",13 CNBC Indonesia 1
+#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://hometv.biz.id/logo/lokal2/cnbc_indonesia.png" group-title="NASIONAL",13 CNBC Indonesia 1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://hometv.pw/logo/lokal/cnbc_indonesia.png" group-title="NASIONAL",13 CNBC Indonesia 2
+#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://hometv.biz.id/logo/lokal2/cnbc_indonesia.png" group-title="NASIONAL",13 CNBC Indonesia 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
