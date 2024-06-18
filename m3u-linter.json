@@ -3186,7 +3186,7 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/173.m3u8
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/174.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUuK4yQ.png" group-title="SPORTS",True Premier 1 
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186563&extension=ts&play_shareext@premier1TH.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGgbpmt.png" group-title="SPORTS",True Premier 2 
