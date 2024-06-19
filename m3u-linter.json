@@ -2534,8 +2534,8 @@ https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/lifestyle2/ftv_midnight.png" group-title="ENTERTAINMENT",Fashion TV Midnight
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/80
-
-
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/lifestyle2/ftv_midnight.png" group-title="ENTERTAINMENT",Fashion coba
+https://raw.githubusercontent.com/pjkdamai/coba/main/fashionmidnight.m3u8
 
 ===============================================================================##### SPORT #####========================================================================
 
