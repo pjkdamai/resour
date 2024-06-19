@@ -3629,9 +3629,10 @@ https://d17c7mhdsdu50m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #https://cors-proxy.elfsight.com/https://webhdrunns.onlinehdhls.ru/lb/premium550/index.m3u8|Origin=https://lewblivehdplay.ru
 
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports/hub_premier.png" group-title="SPORTS", H premier 1
+https://raw.githubusercontent.com/pjkdamai/coba/main/hubp1.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 #https://cors-proxy.elfsight.com/http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350557&extension=ts&play_shareext@Hpremier1.ts
-https://raw.githubusercontent.com/pjkdamai/gayeng/main/m3u-linter.json
+
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports/hub_premier.png" group-title="SPORTS", H premier 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://cors-proxy.elfsight.com/http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350558&extension=ts&play_shareext@Hpremier2.ts
