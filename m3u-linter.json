@@ -2925,12 +2925,12 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony1.png" group-title="SPORTS", Sony Sport 1 HD
 #EXTVLCOPT:http-referrer=http://210.210.155.37/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/209.m3u8
+https://raw.githubusercontent.com/pjkdamai/coba/main/sony1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony2.png" group-title="SPORTS", Sony Sport 2 HD
-#EXTVLCOPT:http-referrer=http://210.210.155.37/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/210.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:Referer=https://mhdtvweb.com/sonyliv/
+https://raw.githubusercontent.com/pjkdamai/coba/main/sony2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony3.png" group-title="SPORTS", Sony Sport 3 HD
 #EXTVLCOPT:http-referrer=http://210.210.155.37/
@@ -3178,11 +3178,11 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/174.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUuK4yQ.png" group-title="SPORTS",True Premier 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-https://raw.githubusercontent.com/pjkdamai/resour/main/truep1.m3u8
+https://raw.githubusercontent.com/pjkdamai/coba/main/truepremfootball1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGgbpmt.png" group-title="SPORTS",True Premier 2 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://okegas.transvision.workers.dev/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186576&extension=ts&play_shareext@premier2TH.ts
+https://raw.githubusercontent.com/pjkdamai/coba/main/truepremfootball2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3O0QDOm.png" group-title="SPORTS",True Premier 3 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
