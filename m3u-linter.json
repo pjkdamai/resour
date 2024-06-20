@@ -600,19 +600,20 @@ http://mpwtv.my.id/indo.m3u8
 #https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/171.m3u8
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
-#https://bit.ly/456h1i1
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium123/playlist.m3u8
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport2.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634",Astro SuperSport 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://bit.ly/4bGFyNf
+https://iptv.cinehub.wf/mono/ddh1.onlinehdhls.ru/ddh1/premium124/playlist.m3u8
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport3.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",Astro SuperSport 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://bit.ly/3Vm4d3S
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium125/playlist.m3u8
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748",Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://bit.ly/4ciCHdx
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -2782,17 +2783,17 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
 #https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
-http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
+http://45.41.213.34:70/TSN1/index.m3u8
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn2.png" group-title="SPORTS", TSN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
 #https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
-http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN2/index.m3u8
+http://45.41.213.34:70/TSN2/index.m3u8
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn3.png" group-title="SPORTS", TSN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
 #https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
-http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN3/index.m3u8
+http://45.41.213.34:70/TSN3/index.m3u8
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn4.png" group-title="SPORTS", TSN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
@@ -2932,14 +2933,12 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony1.png" group-title="SPORTS", Sony Sport 1 HD
-#EXTVLCOPT:http-referrer=http://210.210.155.37/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-1-hd&=.m3u8|Referer=https://mhdtvweb.com/sonyliv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+https://raw.githubusercontent.com/pjkdamai/coba/main/sony1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony2.png" group-title="SPORTS", Sony Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:Referer=https://mhdtvweb.com/sonyliv/
-https://mhdtvweb.com/sonyliv/stream.php?id=sony-ten-2-hd&=.m3u8
+https://hqth.me/SpysportsTen2_ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony3.png" group-title="SPORTS", Sony Sport 3 HD
 #EXTVLCOPT:http-referrer=http://210.210.155.37/
