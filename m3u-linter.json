@@ -1617,18 +1617,16 @@ https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/toonmax.m3u8
 #EXTINF:-1 group-title="ANAK" tvg-logo="http://guki.my.id/logo/anak/boomerang.png", BOOMERANG
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ANAK" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", ANIPLUS
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoaxQ_5HcDUxBy4ZpXwih5VJ9LDAlM9x-OJyoeLqY-YiUS.png" group-title="ANAK",ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5EoaxQ_5HcDUxBy4ZpXwih5VJ9LDAlM9x-OJyoeLqY-YiUS.png" group-title="ANAK",ANIPLUS in
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="Aniplus" group-title="ANAK" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus (IndiHome TV)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cors-proxy.pulsesoftware.com/https://cdnjt24.useetv.com/dassdvr/130/smil:aniplus.smil/manifest.mpd
-#https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonnetwork.jpg", Cartoon Network in
 https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
