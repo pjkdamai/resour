@@ -1137,7 +1137,7 @@ http://stb.mbahnunungonline.net/live/m3u8/id/6cdb3402d11f58d.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-m.png",15 Net tv 2
-https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/133/net/manifest.mpd
 
 #EXTINF:-1 tvg-id="mOji.id" tvg-name="mOji" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="NASIONAL",16 moji 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1149,7 +1149,7 @@ http://rr3.dens.tv/s/s41/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="NASIONAL",16 moji 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -1169,10 +1169,8 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/Iqs6mheIjesM4cUEh_dUVIdV0jU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg",mentari 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTVLCOPT:http-referrer=http://210.210.155.37/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/95.m3u8
-#https://cors-proxy.elfsight.com/http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
+#http://103.155.250.139:25461/v3/Ub5dHa4TJp/03
+https://cors-proxy.elfsight.com/http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png",mentari 2
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1180,7 +1178,7 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/95.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/134/mentaritv/manifest.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/03
 
@@ -2555,20 +2553,18 @@ https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/11
 https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1147/dash/cenc/BEIN2HD_04736/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/bein1id.png" group-title="SPORTS",Indihome beiN Sport 1 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=Dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-
+https://okegas.transvision.workers.dev/dassdvr/133/beib1/manifest.mpd
+  
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/bein3id.png" group-title="SPORTS",Indihome beiN Sport 3
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/133/beib2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/soccer_channel.jpg" group-title="SPORTS",Soccer Chanel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
