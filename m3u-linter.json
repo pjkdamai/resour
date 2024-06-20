@@ -1297,7 +1297,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/tv_daerah2/jowo_channel.png" group-title="TV LOKAL",JOWO CHANNEL
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/155
+https://okegas.transvision.workers.dev/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/155
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.visionplus.id/images/repository/989/49989-SNAPSHOT-m.png",Bandung TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
