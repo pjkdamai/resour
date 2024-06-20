@@ -499,14 +499,17 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://cors-proxy.cluster.fun/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://arjuna.trans7.co.id/Trans7-L1v3stream/index.fmp4.m3u8 
-https://raw.githubusercontent.com/pjkdamai/coba/main/fashiontv.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 1
 #https://channel-e3a5e184c3f5710d.live.sportall.media/cPxwayRkeqVn.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc2ODkxMTYsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6InI3XzRXR3hQU0R4Q0pLRHF6OTVWd2dSOVJZQ0RBcjBfd0dPekRWekFrTzgiLCJwYXRocyI6WyIvb3V0L3YxL2VhZmY2NTY4NTg1ZDQ3Nzc4ZGNkYTJlZGEyNTBiMTJjLyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzUxNjMxNn0.RICukfiZqozaeleBjtfLb7JD7KTZb5qD1mS9xGLtm_M/out/v1/eaff6568585d47778dcda2eda250b12c/index.m3u8
@@ -3628,15 +3631,15 @@ https://raw.githubusercontent.com/pjkdamai/coba/main/hubp1.m3u8
 
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports/hub_premier.png" group-title="SPORTS", H premier 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350558&extension=ts&play_shareext@Hpremier2.ts
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350558&extension=ts&play_shareext@Hpremier2.ts
  
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports/hub_premier.png" group-title="SPORTS", H premier 3
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350559&extension=ts&play_shareext@Hpremier3.ts
+http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350559&extension=ts&play_shareext@Hpremier3.ts
 
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports2/now_sports.png" group-title="SPORTS", NOWSPORTS 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554624&extension=ts&play_shareext@Nowsport1.ts
+http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554624&extension=ts&play_shareext@Nowsport1.ts
 
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports2/now_sports.png" group-title="SPORTS", NOWSPORTS 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
