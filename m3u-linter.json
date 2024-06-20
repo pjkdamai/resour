@@ -3068,34 +3068,34 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/ou
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
 #EXTVLCOPT:http-referrer=https://viwlivehdplay.ru/
 #https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8|origin=https://viwlivehdplay.ru/
-
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium486/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
 #EXTVLCOPT:http-referrer=https://viwlivehdplay.ru/
 #https://hzt.onlinehdhls.ru/lb/premium487/index.m3u8|origin=https://viwlivehdplay.ru/
-
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium487/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 3
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8|origin=https://lewblivehdplay.ru
-
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium488/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 4
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8|origin=https://lewblivehdplay.ru
-
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium489/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport 5
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8|origin=https://lewblivehdplay.ru
-
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium490/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png" group-title="SPORTS",USA TUDN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
 #https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
-
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium66/playlist.m3u8
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORTS", UNIFI SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -3409,7 +3409,7 @@ https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
 #https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12109
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12109
 
 #EXTINF:-1 tvg-id="Ziggo Sport Docu" tvg-logo="https://guki.my.id/logo/sports/zdocu.png" group-title="SPORTS", Ziggo Sport Docu
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3431,7 +3431,8 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_019370/_shared_cc010062b17300c4504b6ab5681b5417/NL_000097_019370.mpd
+#https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_019370/_shared_cc010062b17300c4504b6ab5681b5417/NL_000097_019370.mpd
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium396/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://guki.my.id/logo/sports/zselect.png" group-title="SPORTS",Ziggo Sport Select
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3440,7 +3441,7 @@ https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_0
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 #https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12113
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12113
 
 #EXTINF:-1 tvg-id="Ziggo Sport Tennis" tvg-logo="https://guki.my.id/logo/sports/ztennis.png" group-title="SPORTS",Ziggo Sport Tennis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3456,7 +3457,7 @@ https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_0
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 #https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12111
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12111
 
 #EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.ibb.co/jDMKd9S/ssm.png" group-title="SPORTS",SuperSports Motorsport
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
