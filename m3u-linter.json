@@ -1270,7 +1270,7 @@ https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/130/muitv/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1575,7 +1575,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/130/duniaanak/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa_9lI1d6vSNrLIz-ylFn85xrTbqmLe68ytDYI7QUPAr7.png" group-title="ANAK",HOREE
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1583,7 +1583,7 @@ https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdv
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
-https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/130/horee/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa9Kun1xZomrOaUMeiFredPhRoTxMxrHBtouc0N8U0lrn.png" group-title="ANAK",ZOO MOO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1620,7 +1620,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/107/aniplus/manifest.mpd
 
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonnetwork.jpg", Cartoon Network in
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
@@ -1659,7 +1659,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/p
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/130/duniaanak_dash/manifest.mpd
 
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonclassic.jpg", Cartoon TV Classics
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -1766,7 +1766,7 @@ https://i.mjh.nz/PlutoTV/629a066860ef810008267b70-alt.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/133/flik_dash/manifest.mpd
 
 #EXTINF:-1 tvg-name="BIOSKOP INDONESIA" tvg-logo="https://i.imgur.com/bNd43gT.png" group-title="MOVIES",BIOSKOP INDONESIA
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1774,7 +1774,7 @@ https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdv
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/130/bioskopindonesia_dash/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="BOO" tvg-logo="https://i.ibb.co/8X5kq4f/boo.png", BOO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1919,7 +1919,7 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/130/imc/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2295,7 +2295,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/134/seru/manifest.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="https://i.imgur.com/77KYgbz.png",CITRA DANGDUT
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -2303,7 +2303,7 @@ https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/130/citradangdut/manifest.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be292d655725/20200924033003.png",!nsert in
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -2311,7 +2311,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/c
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/130/insert/manifest.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be292d655725/20200924033003.png",!nsert
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2335,7 +2335,7 @@ https://testfunctionlive.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfot
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d591798aa38d43f9a879f2131227916f:c3eae7f33710d7d9e0058244aff37fb0
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/107/afc/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/107/afc/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -2358,7 +2358,7 @@ https://testfunctionlive.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeSty
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/130/dunialain/manifest.mpd
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858119921801816b52686d5e62/20220616070251.jpg",Pretty TV
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -2957,13 +2957,13 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/213.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #https://bapakmumasakdagingkimjongunastro.nixiehai263.workers.dev/dash-wv/linear/408/default_primary.mpd
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_shareext@beinsport1TH.ts
+https://okegas.transvision.workers.dev/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186614&extension=ts&play_shareext@beinsport1TH.ts
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein2.png" group-title="SPORTS",beiN Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186615&extension=ts&play_shareext@beinsport2TH.ts
+https://okegas.transvision.workers.dev/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186615&extension=ts&play_shareext@beinsport2TH.ts
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein3.png" group-title="SPORTS",beiN Sport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3182,11 +3182,11 @@ https://raw.githubusercontent.com/pjkdamai/resour/main/truep1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGgbpmt.png" group-title="SPORTS",True Premier 2 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186576&extension=ts&play_shareext@premier2TH.ts
+https://okegas.transvision.workers.dev/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186576&extension=ts&play_shareext@premier2TH.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3O0QDOm.png" group-title="SPORTS",True Premier 3 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186569&extension=ts&play_shareext@premier3TH.ts
+https://okegas.transvision.workers.dev/http://shareext@livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186569&extension=ts&play_shareext@premier3TH.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cxTx5am.png" group-title="SPORTS",True Premier 4 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -3619,21 +3619,21 @@ https://d17c7mhdsdu50m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #https://cors-proxy.elfsight.com/https://webhdrunns.onlinehdhls.ru/lb/premium550/index.m3u8|Origin=https://lewblivehdplay.ru
 
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports/hub_premier.png" group-title="SPORTS", H premier 1
-https://raw.githubusercontent.com/pjkdamai/coba/main/hubp1.m3u8
+#https://raw.githubusercontent.com/pjkdamai/coba/main/hubp1.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-#https://cors-proxy.elfsight.com/http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350557&extension=ts&play_shareext@Hpremier1.ts
+https://okegas.transvision.workers.dev/http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350557&extension=ts&play_shareext@Hpremier1.ts
 
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports/hub_premier.png" group-title="SPORTS", H premier 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350558&extension=ts&play_shareext@Hpremier2.ts
+https://okegas.transvision.workers.dev/http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350558&extension=ts&play_shareext@Hpremier2.ts
  
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports/hub_premier.png" group-title="SPORTS", H premier 3
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350559&extension=ts&play_shareext@Hpremier3.ts
+https://okegas.transvision.workers.dev/http://shareext@89.45.13.153:25461/play/live.php?mac=00:1A:79:B8:49:6A&stream=1350559&extension=ts&play_shareext@Hpremier3.ts
 
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports2/now_sports.png" group-title="SPORTS", NOWSPORTS 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554624&extension=ts&play_shareext@Nowsport1.ts
+https://okegas.transvision.workers.dev/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554624&extension=ts&play_shareext@Nowsport1.ts
 
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports2/now_sports.png" group-title="SPORTS", NOWSPORTS 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
