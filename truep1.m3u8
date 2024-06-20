@@ -1,5 +1,51 @@
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=4403159,AVERAGE-BANDWIDTH=3716452,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
-http://livein1.com/play/live.php?mac=00:1a:79:b1:85:5e&stream=186563&extension=ts&play_shareext@premier1TH.ts
+<?xml version="1.0" encoding="utf-8"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="2015-01-01T00:00:03Z" publishTime="2024-06-20T14:26:06.990782Z" minimumUpdatePeriod="PT2S" minBufferTime="PT10S" timeShiftBufferDepth="PT1M2S" maxSegmentDuration="PT3S">
+  <Period id="1" start="PT0S">
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="und" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" initialization="sctv-$RepresentationID$-init.mp4" media="sctv-$RepresentationID$-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="2988231010040000" d="20053333" r="1" />
+          <S d="20053334" />
+          <S d="19840000" />
+          <S d="20053333" r="1" />
+          <S d="20053334" />
+          <S d="19840000" />
+          <S d="20053333" r="1" />
+          <S d="20053334" />
+          <S d="19840000" />
+          <S d="20053333" r="1" />
+          <S d="20053334" />
+          <S d="19840000" />
+          <S d="20053333" r="1" />
+          <S d="20053334" />
+          <S d="19840000" />
+          <S d="20053333" r="1" />
+          <S d="20053334" />
+          <S d="19840000" />
+          <S d="20053333" r="1" />
+          <S d="20053334" />
+          <S d="19840000" />
+          <S d="20053333" r="1" />
+          <S d="20053334" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000=2" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="2" frameRate="25" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="400000" maxBandwidth="2500000" minWidth="480" maxWidth="1920" minHeight="270" maxHeight="1080" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" initialization="sctv-$RepresentationID$-init.mp4" media="sctv-$RepresentationID$-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="2988231010000000" d="20000000" r="30" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="avc1_400000=1" bandwidth="400000" width="480" height="270" sar="1:1" codecs="avc1.640015" />
+      <Representation id="avc1_800000=3" bandwidth="800000" width="640" height="360" sar="1:1" codecs="avc1.64001e" />
+      <Representation id="avc1_1200000=4" bandwidth="1200000" width="960" height="540" sar="1:1" codecs="avc1.64001f" />
+      <Representation id="avc1_1500000=5" bandwidth="1500000" width="1280" height="720" sar="1:1" codecs="avc1.64001f" />
+      <Representation id="avc1_2500000=6" bandwidth="2500000" width="1920" height="1080" sar="1:1" codecs="avc1.640028" />
+    </AdaptationSet>
+  </Period>
+</MPD>
