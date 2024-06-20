@@ -501,7 +501,7 @@ http://103.127.137.190:80/Sugeng/msY9yqKyrR/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -523,11 +523,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 5
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
@@ -553,7 +553,7 @@ http://103.127.137.190:80/Sugeng/msY9yqKyrR/02.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 9
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://cors-proxy.elfsight.com/http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/ 
@@ -597,19 +597,19 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/170.m3u8
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/171.m3u8
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
-#https://cors-proxy.elfsight.com/https://bit.ly/456h1i1
+https://bit.ly/456h1i1
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport2.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634",Astro SuperSport 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://cors-proxy.elfsight.com/https://bit.ly/4bGFyNf
+https://bit.ly/4bGFyNf
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport3.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711",Astro SuperSport 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://cors-proxy.elfsight.com/https://bit.ly/3Vm4d3S
+https://bit.ly/3Vm4d3S
 
 #EXTINF:-1 group-title="live event" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748",Astro SuperSport 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://cors-proxy.elfsight.com/https://bit.ly/4ciCHdx
+https://bit.ly/4ciCHdx
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -1134,7 +1134,7 @@ http://stb.mbahnunungonline.net/live/m3u8/id/6cdb3402d11f58d.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-m.png",15 Net tv 2
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #EXTINF:-1 tvg-id="mOji.id" tvg-name="mOji" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="NASIONAL",16 moji 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1146,7 +1146,7 @@ http://rr3.dens.tv/s/s41/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="NASIONAL",16 moji 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -1271,7 +1271,7 @@ https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1298,17 +1298,12 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/tv_daerah2/jowo_channel.png" group-title="TV LOKAL",JOWO CHANNEL
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/155
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/155
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.visionplus.id/images/repository/989/49989-SNAPSHOT-m.png",Bandung TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://melon-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd|referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png" group-title="TV LOKAL",Life
-#https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd|referer=https://www.visionplus.id 
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.visionplus.id/images/repository/984/49984-SNAPSHOT-m.png",jtv
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1393,11 +1388,11 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/malaysia2/tv1.png" group-title="TV LOKAL",TV 1 Malaysia
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv1/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv1/manifest.mpd
 
 #EXTINF:-1, group-title="TV LOKAL" tvg-id="" tvg-logo="https://hometv.biz.id/logo/malaysia2/tv2.png",TV 2 Malaysia
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://cors-proxy.elfsight.com/https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv2/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
@@ -1581,7 +1576,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa_9lI1d6vSNrLIz-ylFn85xrTbqmLe68ytDYI7QUPAr7.png" group-title="ANAK",HOREE
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1589,7 +1584,7 @@ https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
-https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa9Kun1xZomrOaUMeiFredPhRoTxMxrHBtouc0N8U0lrn.png" group-title="ANAK",ZOO MOO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1665,7 +1660,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/p
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
 
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonclassic.jpg", Cartoon TV Classics
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -1772,7 +1767,7 @@ https://i.mjh.nz/PlutoTV/629a066860ef810008267b70-alt.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 
 #EXTINF:-1 tvg-name="BIOSKOP INDONESIA" tvg-logo="https://i.imgur.com/bNd43gT.png" group-title="MOVIES",BIOSKOP INDONESIA
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1780,7 +1775,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/133/f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="BOO" tvg-logo="https://i.ibb.co/8X5kq4f/boo.png", BOO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2165,7 +2160,7 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbbd159cc425464b908f0a263556672f:116f6adc67a5d89ded7a31a2d4d7d420
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1142/dash/cenc/NGCHD_00158/manifest.mpd
+https://linear-novi.stvacdn.spectrum.com/LIVE/1142/dash/cenc/NGCHD_00158/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkPwiDiIAVw5TF3jteoJUcR2aKRFvl4jP_yba-H5tZ4TCg.png" group-title="KNOWLEDGE",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
@@ -2175,7 +2170,7 @@ https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/11
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
 
 #EXTINF:-1 channel-id="samsung-GBBA220000751" tvg-id="GBBA220000751" tvg-logo="https://i.ibb.co/Yy7fQ6T/in-wild.png" group-title="KNOWLEDGE" , INWILD
 https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
