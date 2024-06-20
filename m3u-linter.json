@@ -1149,11 +1149,11 @@ http://rr3.dens.tv/s/s41/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="NASIONAL",16 moji 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
+#http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/Lk0f0G4.png",TVRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1170,7 +1170,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/Iqs6mheIjesM4cUEh_dUVIdV0jU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg",mentari 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #http://103.155.250.139:25461/v3/Ub5dHa4TJp/03
-https://cors-proxy.elfsight.com/http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
+http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="NASIONAL" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png",mentari 2
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1179,8 +1179,6 @@ https://cors-proxy.elfsight.com/http://103.237.32.213:9981/stream/channelid/1253
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://okegas.transvision.workers.dev/dassdvr/134/mentaritv/manifest.mpd
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/03
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6c3a722be5/20220808030746.jpg",Gossip
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1272,7 +1270,7 @@ https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
+https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1577,7 +1575,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa_9lI1d6vSNrLIz-ylFn85xrTbqmLe68ytDYI7QUPAr7.png" group-title="ANAK",HOREE
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1585,7 +1583,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
-https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa9Kun1xZomrOaUMeiFredPhRoTxMxrHBtouc0N8U0lrn.png" group-title="ANAK",ZOO MOO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1622,7 +1620,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonnetwork.jpg", Cartoon Network in
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
@@ -1661,7 +1659,7 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/p
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
+https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
 
 #EXTINF:-1 group-title="ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonclassic.jpg", Cartoon TV Classics
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -1768,7 +1766,7 @@ https://i.mjh.nz/PlutoTV/629a066860ef810008267b70-alt.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
+https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 
 #EXTINF:-1 tvg-name="BIOSKOP INDONESIA" tvg-logo="https://i.imgur.com/bNd43gT.png" group-title="MOVIES",BIOSKOP INDONESIA
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1776,7 +1774,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
+https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="BOO" tvg-logo="https://i.ibb.co/8X5kq4f/boo.png", BOO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1921,7 +1919,7 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+https://okegas.transvision.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
