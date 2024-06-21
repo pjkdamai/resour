@@ -3678,8 +3678,11 @@ https://d17c7mhdsdu50m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554620&extension=ts&play_shareext@nowsport5.ts
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.biz.id/logo/sports/optus_sports.png" group-title="SPORTS",optus 1
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-#https://cors-proxy.elfsight.com/http://shareext@ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333576&extension=ts&play_shareext@0ptus1.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://gingerbread.maedasports.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
+https://luanjingkalaubacaini22796151.maedasports.co.id:3002/1/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.biz.id/logo/sports/optus_sports.png" group-title="SPORTS",optus 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
