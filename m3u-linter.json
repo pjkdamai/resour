@@ -1720,7 +1720,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c100093709
 #EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Pluto TV Dora TV" tvg-country="US" tvg-language="English" tvg-logo="https://dl.dropboxusercontent.com/s/pu99ywa0k36z8nt/doratv.png" group-title="ANAK",Dora TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 group-title="ANAK" tvg-logo="https://feedlix.net/tv/asi/pbs_kids.png", PBS Kids  
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.postimg.cc/L8Xqz9qn/pbskids.png", PBS Kids  
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INFO" group-title="ANAK" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ebskids.png" ch-number="92",EBS KIDS
@@ -2303,13 +2303,11 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://okegas.transvision.workers.dev/dassdvr/134/seru/manifest.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="https://i.imgur.com/77KYgbz.png",CITRA DANGDUT
+#EXTINF:0 tvg-name="Citra Dangdut" tvg-logo="https://i.postimg.cc/YS6Cwhnk/citradangdut.jpg" group-title="ENTERTAINMENT", CITRA DANGDUT
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
-https://okegas.transvision.workers.dev/dassdvr/130/citradangdut/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd  
 
 #EXTINF:-1 group-title="ENTERTAINMENT"  tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be292d655725/20200924033003.png",!nsert in
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -2326,8 +2324,9 @@ https://okegas.transvision.workers.dev/dassdvr/130/insert/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0h0N0LQ/download-1.jpg" group-title="ENTERTAINMENT",Citra Drama 
-https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRPH6cFJ/citradrama.jpg" group-title="ENTERTAINMENT",Citra Drama 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
