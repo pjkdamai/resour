@@ -546,13 +546,13 @@ https://tv.burhansyam.com/api/vd.m3u8?ch=sctv&t=204
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTVLCOPT:http-referrer=http://210.210.155.37/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/127.m3u8
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/5.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 8
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #EXTVLCOPT:http-referrer=http://210.210.155.37/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/02.m3u8
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 9
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
