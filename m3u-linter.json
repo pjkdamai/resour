@@ -551,8 +551,10 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17474_stream.mpd?h
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/5.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 8
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/1.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a07e03c0ba140358b7c4e47e05e0b29:53b5f74d7d986dacef85122677a73da5
+https://cors.ruangputih.xyz/makan_bang/channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6126/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 9
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
