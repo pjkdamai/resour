@@ -545,11 +545,13 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17474_stream.mpd?h
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 7
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/5.m3u8
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/5.m3u8
+https://raw.githubusercontent.com/pjkdamai/coba/main/huber.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 8
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/1.m3u8
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/1.m3u8
+https://raw.githubusercontent.com/pjkdamai/coba/main/trans7.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 9
 #EXTVLCOPT:http-referrer=https://www.vidio.com
