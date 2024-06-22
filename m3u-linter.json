@@ -526,7 +526,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
+http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 4
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -618,8 +618,7 @@ https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTVLCOPT:http-user-agent=""
-https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/ochannel_rattus/playlist.m3u8
+https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/moji.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event",MOJI 1
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
@@ -628,7 +627,7 @@ https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event",MOJI 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event",MOJI 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -702,11 +701,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 
 #EXTINF:-1 group-title="live event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://combilolo.my.id/tes/drm.php?id=1003&token=qj3t11tjydf2dsf1sqdsswdsy323q3t2wd2q33t1d1y3qd11rsa22a1t2had32das2ae3122jl1s1tas34y12a132e1l3d222a4s
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://combilolo.my.id/tes/index.mpd?id=1003&token=qj3t11tjydf2dsf1sqdsswdsy323q3t2wd2q33t1d1y3qd11rsa22a1t2had32das2ae3122jl1s1tas34y12a132e1l3d222a4s
+https://cdn-1.bdiptv24.line.pm/live/FS1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -755,7 +750,11 @@ https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd
 https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd?version=1
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="live event",Copa America 01
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
+https://hzbcdcv.xyz/my-live/linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd?token=hati-hati-keluar-bok3p
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="live event",Copa America 02
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
@@ -3648,7 +3647,9 @@ https://d17c7mhdsdu50m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #https://cors-proxy.elfsight.com/https://webhdrunns.onlinehdhls.ru/lb/premium550/index.m3u8|Origin=https://lewblivehdplay.ru
 
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports/hub_premier.png" group-title="SPORTS", H premier 1
-#https://raw.githubusercontent.com/pjkdamai/coba/main/huber.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9d5e30b01624f7aa6f42507c2a3ed4a:6d028aeaa1e0400cacf820c85dcdfbc1
+https://hzbcdcv.xyz/sg/HubPremier1/output/manifest.mpd?type=dash
 
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports/hub_premier.png" group-title="SPORTS", H premier 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
