@@ -1415,7 +1415,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c95db2/manifest.mpd
 
-#EXTINF:-1 group-title="TV LOKAL" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",BMSTV
+#EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://iptv.urfan.web.id/logo/bmstv.png",BMSTV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/malaysia2/tv1.png" group-title="TV LOKAL",TV 1 Malaysia
@@ -3145,10 +3146,8 @@ https://iptv.cinehub.wf/mono/ddh1.onlinehdhls.ru/ddh1/premium124/playlist.m3u8
 https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium125/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748",Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://hzbcdcv.xyz/my-live/linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd?token=hati-hati-keluar-bok3p
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://iptv.cinehub.wf/mono/ddh2.onlinehdhls.ru/ddh2/premium126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1soQjAf-_H6yjnmydMX27Y9m.png" group-title="SPORTS",beIN SPORTS MY1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
