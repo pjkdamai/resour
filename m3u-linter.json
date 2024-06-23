@@ -3702,6 +3702,30 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #EXTINF:-1  tvg-logo="https://hometv.biz.id/logo/sports/bein_id.jpg" group-title="SPORTS",Bein Sports Xtra Australia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/fSCv40t/Vsport1.png",V SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vXkbT41/Vsport-Football.png",V SPORT FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/tJsZth2/Vsport-Premium.png",V SPORT PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vZsV7D6/Vsport-Extra.png",V SPORT EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/ufc.png" group-title="SPORTS",UFC 
 https://play.gachor99.my.id:443/roni/jimbaran/85
 
