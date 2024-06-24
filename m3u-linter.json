@@ -3922,17 +3922,21 @@ https://play.gachor99.my.id:443/roni/jimbaran/85
 #https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjc5MTM1MDgiLCJyZWZyZXNoX3Rva2VuIjoiVU9UbHFBcEV6cDZUamFKUUdkdFwvSkRIbklxU0dqeGJ3MjU1NkUwNzVVSWFDUTVWMGhmS3EreU1ESjE0UzJiZTRuU0l5aGcrM25BT3REYlwvdGUzV2M5XC9sTWpaMUVcL29QTjNVYkhEdE4zSjlZOWdRUEx0dkFvY2s1TERzdGRYN2VvSU5oY3oxc2xndUthdXBpQURYYm5GSElxKzNNNlpQbmtvNVo3RzhnYmFVNUNRZDhGYVF2SFRiNEhTUGNEVXRGTnY5UEhFcm03UXgrVWhKMWx6Wnl2ZElxQ0FqMms2ZGJVVjJydnFEVFIyUWFkbjY0Zmo0TnF5ckhJbmIxSkljdHdqcnE5S1RjS0xPdFFWczJWcXVqNU5uXC9pb1p4VGVTUWdMT09HSG85NlB2a0FVXC9RQUdNTlwvRTlkdGhsdmUzZ1M3Z3R2aDJDekJUQlJOeU84VFlyeWVDaGFpUnc0bzRidTQ4eUhuYk4wd29kYjB0K0ZxY2FIbWJcL29EYUVFVkRtRmcifQ== 
 
 
+===================================================================hub premiere=====================================================
+
+
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="#🌍 EPL with VPN 🌍#", 🇸🇬 Hub Premier 2 - 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
-https://hzbcdcv.xyz/sg//HubPremier2_4K/output/manifest.mpd?type=dash
-https://hzbcdcv.xyz/sg/HubPremier1/output/manifest.mpd?type=dash
+https://hzbcdcv.xyz/bpk-tv//HubPremier2_4K/output/manifest.mpd?type=dash
+
 #EXTINF:-1 tvg-id="" tvg-name="#🌍 EPL with VPN 🌍#" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="#🌍 EPL with VPN 🌍#",🇸🇬 Hub Premier 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-#https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
-https://hzbcdcv.xyz/sg/HubPremier1/output/manifest.mpd?type=dash
+https://hzbcdcv.xyz/bpk-tv/HubPremier1/output/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="#🌍 EPL with VPN 🌍#" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="#🌍 EPL with VPN 🌍#",🇸🇬 Hub Premier 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
