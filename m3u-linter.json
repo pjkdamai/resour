@@ -748,10 +748,7 @@ https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd?version=
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="live event",Copa America 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
-https://hzbcdcv.xyz/my-live/linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd?token=hati-hati-keluar-bok3p
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="live event",Copa America 02
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
