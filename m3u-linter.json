@@ -3929,18 +3929,18 @@ https://play.gachor99.my.id:443/roni/jimbaran/85
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="#🌍 EPL with VPN 🌍#", 🇸🇬 Hub Premier 2 - 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
-https://hzbcdcv.xyz/bpk-tv//HubPremier2_4K/output/manifest.mpd?type=dash
+#https://hzbcdcv.xyz/bpk-tv//HubPremier2_4K/output/manifest.mpd?type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="#🌍 EPL with VPN 🌍#" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="#🌍 EPL with VPN 🌍#",🇸🇬 Hub Premier 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://hzbcdcv.xyz/bpk-tv/HubPremier1/output/manifest.mpd
+#https://hzbcdcv.xyz/bpk-tv/HubPremier1/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="#🌍 EPL with VPN 🌍#" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="#🌍 EPL with VPN 🌍#",🇸🇬 Hub Premier 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-https://hzbcdcv.xyz/sg/HubPremier12/output/manifest.mpd
+#https://hzbcdcv.xyz/sg/HubPremier12/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="#🌍 EPL with VPN 🌍#" tvg-logo="https://www.irishiptv.com/wp-content/uploads/2023/12/Hub-Premier.png" group-title="#🌍 EPL with VPN 🌍#",🇸🇬 Hub Premier 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
