@@ -3972,6 +3972,30 @@ https://play.gachor99.my.id:443/roni/jimbaran/85
 
 ======================================================hbo===============================================================
 
+#EXTINF:-1 group-title="MOVIES" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39a424d1b79e3b77bf6eaac3f3221f7e:7804e43828e094bd49e3d4df443eea11
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e0b88044bbb3512a3d0027764314783:52843f20db4bbf45d594b6be310f81c1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#EXTINF:0 group-title="MOVIES" tvg-id="hbohitsasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1e570be4c63326aa95ea53eb5be2699:f9d709f24054472ab7f53c758cf45c94
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90674eee11703150bc2df4bc9a2cbae5:c4b574fa201da00d54bcea4901bb4171
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="cinemaxasia.sg" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad90306387ee369eb2a6de02869c7653:4b17755fdea3ca0277bb64a1e9fbecef
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine 
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true 
