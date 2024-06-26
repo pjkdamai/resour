@@ -2210,6 +2210,33 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 #EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://i.imgur.com/bNXJWsf.png" group-title="KNOWLEDGE",Digione 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8 
 
+#EXTINF:-1 tvg-name="Discovery AsiaE.id" tvg-id="DiscoveryAsia.id" group-title="KNOWLEDGE" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png",Discovery Asia (IND)
+#EXTHTTP:
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://her.otv.my.id/cenc/get.mpd?type=dash&auth=eU5PSEErNS9abm9uL2F5WDVUUDlSdTBkb3JlU2tkeVdiY3MxbHNXSXhmMFhTMkRubEQrWkhER1k1ZnFQSDhkcFpxM3dDSS8rcyt1MElNOUxIOVUzS01NMWZ4L2l2NCt1c1ZOeitIajR6SXc9
+
+#EXTINF:-1 tvg-name="Love Nature.id" tvg-id="LoveNature.id" group-title="KNOWLEDGE" tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png",Love Nature(IND)
+#EXTHTTP:
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://her.otv.my.id/cenc/get.mpd?type=dash&auth=eU5PSEErNS9abm9uL2F5WDVUUDlSdTBkb3JlU2tkeVdiY3MxbHNXSXhmMjd0N3ZwcWJrUUZBK25rNnBZb2F3bUFBTURCTDNLRVN0NzdSWElOM2Y5T2pubUxVekV1QS9JU3EvVy8rbVR1Vms9
+
+#EXTINF:-1 tvg-name="Curiosity.id" tvg-id="Curiosity.id" group-title="KNOWLEDGE" tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png",Curiosity (IND)
+#EXTHTTP:
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://her.otv.my.id/cenc/get.mpd?type=dash&auth=eU5PSEErNS9abm9uL2F5WDVUUDlSdTBkb3JlU2tkeVdiY3MxbHNXSXhmMmhsNkI2MlhtQWh4dXNFV3RZTnFzcTVsRlhHUXpqUndWQm1JNld3ZjRKbXBRbXRUbGNPamh0N1JXcmRhb1pHalE9
+
+#EXTINF:-1 tvg-name="Animal Planet.id" tvg-id="animalplanet.id" group-title="KNOWLEDGE" tvg-logo="http://images.ott.biz.id/logo/knowledge/animal_planet.png",Animal Planet (IND)
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://her.otv.my.id/cenc/get.mpd?type=dash&auth=eU5PSEErNS9abm9uL2F5WDVUUDlSdTBkb3JlU2tkeVdiY3MxbHNXSXhmMlBjdmFIMnc3cld2T2k4T3c4djJFTWhIdkVtQzNBdnBwR2JOSWRpcXpHL0xEa0xQbHlyRmJwK2xnbmFPUklLd1E9
+
 
 =========================================== ENTERTAINMENT ===========================================
 
@@ -2549,6 +2576,44 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/80
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/lifestyle2/ftv_midnight.png" group-title="ENTERTAINMENT",Fashion coba
 https://raw.githubusercontent.com/pjkdamai/coba/main/fashionmidnight.m3u8
+
+#EXTINF:-1 tvg-name="ID: Citra Bioskop" tvg-id="CitraBioskop.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/IpdaYmi.png",Citra Bioskop
+#EXTHTTP:
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT0IzNWhHSTlXVy9xRitMV2VkdFRRVkpVOXdWVjdpcEU3TitDQ3VDQ3ZwdWxDbklXVlQ0Vk5NRExwOGVxSTRaemk=
+
+#EXTINF:-1 tvg-name="ID: Citra Dangdut HD" tvg-id="CitraDangdut.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/0C69zfe.png",Citra Dangdut HD
+#EXTHTTP:
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT01UZEs4cjlja2VIUlR3S2xYcHVEZzFla1JyaXNBMjIzT2xzaHhQeUJLQWN1M0VJMTBxekVqU0pzVkcvc09OL1E=
+
+#EXTINF:-1 tvg-name="ID: Citra Drama HD" tvg-id="Citra Drama.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/Sgzx95d.png",Citra Drama HD
+#EXTHTTP:
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
+https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT3lkN1dyNEVmekNtN3d4NFM3VTZOdHhqeTBKa0VtMytoeE1FZC9wMDQxRUU9
+
+#EXTINF:-1 tvg-name="ID: Citra Entertainment HD" tvg-id="CitraEntertainment.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/DPulvHZ.png",Citra Entertainment HD
+#EXTHTTP:
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT0VmWGkvR3lrYzNkb29RK0h0SzlVdmluQ3V5ak5kM2FCVnZITjhyMWJQZ2s1UEFzZ1hrVVk2Z2RnYTdVeWdQZDI=
+
+#EXTINF:-1 tvg-name="ID: Citra Muslim HD" tvg-id="CitraMuslim.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/0quH8RA.png",Citra Muslim HD
+#EXTHTTP:
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT3VjZ0xjMTkramRXeVBlbEVVZitFV1ZJQmVTZDFmc0VRRVVpUFBQNllTVmxTd3l2OGdJL0lybHRHdGtSZ3lsOXY=
+
+
+
 
 ===============================================================================##### SPORT #####========================================================================
 
