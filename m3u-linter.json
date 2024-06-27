@@ -695,10 +695,10 @@ https://raw.githubusercontent.com/shabrina0401/bernabeu/main/FIFA/jawa1.m3u8
 https://raw.githubusercontent.com/shabrina0401/bernabeu/main/hfye63gt1e.m3u8
 
 #EXTINF:-1 group-title="live event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b3ccf73a7a664f85ae7411367ffb2fa7&key=9687d91b7fd647a88183d0a4cc925f77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://linear01-playback.sooka.my/CH1/masterCH1.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f
+https://hzbcdcv.xyz/https://linear01-playback.sooka.my/CH1/masterCH1.
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
