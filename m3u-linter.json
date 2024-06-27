@@ -2210,32 +2210,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 #EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://i.imgur.com/bNXJWsf.png" group-title="KNOWLEDGE",Digione 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8 
 
-#EXTINF:-1 tvg-name="Discovery AsiaE.id" tvg-id="DiscoveryAsia.id" group-title="KNOWLEDGE" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png",Discovery Asia (IND)
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=eU5PSEErNS9abm9uL2F5WDVUUDlSdTBkb3JlU2tkeVdiY3MxbHNXSXhmMFhTMkRubEQrWkhER1k1ZnFQSDhkcFpxM3dDSS8rcyt1MElNOUxIOVUzS01NMWZ4L2l2NCt1c1ZOeitIajR6SXc9
-
-#EXTINF:-1 tvg-name="Love Nature.id" tvg-id="LoveNature.id" group-title="KNOWLEDGE" tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png",Love Nature(IND)
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=eU5PSEErNS9abm9uL2F5WDVUUDlSdTBkb3JlU2tkeVdiY3MxbHNXSXhmMjd0N3ZwcWJrUUZBK25rNnBZb2F3bUFBTURCTDNLRVN0NzdSWElOM2Y5T2pubUxVekV1QS9JU3EvVy8rbVR1Vms9
-
-#EXTINF:-1 tvg-name="Curiosity.id" tvg-id="Curiosity.id" group-title="KNOWLEDGE" tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png",Curiosity (IND)
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=eU5PSEErNS9abm9uL2F5WDVUUDlSdTBkb3JlU2tkeVdiY3MxbHNXSXhmMmhsNkI2MlhtQWh4dXNFV3RZTnFzcTVsRlhHUXpqUndWQm1JNld3ZjRKbXBRbXRUbGNPamh0N1JXcmRhb1pHalE9
-
-#EXTINF:-1 tvg-name="Animal Planet.id" tvg-id="animalplanet.id" group-title="KNOWLEDGE" tvg-logo="http://images.ott.biz.id/logo/knowledge/animal_planet.png",Animal Planet (IND)
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=eU5PSEErNS9abm9uL2F5WDVUUDlSdTBkb3JlU2tkeVdiY3MxbHNXSXhmMlBjdmFIMnc3cld2T2k4T3c4djJFTWhIdkVtQzNBdnBwR2JOSWRpcXpHL0xEa0xQbHlyRmJwK2xnbmFPUklLd1E9
 
 
 =========================================== ENTERTAINMENT ===========================================
@@ -2612,7 +2586,11 @@ https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdn
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
 https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT3VjZ0xjMTkramRXeVBlbEVVZitFV1ZJQmVTZDFmc0VRRVVpUFBQNllTVmxTd3l2OGdJL0lybHRHdGtSZ3lsOXY=
 
-
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_yb5x8jh7/banner_xxhdpi.jpg" tvg-name="FTV" tvg-id="FTV.id" group-title="ENTERTAINMENT",FTV (MAX)
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=159ea156d5c235dd86f97a44a45f2b95:e679737384d3d883af8208c2188185d2
+https://her.otv.my.id/max/get.mpd?type=dash&ch=YlJLKzR4bzBPeDVWaUFmdytxUWF1TUVNOFc5YmhPdFM3MHNQcndrTTBrcnhwdXRWcEFCWm1zclYvYkNYZkZFS21CMlBMQ1hIRkVDbHVRNlc0eU5qdGJBZFNRa1NKMSszSXhVRTdvSlpqeE16UkRhbDhOdDY4VGxScTdZN2V0a01lakgwSkdlTEVNQjNJUDFjREY5WlEwVStJa3BBaEtGRWJrY2dCQ0xrNCtzPQ==.mpd
 
 
 ===============================================================================##### SPORT #####========================================================================
@@ -3804,6 +3782,7 @@ https://play.gachor99.my.id:443/roni/jimbaran/85
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39a424d1b79e3b77bf6eaac3f3221f7e:7804e43828e094bd49e3d4df443eea11
 #https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+https://her.otv.my.id/max/get.mpd?type=dash&ch=YlJLKzR4bzBPeDVWaUFmdytxUWF1TUVNOFc5YmhPdFM3MHNQcndrTTBrcnhwdXRWcEFCWm1zclYvYkNYZkZFS21CMlBMQ1hIRkVDbHVRNlc0eU5qdGNEYnhxOU1NRkJvZjZOcmlXa3M2RWVtY1dIaHFuanQvS1kzbktDQVNFaUErN2YydTdxTWx4dEJVRHVzUlUyMnhZcDgxMlR0SWdPSE5PVkYvZzdlRFdzPQ==.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
