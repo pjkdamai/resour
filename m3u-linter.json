@@ -589,6 +589,7 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/171.m3u8
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/117
 #https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/moji.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
