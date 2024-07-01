@@ -774,7 +774,7 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 #https://raw.githubusercontent.com/mbahnunung/stb/master/live/m3u8/id/205.m3u8
 #EXTVLCOPT:http-user-agent=Televizo (Linux; Android 11)
-https://tevi.my.id/Copa5.m3u8|referer=https://player.goupnow.net/
+https://tevi.my.id/Copa4.m3u8|referer=https://player.goupnow.net/
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="live event",Copa America 05
 #EXTVLCOPT:http-user-agent=Televizo (Linux; Android 11)
