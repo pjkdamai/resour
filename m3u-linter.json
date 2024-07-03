@@ -2598,11 +2598,10 @@ https://raw.githubusercontent.com/pjkdamai/coba/main/fashionmidnight.m3u8
 #https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT0VmWGkvR3lrYzNkb29RK0h0SzlVdmluQ3V5ak5kM2FCVnZITjhyMWJQZ2s1UEFzZ1hrVVk2Z2RnYTdVeWdQZDI=
 
 #EXTINF:-1 tvg-name="ID: Citra Muslim HD" tvg-id="CitraMuslim.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/0quH8RA.png",Citra Muslim HD
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
-#https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT3VjZ0xjMTkramRXeVBlbEVVZitFV1ZJQmVTZDFmc0VRRVVpUFBQNllTVmxTd3l2OGdJL0lybHRHdGtSZ3lsOXY=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
 
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_yb5x8jh7/banner_xxhdpi.jpg" tvg-name="FTV" tvg-id="FTV.id" group-title="ENTERTAINMENT",FTV (MAX)
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
