@@ -552,9 +552,8 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17474_stream.mpd?hdntl=exp=1718985925~acl=%2f*~id=159984049~data=hdntl~hmac=5533fd2a1e3bdd6de00b138a6c47c28275ec4794f15f3c96d46e4b598047ad7c
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#EXTVLCOPT:http-Referer=https://player.goupnow.net/
-https://tevi.my.id/insiar.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://108.181.132.217:8070/AmirBilali/76448035/162138
 #EXTVLCOPT:http-referrer=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1718986195~acl=/live/17252/*~id=161049633~hmac=d9f375711e41c8d13b58503bb965197a12ce0da6bdf4f5218b4fe80944a3d05a
@@ -1128,8 +1127,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=gtv
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4783ff58da/dd0e5afbeb2b4a7e802b4fbacce14991.png",10 Metro TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://210.210.155.37/uq2663/h/h12/index.m3u8
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch110.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-m.png",10 Metro TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
