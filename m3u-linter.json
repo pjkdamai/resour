@@ -2570,32 +2570,28 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/80
 https://raw.githubusercontent.com/pjkdamai/coba/main/fashionmidnight.m3u8
 
 #EXTINF:-1 tvg-name="ID: Citra Bioskop" tvg-id="CitraBioskop.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/IpdaYmi.png",Citra Bioskop
-#EXTHTTP:
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-#https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT0IzNWhHSTlXVy9xRitMV2VkdFRRVkpVOXdWVjdpcEU3TitDQ3VDQ3ZwdWxDbklXVlQ0Vk5NRExwOGVxSTRaemk=
+https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 #EXTINF:-1 tvg-name="ID: Citra Dangdut HD" tvg-id="CitraDangdut.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/0C69zfe.png",Citra Dangdut HD
-#EXTHTTP:
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-#https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT01UZEs4cjlja2VIUlR3S2xYcHVEZzFla1JyaXNBMjIzT2xzaHhQeUJLQWN1M0VJMTBxekVqU0pzVkcvc09OL1E=
+https://atemeshield1-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
 #EXTINF:-1 tvg-name="ID: Citra Drama HD" tvg-id="Citra Drama.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/Sgzx95d.png",Citra Drama HD
-#EXTHTTP:
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-#https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT3lkN1dyNEVmekNtN3d4NFM3VTZOdHhqeTBKa0VtMytoeE1FZC9wMDQxRUU9
+https://atemeshield1-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
 #EXTINF:-1 tvg-name="ID: Citra Entertainment HD" tvg-id="CitraEntertainment.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/DPulvHZ.png",Citra Entertainment HD
-#EXTHTTP:
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
-#https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NmJYUXAvQ3R1NFc4V3ZCK0kzb2dTdnZJVm9UQzFzVllYd3FldGFId0hHRnlsQThEdUZ6dGQvWkcxZ25mSmNMT0VmWGkvR3lrYzNkb29RK0h0SzlVdmluQ3V5ak5kM2FCVnZITjhyMWJQZ2s1UEFzZ1hrVVk2Z2RnYTdVeWdQZDI=
+https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
 #EXTINF:-1 tvg-name="ID: Citra Muslim HD" tvg-id="CitraMuslim.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/0quH8RA.png",Citra Muslim HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2607,8 +2603,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.m
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=159ea156d5c235dd86f97a44a45f2b95:e679737384d3d883af8208c2188185d2
-#https://her.otv.my.id/max/get.mpd?type=dash&ch=YlJLKzR4bzBPeDVWaUFmdytxUWF1TUVNOFc5YmhPdFM3MHNQcndrTTBrcnhwdXRWcEFCWm1zclYvYkNYZkZFS21CMlBMQ1hIRkVDbHVRNlc0eU5qdGJBZFNRa1NKMSszSXhVRTdvSlpqeE16UkRhbDhOdDY4VGxScTdZN2V0a01lakgwSkdlTEVNQjNJUDFjREY5WlEwVStJa3BBaEtGRWJrY2dCQ0xrNCtzPQ==.mpd
-
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
 ===============================================================================##### SPORT #####========================================================================
 
@@ -3917,6 +3912,36 @@ https://play.gachor99.my.id:443/roni/jimbaran/85
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/max/get.drm?type=widevine&ch=YWEydExJbGhXd2RFOXlvTjRPMVp4S0ZRQmdEOWhhY01hUHpBd3ovOURtczNpTDRqb2NGMlI1STIzQVNOVSsvZHA4RjVvdWtOK3F3YmFnSUcvY0FyY2FpblR1ajhWVFh0T0VEQlVqYVJ6c09Yb1ZqcDhSQ0ZOa3MzNGN2RGZDK25PTEhMQXRVekxUSUlWalczS3lpalN2K0NpZkhtcCt0ZzJGZG1QVVhBdy9nPQ==
 #https://her.otv.my.id/max/get.mpd?type=dash&ch=YlJLKzR4bzBPeDVWaUFmdytxUWF1TUVNOFc5YmhPdFM3MHNQcndrTTBrcnhwdXRWcEFCWm1zclYvYkNYZkZFS21CMlBMQ1hIRkVDbHVRNlc0eU5qdFZ3TWZaTExVWFhPOWtkVGFvdG0rN1JwOTduMWcvazl0NzFyaGc2V3p6b3lqb3VGdTJtcXhyWnAzckg3WkthL2lnVDdaaHhsMjNpTXgvMXFKNGF0Z0tBPQ==.mpd
+
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/banner_xxhdpi.jpg" group-title="MOVIES",HBO (Fmx)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+
+#EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBOHits1" group-title="MOVIES" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_dx9zvcn8/banner_xxhdpi.jpg",HBO Hits (Fmx)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmVjNTM6MjBkZTphZDozMTFiIiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJIQk9IaXRzSEQiLCJzaWduYXR1cmVLZXkiOiJlOWQ5Yjc2MDM2ZWMwYjA1OWJhZTljYTdjMDMwZTVkZCIsInByb3ZpZGVyIjoiZm0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMDAwNjY2Mn0
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+
+#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBOFamily1" group-title="MOVIES" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_xxhdpi.jpg",HBO Family (Fmx)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmVjNTM6MjBkZTphZDozMTFiIiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJIQk9IaXRzSEQiLCJzaWduYXR1cmVLZXkiOiJlOWQ5Yjc2MDM2ZWMwYjA1OWJhZTljYTdjMDMwZTVkZCIsInByb3ZpZGVyIjoiZm0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMDAwNjY2Mn0
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+
+#EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBOSignature1" group-title="Movies" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_t4w6p88r/banner_xxhdpi.jpg",HBO Signature (Fmx)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmVjNTM6MjBkZTphZDozMTFiIiwiZGV2aWNlVHlwZSI6IldpbmRvd3MiLCJjaGFubmVsSWQiOiJIQk9IaXRzSEQiLCJzaWduYXR1cmVLZXkiOiJlOWQ5Yjc2MDM2ZWMwYjA1OWJhZTljYTdjMDMwZTVkZCIsInByb3ZpZGVyIjoiZm0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMDAwNjY2Mn0
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_2yj5giid/banner_xxhdpi.jpg" group-title="MOVIES",CINEMAX (Fmx)
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 
 #================================WarKop DKI================================#
