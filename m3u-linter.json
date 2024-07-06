@@ -2844,30 +2844,35 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn1.png" group-title="SPORTS", TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
-#https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
-http://45.41.213.34:70/TSN1/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:00dd5dd17b0799aa4013f365a1393ce
+https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
+
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn2.png" group-title="SPORTS", TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-#https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
-http://45.41.213.34:70/TSN2/index.m3u8
+https://livecdn-iptv001.rumsport.com/stream/771/manifest.mpd
+
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn3.png" group-title="SPORTS", TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-#https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
-http://45.41.213.34:70/TSN3/index.m3u8
+https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
+
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn4.png" group-title="SPORTS", TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
-#https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
-http://45.41.213.34:70/TSN4/index.m3u8
+https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
+
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn5.png" group-title="SPORTS", TSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
-#https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
-http://45.41.213.34:70/TSN5/index.m3u8
+https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
+
 #EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-logo="http://guki.my.id/logo/sports/1p.png" group-title="SPORTS",Arena Sport Premium 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3106,7 +3111,7 @@ https://cdn-1.bdiptv24.line.pm/live/FS1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
 #https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd
-https://cdn-1.bdiptv24.line.pm/live/FS2/index.m3u8
+http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X8I591M.png", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
