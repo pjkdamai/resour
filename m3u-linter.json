@@ -533,10 +533,8 @@ http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
-https://en.gdplayertv.to/live-tv/indosiar/?alt=0&embed=1
-https://en.gdplayertv.to/live-tv/indosiar/?alt=1&embed=1
-https://en.gdplayertv.to/live-tv/indosiar/?alt=2&embed=1
+##EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.237.32.213:9981/stream/channelid/1888111875
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -568,30 +566,30 @@ https://tevi.my.id/insiar.m3u8|referer=https://anarchy-stream.com/
 #KODIPROP:inputstream.adaptive.license_key=ae45e9ae2f2244c18f804195213a495c:00421dca102c69f8432b48626348a989
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://d2uty8832jppwn.cloudfront.net/out/v1/d0b6763e1b4d4b71869601bfb6ded8da/index.mpd
+http://mkctvnew.my.id/u16.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHzwLVVMnEcuX_RWouFW_Ier.png" group-title="live event",ASSP 1
-#EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
-https://phdown.serv00.net/Smartv.php?id=SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/118.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHy3O2LN8dDE9Jx24z8Ew69C.png" group-title="live event",ASSP 2
-#EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
-https://go.now.net.eu.org/p/lol/live?embed=assp2&type=m
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+https://sgn.play-hometv.my.id:443/live/Sugeng/msY9yqKyrR/167.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHyzgT70OFIIt3Sce2X7vmpH.png" group-title="live event",ASSP 3
-#EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
-https://phdown.serv00.net/Smartv.php?id=Assp1_mega
+https://7pal.short.gy/astross3
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHwVtUIS560IarIfHfmlE-r7.png" group-title="live event",ASSP 4
 #EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
-https://go.now.net.eu.org/p/lol/live?embed=assp4&type=m
+#https://go.now.net.eu.org/p/lol/live?embed=assp4&type=m
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="live event",ASTRO ARENA 1
 #EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/170.m3u8
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/170.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="live event",ASTRO ARENA 2
 #EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/171.m3u8
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/171.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
