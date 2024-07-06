@@ -534,7 +534,10 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9721
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
+https://phdown.serv00.net/Smartv.php?id=Indosiar
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -569,15 +572,15 @@ https://tevi.my.id/insiar.m3u8|referer=https://anarchy-stream.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHzwLVVMnEcuX_RWouFW_Ier.png" group-title="live event",ASSP 1
 #EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166.m3u8
+https://phdown.serv00.net/Smartv.php?id=Assp1
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHy3O2LN8dDE9Jx24z8Ew69C.png" group-title="live event",ASSP 2
 #EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/167.m3u8
+https://phdown.serv00.net/Smartv.php?id=go_assp1
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHyzgT70OFIIt3Sce2X7vmpH.png" group-title="live event",ASSP 3
 #EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
-https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/168.m3u8
+https://phdown.serv00.net/Smartv.php?id=Assp1_mega
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHwVtUIS560IarIfHfmlE-r7.png" group-title="live event",ASSP 4
 #EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
