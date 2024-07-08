@@ -679,9 +679,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3679
 
 #EXTINF:-1 group-title="live event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 2
-#EXTVLCOPT:http-referrer=https://www.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/shabrina0401/bernabeu/main/FIFA/jawa1.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff18f095bc835e8d902be9420438729e:bbfdc8de223e8b33144d5c718f01f58b
+https://cors-proxy.cooks.fyi/https://linear.stvacdn.spectrum.com/LIVE/5239/bpk-tv/00700/drm/manifest.mpd
 
 #EXTINF:-1 group-title="live event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
@@ -734,10 +735,10 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
-#https://cors-proxy.elfsight.com/https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
+http://124.217.248.213:8080/https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
 #https://hzbcdcv.xyz/my-live/linearjitp-playback.astro.com.my/dash-wv/linear/5148/default.mpd?token=hati-hati-keluar-bok3p
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4103
+#http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/4103
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
