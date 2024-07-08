@@ -549,7 +549,8 @@ https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9721
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://santai90.000webhostapp.com/hexkey/aff_u16.php
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17474_stream.mpd?hdntl=exp=1718985925~acl=%2f*~id=159984049~data=hdntl~hmac=5533fd2a1e3bdd6de00b138a6c47c28275ec4794f15f3c96d46e4b598047ad7c
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17474_stream.mpd?hdntl=exp=1718985925~acl=%2f*~id=159984049~data=hdntl~hmac=5533fd2a1e3bdd6de00b138a6c47c28275ec4794f15f3c96d46e4b598047ad7c
+https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Indosiar.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -571,6 +572,7 @@ https://7pal.short.gy/astross1
 https://7pal.short.gy/astross2
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHyzgT70OFIIt3Sce2X7vmpH.png" group-title="live event",ASSP 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://7pal.short.gy/astross3
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHwVtUIS560IarIfHfmlE-r7.png" group-title="live event",ASSP 4
@@ -578,11 +580,11 @@ https://7pal.short.gy/astross3
 https://7pal.short.gy/astross4
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="live event",ASTRO ARENA 1
-#EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/170
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="live event",ASTRO ARENA 2
-#EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/171
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event", MOJI
