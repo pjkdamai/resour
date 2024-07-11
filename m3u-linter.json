@@ -1157,7 +1157,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b3
 #EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://hometv.biz.id/logo/lokal2/cnbc_indonesia.png" group-title="NASIONAL",13 CNBC Indonesia 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://okegas.transvision.workers.dev/dassdvr/133/cnbcindonesia_dash/manifest.mpd
+https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="rtv.id" tvg-name="rtv" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5cd0b15903/bb1a5397f68d42899630a14334c359aa.jpg" group-title="NASIONAL",14 RTV 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1180,7 +1180,7 @@ http://stb.mbahnunungonline.net/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-m.png",15 Net tv 2
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://okegas.transvision.workers.dev/dassdvr/133/net/manifest.mpd
+https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #EXTINF:-1 tvg-id="mOji.id" tvg-name="mOji" tvg-logo="https://hometv.biz.id/logo/sports2/moji.png" group-title="NASIONAL",16 moji 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -1192,7 +1192,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://okegas.transvision.workers.dev/dassdvr/134/ochannel/manifest.mpd
+https://cors-proxy.cooks.fyi/https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="NASIONAL",16 moji 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -1221,7 +1221,7 @@ http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://okegas.transvision.workers.dev/dassdvr/134/mentaritv/manifest.mpd
+https://cors-proxy.cooks.fyi/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6c3a722be5/20220808030746.jpg",Gossip
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
