@@ -2620,7 +2620,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=Dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://okegas.transvision.workers.dev/dassdvr/133/beib1/manifest.mpd
+https://okegas.kuntuk.workers.dev/dassdvr/133/beib1/manifest.mpd
   
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/bein3id.png" group-title="SPORTS",Indihome beiN Sport 3
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -2628,7 +2628,7 @@ https://okegas.transvision.workers.dev/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://okegas.transvision.workers.dev/dassdvr/133/beib2/manifest.mpd
+https://okegas.kuntuk.workers.dev/dassdvr/133/beib2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/soccer_channel.jpg" group-title="SPORTS",Soccer Chanel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
