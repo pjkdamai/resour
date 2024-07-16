@@ -3387,7 +3387,7 @@ https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
 https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/kFdooR4.png" tvg-id="Match.ru" group-title="SPORTS",Матч!
+#EXTINF:-1 tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/4Xld300.png" tvg-id="Match.ru" group-title="SPORTS",Матч!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3395,7 +3395,7 @@ https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
 https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/he/a/a1/Match_tv_2019.png", Матч! FIGHT
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/4Xld300.png", Матч! FIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3403,7 +3403,7 @@ https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=660a37a91aa00b7e2e0bc7dca349b982:3593a4a2bfbd7d9585efff083b769cf5
 https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Арена" tvg-logo="https://upload.wikimedia.org/wikipedia/he/a/a1/Match_tv_2019.png", Матч! ARENA
+#EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Арена" tvg-logo="https://i.imgur.com/4Xld300.png", Матч! ARENA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3411,7 +3411,7 @@ https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
 https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Match%21_Futbol_1_Stacked.svg/revision/latest/scale-to-width-down/640", Матч! FOOTBALL 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 1" tvg-logo="https://i.imgur.com/tdIwuY5.png", Матч! FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3419,7 +3419,7 @@ https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
 https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Match%21_Futbol_2_Stacked.svg/revision/latest/scale-to-width-down/640", Матч! FOOTBALL 2
+#EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 2" tvg-logo="https://i.imgur.com/tdIwuY5.png", Матч! FOOTBALL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3427,7 +3427,7 @@ https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=ce7cf9b28d1a8d874accebc44d7e1fcd:cda18d4d20abd5cc778315abe277feb9
 https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Match%21_Futbol_3_Stacked.svg/revision/latest/scale-to-width-down/640", Матч! FOOTBALL 3
+#EXTINF:-1 group-title="SPORTS" tvg-id="Матч! Футбол 3" tvg-logo="https://i.imgur.com/tdIwuY5.png", Матч! FOOTBALL 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3435,14 +3435,14 @@ https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
 https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
 
-#EXTINF:-1 tvg-id="Match4 (HD).hu" tvg-logo="https://upload.wikimedia.org/wikipedia/he/a/a1/Match_tv_2019.png" group-title="SPORTS",Матч! 4
+#EXTINF:-1 tvg-id="Match4 (HD).hu" tvg-logo="https://i.imgur.com/4Xld300.png" group-title="SPORTS",Матч! 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="МАТЧ ПРЕМЬЕР" tvg-logo="https://upload.wikimedia.org/wikipedia/he/a/a1/Match_tv_2019.png",Матч! PREMIERE
+#EXTINF:-1 group-title="SPORTS" tvg-id="МАТЧ ПРЕМЬЕР" tvg-logo="https://i.imgur.com/4Xld300.png",Матч! PREMIERE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
