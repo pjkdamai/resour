@@ -1303,7 +1303,7 @@ https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 #EXTINF:-1 tvg-name="NU CHANEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-pBEwneZhbGFXrLVNbxMDppv_4RcoKE4AF-cPD9nXPw&s" group-title="RELIGI",NU CHANEL
 #https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1710755278/ei/brn3ZYbpKduJjuMP6surqA0/ip/103.105.35.92/id/VUFUsfFLdOs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-uigxxi0ujipnvo-ngbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/spc/UWF9fxr-q205C_559Nam5qntLyBmBakAQNZxIetfboCbqyfPaxYK7OUIxEkTDsc/vprv/1/playlist_type/DVR/initcwndbps/462500/mh/WW/mm/44/mn/sn-uigxxi0ujipnvo-ngbe/ms/lva/mv/m/mvi/2/pl/24/dover/11/pacing/0/keepalive/yes/beids/24350321/mt/1710733005/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,siu,spc,vprv,playlist_type/sig/AJfQdSswRQIgTfd_Yh_XZ549N6WcJlf0C70l4UkyXju9G1RiAshWq78CIQCmflPGdtIikIqM5lg_COsRovsYI-rJIafNzhD-M2kWAw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgPad4MgpMiI-dYfxhL-fT3u9Hx1tuVo8S3sUMjCmFht4CIQCYpCNDm_Wx-eZzXDVr0awX5824rkHI-Ki90qPjq6m7Ig%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
+#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://imgur.com/Syg8TCl",MUI TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1361,7 +1361,7 @@ https://melon-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd|referer=
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/daerah/jawapostv.png" group-title="TV LOKAL",JawaPos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/daerah/garudatv.png" group-title="TV LOKAL",Garuda Tv
+#EXTINF:-1 tvg-logo="https://imgur.com/LJuhvfs" group-title="TV LOKAL",Garuda Tv
 #https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
@@ -1370,7 +1370,7 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="TV LOKAL",Indonesiana TV
+#EXTINF:-1 tvg-logo="https://imgur.com/hU9JPDt" group-title="TV LOKAL",Indonesiana TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 #EXTINF:-1 tvg-id="INFO" group-title="TV LOKAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685758bcfff0175de4453980cf5/ab7212269b0a4780be13f498fd269bfa.png" ch-number="92",Nusantara TV
@@ -1383,7 +1383,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/daerah/madutv.png" group-title="TV LOKAL",Madu Tv
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://i.ibb.co/XpVQn54/pon.png" group-title="TV LOKAL",Pon Tv
+#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://imgur.com/lwFRV5T" group-title="TV LOKAL",Pon Tv
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
 
 #EXTINF:-1 tvg-id="INFO" group-title="TV LOKAL" tvg-logo="https://hometv.biz.id/logo/tv_daerah2/jitv.png" ch-number="92",Ji TV
