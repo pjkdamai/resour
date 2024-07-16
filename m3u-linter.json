@@ -1916,7 +1916,7 @@ https://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://melon-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
-#EXTINF:-1 tvg-id="INFO" group-title="MOVIES" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4umovies.png" ch-number="92",B4U MOVIES
+#EXTINF:-1 tvg-id="INFO" group-title="MOVIES" tvg-logo="https://i.imgur.com/ohWzjNl.png" ch-number="92",B4U MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
 
@@ -1924,7 +1924,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112
 #https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/xingkong.m3u8
 
-#EXTINF:-1 tvg-id="INFO" group-title="MOVIES" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_lotusmacau.png" ch-number="92",LOTUS MACAU
+#EXTINF:-1 tvg-id="INFO" group-title="MOVIES" tvg-logo="https://i.imgur.com/bpyAke5.jpeg" ch-number="92",LOTUS MACAU
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 #EXTINF:-1 tvg-id="INFO" group-title="MOVIES" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/994ca4439869fb20cfc6.png" ch-number="92",LTN FAMILY
@@ -2264,7 +2264,7 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3p5v9kMvl5xR3oqg3sLAmPzf4g71QLi2xxShMpJglOf.png" group-title="ENTERTAINMENT",NOW 90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/tM3zQ5V/rock.png",Now Rock
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/7QqedED.png",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2285,7 +2285,7 @@ https://melon-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 tvg-name="MNC ENTERTAINMENT" tvg-logo="https://hometv.biz.id/logo/entertainment2/ent.png" group-title="ENTERTAINMENT",MNC ENTERTAINMENT 
 https://melon-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
-#EXTINF:-1 tvg-id="HITS Now" tvg-name="" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png" group-title="ENTERTAINMENT", Hits now
+#EXTINF:-1 tvg-id="HITS Now" tvg-name="" tvg-logo="https://i.imgur.com/2ubktcJ.jpeg" group-title="ENTERTAINMENT", Hits now
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2325,7 +2325,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 
-#EXTINF:0 tvg-name="Citra Dangdut" tvg-logo="https://i.postimg.cc/YS6Cwhnk/citradangdut.jpg" group-title="ENTERTAINMENT", CITRA DANGDUT
+#EXTINF:0 tvg-name="Citra Dangdut" tvg-logo="https://i.imgur.com/R3q7jWm.jpeg" group-title="ENTERTAINMENT", CITRA DANGDUT in
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
@@ -2346,7 +2346,7 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRPH6cFJ/citradrama.jpg" group-title="ENTERTAINMENT",Citra Drama 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p5P0cWG.png" group-title="ENTERTAINMENT",Citra Drama in
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
@@ -2511,10 +2511,10 @@ https://melon-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/entertainment2/sbs_english.png" group-title="ENTERTAINMENT", SBS TV
 http://1.245.74.5:1935/live/tv/.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/VqJKnpT/nagas.jpg" group-title="ENTERTAINMENT",Nagaswara
+#EXTINF:0 tvg-logo="https://i.imgur.com/TB9hBtK.jpeg" group-title="ENTERTAINMENT",Nagaswara
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/sVNrhmF/amindo.jpg" group-title="ENTERTAINMENT",Aquarius Musikindo
+#EXTINF:0 tvg-logo="https://i.imgur.com/ke5bTdg.jpeg" group-title="ENTERTAINMENT",Aquarius Musikindo
 #EXTVLCOPT:http-user-agent=""
 https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/rattus/musikindo_rattus/playlist.m3u8
 
@@ -2563,31 +2563,31 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/80
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/lifestyle2/ftv_midnight.png" group-title="ENTERTAINMENT",Fashion coba
 https://raw.githubusercontent.com/pjkdamai/coba/main/fashionmidnight.m3u8
 
-#EXTINF:-1 tvg-name="ID: Citra Bioskop" tvg-id="CitraBioskop.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/IpdaYmi.png",Citra Bioskop
+#EXTINF:-1 tvg-name="ID: Citra Bioskop" tvg-id="CitraBioskop.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/yTI3r7X.jpeg",Citra Bioskop
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 tvg-name="ID: Citra Dangdut HD" tvg-id="CitraDangdut.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/0C69zfe.png",Citra Dangdut HD
+#EXTINF:-1 tvg-name="ID: Citra Dangdut HD" tvg-id="CitraDangdut.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/R3q7jWm.jpeg",Citra Dangdut HD
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 https://atemeshield1-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
-#EXTINF:-1 tvg-name="ID: Citra Drama HD" tvg-id="Citra Drama.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/Sgzx95d.png",Citra Drama HD
+#EXTINF:-1 tvg-name="ID: Citra Drama HD" tvg-id="Citra Drama.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/p5P0cWG.png",Citra Drama HD
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
 https://atemeshield1-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
-#EXTINF:-1 tvg-name="ID: Citra Entertainment HD" tvg-id="CitraEntertainment.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/DPulvHZ.png",Citra Entertainment HD
+#EXTINF:-1 tvg-name="ID: Citra Entertainment HD" tvg-id="CitraEntertainment.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/vc3jvle.jpeg",Citra Entertainment HD
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-name="ID: Citra Muslim HD" tvg-id="CitraMuslim.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/0quH8RA.png",Citra Muslim HD
+#EXTINF:-1 tvg-name="ID: Citra Muslim HD" tvg-id="CitraMuslim.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/jfh0Z6t.jpeg",Citra Muslim HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
