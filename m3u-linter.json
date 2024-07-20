@@ -556,10 +556,11 @@ https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9VM0Vk7J-3dYBh6vDIAmRF8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162141.m3u8
+https://raw.githubusercontent.com/Cutsiffa/on/main/P1.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1718986195~acl=/live/17252/*~id=161049633~hmac=d9f375711e41c8d13b58503bb965197a12ce0da6bdf4f5218b4fe80944a3d05a
+https://raw.githubusercontent.com/Andul-TV/Andul-TV/main/Hub2.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 
 #EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
