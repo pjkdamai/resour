@@ -1036,7 +1036,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://hometv.biz.id/logo/lokal2/sctv.png" group-title="NASIONAL",03 SCTV 3
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="NASIONAL",03 SCTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1052,7 +1052,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR HD" tvg-logo="https://hometv.biz.id/logo/lokal2/indosiar.png" group-title="NASIONAL",04 Indosiar 3
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR HD" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="NASIONAL",04 Indosiar 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1144,13 +1144,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.imgur.com/qRr4PtC.jpeg" group-title="NASIONAL",13.CNN Indonesia 1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://hometv.biz.id/logo/lokal2/cnn_indonesia.png" group-title="NASIONAL",13.CNN Indonesia 2
+#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://i.imgur.com/QWY0mZz.jpeg" group-title="NASIONAL",13.CNN Indonesia 2
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://hometv.biz.id/logo/lokal2/cnbc_indonesia.png" group-title="NASIONAL",13 CNBC Indonesia 1
+#EXTINF:-1 tvg-id="" tvg-name="Nas" tvg-logo="https://i.imgur.com/pDduT4m.jpeg" group-title="NASIONAL",13 CNBC Indonesia 1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://hometv.biz.id/logo/lokal2/cnbc_indonesia.png" group-title="NASIONAL",13 CNBC Indonesia 2
+#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://i.imgur.com/pDduT4m.jpeg" group-title="NASIONAL",13 CNBC Indonesia 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
@@ -1180,7 +1180,7 @@ http://stb.mbahnunungonline.net/live/m3u8/id/6cdb3402d11f58d.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
-#EXTINF:-1 tvg-id="mOji.id" tvg-name="mOji" tvg-logo="https://hometv.biz.id/logo/sports2/moji.png" group-title="NASIONAL",16 moji 1
+#EXTINF:-1 tvg-id="mOji.id" tvg-name="mOji" tvg-logo="https://i.imgur.com/CojtFNp.png" group-title="NASIONAL",16 moji 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
@@ -1206,7 +1206,7 @@ https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd|user-agent=mozilla/8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://hometv.biz.id/logo/sports2/tvri_sports.png",TVRI sport
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/wQUBFVn.png",TVRI sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
@@ -1215,7 +1215,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #http://103.155.250.139:25461/v3/Ub5dHa4TJp/03
 http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NASIONAL" tvg-logo="https://hometv.biz.id/logo/kids/mentari.png",mentari 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="NASIONAL" tvg-logo="https://i.imgur.com/FpXH2Lp.png",mentari 2
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1231,7 +1231,7 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
 
-#EXTINF:-1 tvg-name="BERITA SATU" tvg-logo="N+" tvg-logo="https://hometv.biz.id/logo/lokal/beritasatu.png" group-title="NASIONAL",BERITA SATU
+#EXTINF:-1 tvg-name="BERITA SATU" tvg-logo="https://i.imgur.com/irEL4kX.jpeg" group-title="NASIONAL",BERITA SATU
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
