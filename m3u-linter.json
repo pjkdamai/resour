@@ -1334,7 +1334,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 =============================================================###### TV LOKAL ######=============================================================================
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmG1ApDYF2ahXEaSfla6g_IpxHqastxwiKUw&usqp=CAU" group-title="TV LOKAL"
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/tv_daerah2/jowo_channel.png" group-title="TV LOKAL",JOWO CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jS91Th.png" group-title="TV LOKAL",JOWO CHANNEL
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/155
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11962
@@ -1380,29 +1380,29 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/daerah/inspiratv.png" group-title="TV LOKAL",Inspira Tv
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/daerah/madutv.png" group-title="TV LOKAL",Madu Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4PvYWj.jpeg" group-title="TV LOKAL",Madu Tv
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://i.imgur.com/lwFRV5T.png" group-title="TV LOKAL",Pon Tv
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
 
-#EXTINF:-1 tvg-id="INFO" group-title="TV LOKAL" tvg-logo="https://hometv.biz.id/logo/tv_daerah2/jitv.png" ch-number="92",Ji TV
+#EXTINF:-1 tvg-id="INFO" group-title="TV LOKAL" tvg-logo="https://i.imgur.com/Vhkl1mw.png" ch-number="92",Ji TV
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="INFO" group-title="TV LOKAL" tvg-logo="https://hometv.biz.id/logo/tv_daerah/pktv.png" ch-number="92",pktv
+#EXTINF:-1 tvg-id="INFO" group-title="TV LOKAL" tvg-logo="https://i.imgur.com/CgvRvNT.png" ch-number="92",pktv
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/1uilhr00cjewhv447z5fe/Surabayatv.jpeg?rlkey=bavuo311kc7aapfaav1wcoshi&dl=0" group-title="TV LOKAL",SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1  tvg-id="TVKU.id" group-title="TV LOKAL" tvg-logo="https://dl.dropbox.com/s/xanqfxjkx5njvy9/TVKU%20.jpeg",TVKU Semarang
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/tv_daerah2/smtv.png"  group-title="TV LOKAL", Sangaji tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NBa90TK.png"  group-title="TV LOKAL", Sangaji tv
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/tv_daerah2/saktitv.png" group-title="TV LOKAL", SAKTI TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aeQo4kt.png" group-title="TV LOKAL", SAKTI TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/r9sumtq5hrbg8n8/Rctv.jpeg" group-title="TV LOKAL",Radar Cirebon TV
 #https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1, group-title="TV LOKAL" tvg-logo="https://hometv.biz.id/logo/tv_daerah2/aditv.png", ADi TV
+#EXTINF:-1, group-title="TV LOKAL" tvg-logo="https://i.imgur.com/V4LnhUg.png", ADi TV
 https://v2.siar.us/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7b17tc0xm7gxqwi/Radar%20tv%20tasik.png"  group-title="TV LOKAL", Radar Tasikmalaya
 #https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
@@ -1429,17 +1429,17 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/malaysia2/tv1.png" group-title="TV LOKAL",TV 1 Malaysia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HI1giQX.png" group-title="TV LOKAL",TV 1 Malaysia
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv1/manifest.mpd
 
-#EXTINF:-1, group-title="TV LOKAL" tvg-id="" tvg-logo="https://hometv.biz.id/logo/malaysia2/tv2.png",TV 2 Malaysia
+#EXTINF:-1, group-title="TV LOKAL" tvg-id="" tvg-logo="https://i.imgur.com/C79KlAt.png",TV 2 Malaysia
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
-#EXTINF:-1, group-title="TV LOKAL" tvg-id="" tvg-logo="https://hometv.biz.id/logo/malaysia2/tv3.png",TV 3 Malaysia
+#EXTINF:-1, group-title="TV LOKAL" tvg-id="" tvg-logo="https://i.imgur.com/AZ5ee9A.jpeg",TV 3 Malaysia
 http://38.47.189.134:1234/stream/astro/tv3/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
 ===============================================================================###### BERITA ######=========================================================================
@@ -1461,7 +1461,7 @@ https://melon-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd|referer=https:
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 https://melon-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd|referer=https://www.visionplus.id 
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/malaysia/awani.png" group-title="BERITA",Astro Awani 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9deOzb0.jpeg" group-title="BERITA",Astro Awani 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8 
@@ -1612,10 +1612,10 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://melon-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd|referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-id="INFO" group-title="ANAK" tvg-logo="https://hometv.biz.id/logo/kids/spacetoon.png" ch-number="92",SPACETOON
+#EXTINF:-1 tvg-id="INFO" group-title="ANAK" tvg-logo="https://i.imgur.com/HrbJubB.png" ch-number="92",SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids_backup/moonbug.jpg" group-title="ANAK", Moonbug Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SV710yz.png" group-title="ANAK", Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="INFO" group-title="ANAK" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kidszone.png" ch-number="92",KIDS ZONE PLUS
@@ -1718,14 +1718,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6858afb4c71018b03bd40c
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858afb4c71018b03be407b1527/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://hometv.biz.id/logo/kids_backup/disney_channel.jpg" group-title="ANAK", DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KBuoAEF.png" group-title="ANAK", DISNEY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e38726127ec742179722a9804f1f25b8:2067f01820febdf8f80a26ae8630f840
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyro/Manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://hometv.biz.id/logo/kids_backup/disney_jr.jpg" group-title="ANAK", DISNEY JR
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Tl2ZMTt.jpeg" group-title="ANAK", DISNEY JR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1735,7 +1735,7 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyjuniorro/Manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQtV8MV9jXRkzVA7GnlogAbG5RkRQSJIzsA&usqp=CAU" group-title="ANAK", NUROTO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Pluto TV Dora TV" tvg-country="US" tvg-language="English" tvg-logo="https://dl.dropboxusercontent.com/s/pu99ywa0k36z8nt/doratv.png" group-title="ANAK",Dora TV
+#EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Pluto TV Dora TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZNV0KOI.jpeg" group-title="ANAK",Dora TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/C7VSGSm.png", PBS Kids  
@@ -1765,16 +1765,16 @@ https://i.mjh.nz/PlutoTV/61373c865ed5810007173fbc-alt.m3u8
 #EXTINF:-1 channel-id="pluto-629a066860ef810008267b70" tvg-id="629a066860ef810008267b70" tvg-logo="https://i.imgur.com/xwni6Sr.png" tvg-chno="802" group-title="ANAK" , Detective Conan
 https://i.mjh.nz/PlutoTV/629a066860ef810008267b70-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids2/larva.png" group-title="ANAK",LARVA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s5a79u5.png" group-title="ANAK",LARVA
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/66
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids2/upin_ipin.png" group-title="ANAK",UPIN IPIN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WJTIhgO.jpeg" group-title="ANAK",UPIN IPIN
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/67
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids2/masha_bear.png" group-title="ANAK",MASHA & BEAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4anAxNy.jpeg" group-title="ANAK",MASHA & BEAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/70
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids2/doraemon.png" group-title="ANAK",DORAEMON
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bk893IL.png" group-title="ANAK",DORAEMON
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/68
 
