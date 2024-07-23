@@ -2502,13 +2502,13 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="ARIRANG" tvg-logo="https://imgur.com/WDCHGRZ" group-title="ENTERTAINMENT",ARIRANG
+#EXTINF:-1 tvg-name="ARIRANG" tvg-logo="https://i.imgur.com/j5SQXzD.png" group-title="ENTERTAINMENT",ARIRANG
 https://melon-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #EXTINF:-1 tvg-name="SBS ENGLISH" tvg-logo="https://hometv.pw/logo/entertainment/sbs_english.png" group-title="ENTERTAINMENT",SBS KOREA
 #https://epg.pw/stream/baa697f88cf0cb319ba97478931df42fd04cc15da234020b188858be1fe5179f.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/entertainment2/sbs_english.png" group-title="ENTERTAINMENT", SBS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABjtA3C.png" group-title="ENTERTAINMENT", SBS TV
 http://1.245.74.5:1935/live/tv/.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/TB9hBtK.jpeg" group-title="ENTERTAINMENT",Nagaswara
@@ -2541,26 +2541,26 @@ https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.imgur.com/QODQ8nn.png" group-title="ENTERTAINMENT", IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://hometv.biz.id/logo/music2/kpop.png" group-title="ENTERTAINMENT", KPOP
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.imgur.com/nFBtPgP.png" group-title="ENTERTAINMENT", KPOP
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://hometv.biz.id/logo/music2/kpop.png" group-title="ENTERTAINMENT", KPOP 2
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.imgur.com/0njAnrW.png" group-title="ENTERTAINMENT", KPOP 2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
-#EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/tknh0epwjz93rhi/globalfashion.png" group-title="ENTERTAINMENT", Global Fashion Chanel
+#EXTINF: -1 tvg-logo="https://i.imgur.com/E6D6mBe.png" group-title="ENTERTAINMENT", Global Fashion Chanel
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/seh99xsuzg7opg3/ftv.png" group-title="ENTERTAINMENT", Fashion TV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rOLcX3w.png" group-title="ENTERTAINMENT", Fashion TV
 https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://dl.dropboxusercontent.com/s/fldtbe5kvdc3k75/axstvnow.png",  aXs tv now
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/SX9WS6n.jpeg",  aXs tv now
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/lifestyle2/ftv_midnight.png" group-title="ENTERTAINMENT",Fashion TV Midnight
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzPEWe3.png" group-title="ENTERTAINMENT",Fashion TV Midnight
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/80
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/lifestyle2/ftv_midnight.png" group-title="ENTERTAINMENT",Fashion coba
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoqJKcO.jpeg" group-title="ENTERTAINMENT",Fashion coba
 https://raw.githubusercontent.com/pjkdamai/coba/main/fashionmidnight.m3u8
 
 #EXTINF:-1 tvg-name="ID: Citra Bioskop" tvg-id="CitraBioskop.id" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/yTI3r7X.jpeg",Citra Bioskop
