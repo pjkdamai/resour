@@ -2634,7 +2634,7 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/soccer_channel.jpg" group-title="SPORTS",Soccer Chanel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nxDbgtv.png" group-title="SPORTS",Soccer Chanel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=MMozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
@@ -3261,32 +3261,32 @@ https://raw.githubusercontent.com/pjkdamai/coba/main/truesports5.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://raw.githubusercontent.com/pjkdamai/coba/main/truesports7.m3u8
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/spotv1.png" group-title="SPORTS",SPO TV 1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YXpddyn.jpeg" group-title="SPORTS",SPO TV 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports2/spotv2.png" group-title="SPORTS",SPO TV 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1xMLFD.jpeg" group-title="SPORTS",SPO TV 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://hometv.biz.id/logo/sports2/impact.png", IMPACT ! Wrestling
+#EXTINF:-1, group-title="SPORTS" tvg-logo="https://i.imgur.com/jql02XX.jpeg", IMPACT ! Wrestling
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://hometv.biz.id/logo/sports2/fight_sports.png",Fight Sport
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/fO1gQog.png",Fight Sport
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/2ovopi1tg2wym6v/mutv.png" group-title="SPORTS",MU TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8Mv1nQU.png" group-title="SPORTS",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
  
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/aqb7snrx7sg3862/realmadridtv.png" group-title="SPORTS",Real Madrid TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/J483HI4.jpeg" group-title="SPORTS",Real Madrid TV
 https://rmtv-canela.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/twee4scc14he4cc/images%20%281%29.jpeg" group-title="SPORTS", Fight
