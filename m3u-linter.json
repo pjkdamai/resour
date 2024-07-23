@@ -516,7 +516,7 @@ https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/6
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721476309~acl=/drm/dash/*~id=69578335~hmac=fdff9c107156f81bc2edf8284143c57aee89faa89a0e312f4bfb0bf7c204c3fc
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day u19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdntl=exp=1721749029~acl=%2f*~id=162738889~data=hdntl~hmac=8cc416bf34808242bb2f3189c9d5dc432a67ee9605d08aa7462dd506aa8d7ea1
