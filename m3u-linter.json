@@ -495,44 +495,23 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QN0Mpnr.png" group-title="live event",Olipic Paris 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QN0Mpnr.png" group-title="live event",Olipic Paris 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QN0Mpnr.png" group-title="live event",Olipic Paris 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff74c465250444fae3af910a10f5b72:14158680c1e73906397fef143fd3068e
-https://mwmpos01.akamaized.net/out/v1/a16c4084db264c57b2a1a2648b7cdcf1/manifest.mpd
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QN0Mpnr.png" group-title="live event",Olipic Paris 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e087df5967440fda576ce63e59b39a7:35fe170ba9aebfb0769b0a15c0b862e9
-https://mwmpos02.akamaized.net/out/v1/834d9787987f4912963e9e82048c17d6/manifest.mpd
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QN0Mpnr.png" group-title="live event",Olipic Paris 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
-https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QN0Mpnr.png" group-title="live event",Olipic Paris 6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5b34732f10148b9a9de022bb91a1eab:1e59c2a09be4d537aa04bec805bed64e
-https://mwmpos01.akamaized.net/out/v1/11d366d059b24b4780c86e4894e35b11/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QN0Mpnr.png" group-title="live event",Olipic Paris 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -638,19 +617,19 @@ http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKYoX2ApPyFO9TKrSG5lvzKo
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHzwLVVMnEcuX_RWouFW_Ier.png" group-title="live event",ASSP 1
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/assp1-min.png" group-title="live event",ASSP 1
 #EXTVLCOPT:http-user-agent=ExoPlayer
 https://7pal.short.gy/astross1
 
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHy3O2LN8dDE9Jx24z8Ew69C.png" group-title="live event",ASSP 2
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/assp2-min.png" group-title="live event",ASSP 2
 #EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
 https://7pal.short.gy/astross2
 
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHyzgT70OFIIt3Sce2X7vmpH.png" group-title="live event",ASSP 3
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/assp3-min.png" group-title="live event",ASSP 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://7pal.short.gy/astross3
 
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHwVtUIS560IarIfHfmlE-r7.png" group-title="live event",ASSP 4
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/assp4-min.png" group-title="live event",ASSP 4
 #EXTVLCOPT:http-user-agent=com.xui.1_5_12r2
 https://7pal.short.gy/astross4
 
@@ -766,43 +745,43 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manife
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
-https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
+#https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
-https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd
+#https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
-https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd
+#https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 6
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7c650ac72dcd0311411832a8271bb10:ea8fa43cc7102e481cd441c58b2ecb08
-http://103.47.210.244:8080/https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
+#http://103.47.210.244:8080/https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -810,49 +789,49 @@ http://103.47.210.244:8080/https://linearjitp02-playback.astro.com.my/dash-wv/da
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
-https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
+#https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
-https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd?version=1
+#https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd?version=1
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="live event",Copa America 01
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+#https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="live event",Copa America 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
-https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
+#https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="live event",Copa America 03
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/8
+#https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/8
 #https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/8
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="live event",Copa America 04
-http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88864.ts
+#http://cafenegro.uk:80/live/Rafaluque/9dnjaRRe9E63/88864.ts
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="live event",Copa America 05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main.m3u8
+#https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="live event",Copa America 06
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa59a3d9aef54b58b0301c4f739b8c65:84f5b4481e244e7dbee7cafd9d1a618a
-https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
+#https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
 
 #EXTINF: -1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/71/2024/06/05/Conmebol_copa_america_2024-3659485275.jpg" group-title="live event",Copa America 07
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
-https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
+#https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
 
 
 
