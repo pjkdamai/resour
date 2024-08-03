@@ -533,15 +533,15 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17476_stream.mpd?hdntl=exp=1722596518~acl=%2f*~id=164700585~data=hdntl~hmac=8e954feec4c71e52b5bc44610042bebc95fe4cbe82f9e29f7d268c56b0ecb22a
+#KODIPROP:inputstream.adaptive.license_key=9ac4dc759e34a5043ddbd676e90f3ebe:4fc6cea5ca78fb091ccb8fd8997f5334
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17475_stream.mpd?hdntl=exp=1722684743~acl=%2f*~id=164700585~data=hdntl~hmac=26254f9a50ed4a087f8814a55cf9efda4ad01eee8a6fee5855aa0382e7d24cd1
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QN0Mpnr.png" group-title="live event",Olipic Paris badminton2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=084cd1aa5dd05cf4c0f3a880b3ff95b1:135b870c19388b66083c985b85fa0a4b
-https://lebo.huminbird.cn/live/ballbar_2960.m3u8
+https://lebo.huminbird.cn/live/ballbar_25210.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QN0Mpnr.png" group-title="live event",Olipic Paris badminton3
@@ -564,9 +564,11 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live10.mpd
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live05.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/6
-
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50053fb452c6b15716f8eb9b0e524278:c2608ef05318c7d7ea9b3694798cb15f
+https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/17139_stream.mpd?hdntl=exp=1722670961~acl=%2f*~id=164700585~data=hdntl~hmac=26b161f3ca05be3e925818e71a877196ecae2b395a5b2d2f02d430f3893704f4
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
