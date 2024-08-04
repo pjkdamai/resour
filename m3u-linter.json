@@ -2224,7 +2224,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkONzD1OFOBoOVhI2iIAJ-bq_1rKfhVwhukoNUDTys38fQ.png" group-title="KNOWLEDGE",LOVE NATURE
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://i.imgur.com/rh1BKB3.png" group-title="KNOWLEDGE",LOVE NATURE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
@@ -2251,7 +2251,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V7xeu9K.jpeg" group-title="KNOWLEDGE", PEOPLE ARE AWESOME
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropboxusercontent.com/s/dhokqih7oixf7z1/denslearning.png", LEARNING & Pengetahuan
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/LExN4Dz.png", LEARNING & Pengetahuan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
@@ -2259,7 +2259,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkOit2OgkVFgELNw1Y0B7suh.png" group-title="KNOWLEDGE",NAT GEO
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://i.imgur.com/7HEa8pu.jpeg" group-title="KNOWLEDGE",NAT GEO
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2268,7 +2268,7 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bbbd159cc425464b908f0a263556672f:116f6adc67a5d89ded7a31a2d4d7d420
 #https://linear-novi.stvacdn.spectrum.com/LIVE/1142/dash/cenc/NGCHD_00158/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3EByPUu2Xz04JOjDA96WkPwiDiIAVw5TF3jteoJUcR2aKRFvl4jP_yba-H5tZ4TCg.png" group-title="KNOWLEDGE",NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://i.imgur.com/QtyCL8g.jpeg" group-title="KNOWLEDGE",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -2289,10 +2289,10 @@ https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #https://pl.kokokputik.my.id/iptv/youtube/index.m3u8?id=zuy5N_mhVDc
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropbox.com/scl/fi/vnoqc48oiugscsyqh2txq/Stingray-Naturescape.jpeg?rlkey=czr4hias90uk2jogp7173smas&dl=0", STINGRAY NATURE SCAPE
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/vPq6m58.jpeg", STINGRAY NATURE SCAPE
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingraynaturescape.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1spU510i4_D9xxHnFiyiz4SK.png" group-title="KNOWLEDGE",DMAX
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://i.imgur.com/OWt7jTr.jpeg" group-title="KNOWLEDGE",DMAX
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/pg53cPq.png",Discovery Asia (HD) 
@@ -2319,7 +2319,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="Music TV" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa7ddiWZgxe5pT-FpzXroepNIa6L0MjtAvrtEk0S-sJnN.png" group-title="ENTERTAINMENT",Music TV
+#EXTINF:-1 tvg-id="Music TV" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/2XI1V4b.png" group-title="ENTERTAINMENT",Music TV
 https://melon-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2340,13 +2340,13 @@ https://melon-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 #EXTINF:-1 tvg-name="MTV 90s" tvg-logo="https://i.imgur.com/MeL71tN.png" group-title="ENTERTAINMENT",Mtv 90s
 https://melon-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3p5v9kMvl5xR3oqg3sLAmOdfckQSaUyF0zZTPQQaHqP.png" ,Now 70
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/blExJoQ.jpeg" ,Now 70
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3p5v9kMvl5xR3oqg3sLAmMu4WfQg6Zvqct79uVxWJa0.png",Now 80
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/dVl45j9.png",Now 80
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa3p5v9kMvl5xR3oqg3sLAmPzf4g71QLi2xxShMpJglOf.png" group-title="ENTERTAINMENT",NOW 90s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FFx0JoF.jpeg" group-title="ENTERTAINMENT",NOW 90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/7QqedED.png",Now Rock
@@ -2551,7 +2551,7 @@ https://melon-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VoLgacZ.jpeg" group-title="ENTERTAINMENT", K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV7k3HuA1NtMq4Jo1az0z0gmlXB3gNeWnUAn_ofkJ7d0ZDu6vk74yaxZWs6WWv4NFOg.png" group-title="ENTERTAINMENT", Dunia Sinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ikJbEcG.png" group-title="ENTERTAINMENT", Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
