@@ -534,7 +534,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ac4dc759e34a5043ddbd676e90f3ebe:4fc6cea5ca78fb091ccb8fd8997f5334
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17475_stream.mpd?hdntl=exp=1722684743~acl=%2f*~id=164700585~data=hdntl~hmac=26254f9a50ed4a087f8814a55cf9efda4ad01eee8a6fee5855aa0382e7d24cd1
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17475_stream.mpd?hdntl=exp=1722766815~acl=%2f*~id=164700585~data=hdntl~hmac=341a0b6ff47bd31d957c8d5c315bdb6dff3db2c8be7fc37c654fbc8d85d8e2f8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QN0Mpnr.png" group-title="live event",Olipic Paris badminton2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -544,12 +544,8 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17475_strea
 https://lebo.huminbird.cn/live/ballbar_25210.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/QN0Mpnr.png" group-title="live event",Olipic Paris badminton3
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c7472794a9ca6477515b123ec178579:6a5581ce501ae448e16b51481d464584
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17477_stream.mpd?hdntl=exp=1722596165~acl=%2f*~id=164700585~data=hdntl~hmac=17359206166b1a1f878dd9dfb26feb2c169cd8dcc246ce54bbe09e3ad2133319
-
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 1
