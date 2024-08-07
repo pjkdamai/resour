@@ -3328,11 +3328,11 @@ http://fm1077.serv00.net/Smart.php?id=Arena2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORTS",Astro Arena Bola 1
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-http://fm1077.serv00.net/Smart.php?id=Bolaarena1
+#http://fm1077.serv00.net/Smart.php?id=Bolaarena1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="SPORTS",Astro Arena Bola 2
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-http://fm1077.serv00.net/Smart.php?id=Bolaarena2
+#http://fm1077.serv00.net/Smart.php?id=Bolaarena2
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
