@@ -3908,7 +3908,7 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/23930
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OLsvpbM.jpeg",Belator MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa05000728841e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRut21Kt_fGn1n7r291DRFs6AZGD7ZjgYoonA&usqp=CAU",Glory KickBoxing
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/lsykIW3.png",Glory KickBoxing
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Hdsq1dk.png" group-title="SPORTS",beIN Sports Xtra
 #https://siloh.pluto.tv/lilo/production/bein/b1121710f0b14c1146591b65168004e6/master.m3u8
@@ -3948,7 +3948,7 @@ https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-p
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/feLPYkM.jpeg" group-title="SPORTS",UFC 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/85
+http://j.jserv.me/live/DemMavs/x6yLQFx1L5/fcb9db81-5fcc-4973-8e61-68c88a6bb00c.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTWIV3b.png" group-title="SPORTS",TDP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
