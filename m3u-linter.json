@@ -3476,27 +3476,27 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png" group-title="SPORTS",Sports TV 
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mzQ3k6w/alkasss.jpg" group-title="SPORTS", Al Kass 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wJxduCO.png" group-title="SPORTS", Al Kass 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mzQ3k6w/alkasss.jpg" group-title="SPORTS",Al Kass 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wJxduCO.png" group-title="SPORTS",Al Kass 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hgfdfghjikmnhygf/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mzQ3k6w/alkasss.jpg" group-title="SPORTS",Al Kass 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wJxduCO.png" group-title="SPORTS",Al Kass 3
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3pzrjl/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mzQ3k6w/alkasss.jpg" group-title="SPORTS",Al Kass 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wJxduCO.png" group-title="SPORTS",Al Kass 4
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xiuytgfficcn/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mzQ3k6w/alkasss.jpg" group-title="SPORTS",Al Kass 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wJxduCO.png" group-title="SPORTS",Al Kass 5
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/mzQ3k6w/alkasss.jpg",Al Kass 6
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/wJxduCO.png",Al Kass 6
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6xydam/master.m3u8
 
