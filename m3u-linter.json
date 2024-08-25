@@ -569,8 +569,8 @@ https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/17139_stre
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b9e44ec21b66b14f0e3f988c272166b:4d443d5af885ec633486fef5aa3b1005
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdntl=exp=1722787258~acl=%2f*~id=164700585~data=hdntl~hmac=3ca1b2a2b2974d97fbbc1a4e168354267a12bd1203556a9bd0fbf251a7f1234b
+#KODIPROP:inputstream.adaptive.license_key=4ab1a571443d3fafdf88fd137748dbb1:7e1e8933ad8057deef88738abd9ac0ff
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17622_stream.mpd?hdntl=exp=1724600622~acl=%2f*~id=164700585~data=hdntl~hmac=44452c49b8ba9ed621086d332f2cb13801d89dea9cc3a17873cacf4a7cd64fc7
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 1
 #https://channel-e3a5e184c3f5710d.live.sportall.media/cPxwayRkeqVn.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc2ODkxMTYsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6InI3XzRXR3hQU0R4Q0pLRHF6OTVWd2dSOVJZQ0RBcjBfd0dPekRWekFrTzgiLCJwYXRocyI6WyIvb3V0L3YxL2VhZmY2NTY4NTg1ZDQ3Nzc4ZGNkYTJlZGEyNTBiMTJjLyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzUxNjMxNn0.RICukfiZqozaeleBjtfLb7JD7KTZb5qD1mS9xGLtm_M/out/v1/eaff6568585d47778dcda2eda250b12c/index.m3u8
@@ -599,8 +599,8 @@ http://xtv.ooo:8080/live/83212539/43153928/351030.ts
 http://103.237.32.213:9981/stream/channelid/1888111875
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 6
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://link.zozotv.xyz:443/hasrul88/8890/46
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+https://tevi.my.id/Spy_Timnas1.m3u8|Referer=https://ppdd01.xiimadedishalthough.shop/
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 7
 http://metatvpro.xyz:25461/live/J2781/5030/101.ts|user-agent=Mozilla/5.0
