@@ -573,11 +573,12 @@ https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/drm/dash/17139_stre
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17622_stream.mpd?hdntl=exp=1724600622~acl=%2f*~id=164700585~data=hdntl~hmac=44452c49b8ba9ed621086d332f2cb13801d89dea9cc3a17873cacf4a7cd64fc7
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 1
-#https://channel-e3a5e184c3f5710d.live.sportall.media/cPxwayRkeqVn.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwOTI4Xzk0YzZjNzQ0ODhlNTA3ODk1YjAxIn0.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE3MTc2ODkxMTYsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6InI3XzRXR3hQU0R4Q0pLRHF6OTVWd2dSOVJZQ0RBcjBfd0dPekRWekFrTzgiLCJwYXRocyI6WyIvb3V0L3YxL2VhZmY2NTY4NTg1ZDQ3Nzc4ZGNkYTJlZGEyNTBiMTJjLyJdLCJleGMiOlsiL3RtLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTcxNzUxNjMxNn0.RICukfiZqozaeleBjtfLb7JD7KTZb5qD1mS9xGLtm_M/out/v1/eaff6568585d47778dcda2eda250b12c/index.m3u8
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=205&type=drm
+http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -696,25 +697,25 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd 
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd 
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF Court1
 https://lebo.huminbird.cn/live/ballbar_31050.m3u8
@@ -1690,7 +1691,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mp
 #EXTINF:-1 tvg-name="DREAMWORS" tvg-logo="https://www.visionplus.id/images/repository/012/50012-SNAPSHOT-m.png" group-title="ANAK",DreamWork
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd|referer=https://www.visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://i.imgur.com/hl9l8TN.jpeg" group-title="ANAK",HOREE
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -2742,14 +2743,14 @@ https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
  
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/ss2.png" group-title="SPORTS",Sportstar 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
  
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/ss3.png" group-title="SPORTS",Sportstar 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2763,7 +2764,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/spotv.png" group-title="SPORTS", SPOTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
