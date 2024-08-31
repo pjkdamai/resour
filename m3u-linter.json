@@ -619,16 +619,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="live event",ASSP 1
-#EXTVLCOPT:http-user-agent=ExoPlayer
-http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1722
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.webhd.ru/lb/premium123/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="live event",ASSP 2
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-https://7pal.short.gy/astross2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.hlsjs.ru/lb/premium124/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="live event",ASSP 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://7pal.short.gy/astross3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.hlsjs.ru/lb/premium125/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="live event",ASSP 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
@@ -673,7 +676,7 @@ https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/117.ts
 #KODIPROP:inputstream.adaptive.license_key=https://vplus.kiwkiw.workers.dev?no=114&type=drm
 #EXTVLCOPT:http-origin=https://www.visionplus.id
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://inditv.openwindow042.workers.dev/https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://hs-cors.herokuapp.com/https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU",  BRI 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -3869,19 +3872,15 @@ https://d17c7mhdsdu50m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.biz.id/logo/sports/optus_sports.png" group-title="SPORTS",optus 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://gingerbread.maedasports.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
-#https://luanjingkalaubacaini22796151.maedasports.co.id:3002/1/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
-https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus100.m3u8
+https://7pal.short.gy/HPremier1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.biz.id/logo/sports/optus_sports.png" group-title="SPORTS",optus 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus200.m3u8
+#https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus200.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://hometv.biz.id/logo/sports/optus_sports.png" group-title="SPORTS",optus 3
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus300.m3u8
+#https://raw.githubusercontent.com/B-inalm3u-Custom/Australia-Sport/B-inal22/optus300.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/tenis.png",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
