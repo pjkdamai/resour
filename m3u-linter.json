@@ -696,7 +696,7 @@ https://cdn-vcors3.livestreamingbolatv1.workers.dev/out/v1/6f5596513af749c19d0bc
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=d90bc1335dc245d2b42f7150f85bf18c:9e39e71711cdf93e5d8c209cdecda848
-https://d1abp075u76pbq.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
