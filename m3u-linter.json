@@ -597,8 +597,8 @@ http://xtv.ooo:8080/321166661/52816191/350972
 http://xtv.ooo:8080/live/83212539/43153928/351030.ts
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 5
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.237.32.213:9981/stream/channelid/1888111875
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/indosiarTV3.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
@@ -781,11 +781,10 @@ https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
 #EXTINF:-1 group-title="live event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://ktpremium.xyz:2095/live/yv2268/22681081/73606.m3u8
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
