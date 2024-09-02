@@ -598,7 +598,12 @@ http://xtv.ooo:8080/live/83212539/43153928/351030.ts
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://raw.githubusercontent.com/B-inalm3u-Custom/Nasional/B-inal22/indosiarTV3.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
@@ -656,7 +661,12 @@ http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event",MOJI 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event",MOJI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3243,9 +3253,9 @@ https://cdn-1.bdiptv24.line.pm/live/FS1/index.m3u8
 http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/J9XZZZj.png" group-title="SPORTS",Canal+ Sport 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8|Origin=https://weblivehdplay.ru
+https://webudit.webhd.ru/lb/premium486/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/J9XZZZj.png" group-title="SPORTS",Canal+ Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -3267,40 +3277,41 @@ https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8|Origin=https://webliveh
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8|Origin=https://weblivehdplay.ru
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS ACTION
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperAction.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS BLITZ
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperBlitz.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS CRICKET
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperCricket.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS GOLF
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperGolf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS GRANDSTAND
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperGrandstand.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS LA LIGA
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperLaLiga.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS MAXIMO
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperMaximo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS MOTOSPORTS
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperMotorsports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS PREMIER LEAGUE
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperPremierLeague.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS FOOTBALL
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperFootball.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS PSL
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperPsl.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS RUGBY
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperRugby.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS TENNIS
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperTennis.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS VARIETY 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperVariety1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS VARIETY 2
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperVariety2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS VARIETY 3
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperVariety3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS", SUPERSPORTS VARIETY 4
-https://raw.githubusercontent.com/B-inalm3u-Custom/Africa-Sport/B-inal22/SuperVariety4.m3u8
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS",SuperSports Motorsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.webhd.ru/lb/premium424/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS",SuperSports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.webhd.ru/lb/premium414/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS",SuperSports laliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.webhd.ru/lb/premium415/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.imgur.com/YKJutgE.png" group-title="SPORTS",SuperSports football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.webhd.ru/lb/premium56/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg" group-title="SPORTS",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#https://webhdrus.onlinehdhls.ru/lb/premium130/index.m3u8|origin=https://claplivehdplay.ru/
+
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg" group-title="SPORTS",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8|origin=https://claplivehdplay.ru/
+
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg" group-title="SPORTS",Sky Sports Racing
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#https://webhdrus.onlinehdhls.ru/lb/premium554/index.m3u8|origin=https://claplivehdplay.ru/
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png" group-title="SPORTS",USA TUDN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3662,31 +3673,6 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest
 #https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12111
-
-#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.ibb.co/jDMKd9S/ssm.png" group-title="SPORTS",SuperSports Motorsport
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-logo="https://i.ibb.co/87BG427/sspl.png" group-title="SPORTS",SuperSports Premier League
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8|origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg" group-title="SPORTS",Sky Sports Premier League
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium130/index.m3u8|origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg" group-title="SPORTS",Sky Sports Football
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8|origin=https://claplivehdplay.ru/
-
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.ibb.co/nshXz2j/sky.jpg" group-title="SPORTS",Sky Sports Racing
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#https://webhdrus.onlinehdhls.ru/lb/premium554/index.m3u8|origin=https://claplivehdplay.ru/
 
 #EXTINF:-1 group-title="SPORTS" tvg-id=" tvg-logo="https://i.imgur.com/wIfgzSD.png", LI - Go 3 Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
