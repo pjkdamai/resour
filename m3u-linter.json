@@ -3148,20 +3148,20 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony1.png" group-title="SPORTS", Sony Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten1.m3u8
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63537
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony2.png" group-title="SPORTS", Sony Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten2.m3u8
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63538
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony3.png" group-title="SPORTS", Sony Sport 3 HD
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten3.m3u8
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63539
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony4.png" group-title="SPORTS", Sony Sport 4 HD
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten4.m3u8
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63540
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony5.png" group-title="SPORTS", Sony Sport 5 HD
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/Sonyten5.m3u8
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/63541
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein1.png" group-title="SPORTS",beiN Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -3376,28 +3376,28 @@ https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com:4431/02_sport6_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUuK4yQ.png" group-title="SPORTS",True Premier 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/TruePL1.m3u8
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://playidtv24.vercel.app/stream/now/premier1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGgbpmt.png" group-title="SPORTS",True Premier 2 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/TruePL2.m3u8
+https://playidtv24.vercel.app/stream/now/premier2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3O0QDOm.png" group-title="SPORTS",True Premier 3 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/TruePL3.m3u8
+https://playidtv24.vercel.app/stream/now/premier3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cxTx5am.png" group-title="SPORTS",True Premier 4 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-#https://raw.githubusercontent.com/pjkdamai/coba/main/truepremfootball4.m3u8
+https://playidtv24.vercel.app/stream/now/premier4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b55BU4O.png" group-title="SPORTS",True Premier 5 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-#https://raw.githubusercontent.com/pjkdamai/coba/main/truepremfootball5.m3u8
+https://playidtv24.vercel.app/stream/now/premier5.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports1.th" tvg-logo="https://i.imgur.com/UPuBbOx.png",True Sports 1 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-Olahraga/B-inal22/True1.m3u8
+https://playidtv24.vercel.app/stream/now/true1.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="trueSports Arena.th" tvg-logo="https://i.imgur.com/UPuBbOx.png",True Sports 2 
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
