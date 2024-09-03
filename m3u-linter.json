@@ -678,7 +678,8 @@ http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=206&type=drm
-http://gatotkaca007.serv00.net/red/play.mpd?id=206&type=dash
+#http://gatotkaca007.serv00.net/red/play.mpd?id=206&type=dash
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/305
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event",MOJI 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
