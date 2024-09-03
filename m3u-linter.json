@@ -585,7 +585,8 @@ http://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/7
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -613,9 +614,13 @@ https://play-gachor.xyz/htv@lite/kjTECpmDmq/7
 http://metatvpro.xyz:25461/live/J2781/5030/101.ts|user-agent=Mozilla/5.0
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiU0NUVkhEIiwic2lnbmF0dXJlS2V5IjoiNzIzYmI1Y2FjODI0YzRmMmU1MGQwNzBhYzk1OWM3ZDciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjU1OTc5NTl9
+https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiU0NUVkhEIiwic2lnbmF0dXJlS2V5IjoiNzIzYmI1Y2FjODI0YzRmMmU1MGQwNzBhYzk1OWM3ZDciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjU1OTc5NTl9
+
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 #https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/8
-http://metatvpro.xyz:25461/live/J2781/5030/105.ts|user-agent=Mozilla/5.0
+#http://metatvpro.xyz:25461/live/J2781/5030/105.ts|user-agent=Mozilla/5.0
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -676,8 +681,12 @@ http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts
 http://gatotkaca007.serv00.net/red/play.mpd?id=206&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event",MOJI 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiTU9KSU9DaGFubmVsIiwic2lnbmF0dXJlS2V5IjoiMjM1OGFhOWMwMjNkNmU2MmY5ZTczNmRhMzExZDgxMTAiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjU1OTc5NTl9
+https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiTU9KSU9DaGFubmVsIiwic2lnbmF0dXJlS2V5IjoiMjM1OGFhOWMwMjNkNmU2MmY5ZTczNmRhMzExZDgxMTAiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjU1OTc5NTl9
+
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/117.ts
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/117.ts
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -696,23 +705,11 @@ https://proji.glitch.me/https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af
 https://proji.glitch.me/https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", BRI 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.visionplus.id
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=411b6c68d0424bbabc41eaf244961f18:54598acbe928605abf8f92a98cbb6986 
-#https://proji.glitch.me/https://cdn-vcors3.livestreamingbolatv1.workers.dev/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-#https://proji.glitch.me/https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", BRI 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.visionplus.id
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vplus.kiwkiw.workers.dev?no=205&type=drm
-#https://proji.glitch.me/https://cdn-vcors1.livestreamingbolatv1.workers.dev/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/5
+#http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", BRI 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
