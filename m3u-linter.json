@@ -608,7 +608,10 @@ https://topembed.mizhls.ru/lb/bet6571800/playlist.m3u8
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/7
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 7
-http://metatvpro.xyz:25461/live/J2781/5030/101.ts|user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://topembed.mizhls.ru/lb/bet6595397/playlist.m3u8
+#http://metatvpro.xyz:25461/live/J2781/5030/101.ts|user-agent=Mozilla/5.0
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
