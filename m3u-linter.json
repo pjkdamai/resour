@@ -810,8 +810,8 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manife
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=056186c61345413abb45748810ae178e:b7a9b5ec9d080c888b92dd688c6c8644
-https://nlziet-live.akamaized.net/L14/b6727fe5/82d7dd4a.isml/.mpd
+#KODIPROP:inputstream.adaptive.license_key=73efb1eb27294f8ea059765b368f411b:8af553e93bc5b20e828a14a7643e0c59
+https://4k-event2-new-25fps-ak.akamaized.net/out/v1/c40564684d074b29a21efcf70725df3c/index.mpd
 
 #EXTINF:-1 group-title="live event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
