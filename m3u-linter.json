@@ -3114,6 +3114,14 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
+#EXTINF:-1 group-title="SPORTS" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Arena Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
@@ -3531,9 +3539,6 @@ https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChanne
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://i.imgur.com/aP4EPbK.png" group-title="SPORTS",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1  tvg-logo="http://guki.my.id/logo/sports/bx.png" group-title="SPORTS",beIN Sports Xtra
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png" group-title="SPORTS",Sports TV 
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
@@ -3762,13 +3767,6 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkrOmAt.png"  group-title="SPORTS", USA NETWORK
 #https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-#EXTINF:-1 group-title="SPORTS" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Arena Sport
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="SPORTS", USA Network (East)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
@@ -3905,8 +3903,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa05000728841e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/lsykIW3.png",Glory KickBoxing
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Hdsq1dk.png" group-title="SPORTS",beIN Sports Xtra2
+#EXTINF:-1  tvg-logo="http://guki.my.id/logo/sports/bx.png" group-title="SPORTS",beIN Sports Xtra
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Hdsq1dk.png" group-title="SPORTS",beIN Sports Xtra2
+#http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Hdsq1dk.png" group-title="SPORTS",Bein Sports Xtra Australia
 #https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 
@@ -4038,7 +4038,15 @@ https://sritv.serv00.net/red/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6299&type=drm
 https://sritv.serv00.net/red/play.mpd?id=6299&type=dash
 
-#EXTINF:0 tvg-logo="http://guki.my.id/logo/sports/bein2.png" group-title="SPORTS",Ch Bein Sports 3
+#EXTINF:0 tvg-logo="http://guki.my.id/logo/sports/bein2.png" group-title="SPORTS",Ch Bein Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17875&type=drm
+https://sritv.serv00.net/red/play.mpd?id=17875&type=dash
+
+#EXTINF:0 tvg-logo="http://guki.my.id/logo/sports/bein3.png" group-title="SPORTS",Ch Bein Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4046,13 +4054,6 @@ https://sritv.serv00.net/red/play.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6317&type=drm
 https://sritv.serv00.net/red/play.mpd?id=6317&type=dash
 
-#EXTINF:0 tvg-logo="http://guki.my.id/logo/sports/bein3.png" group-title="SPORTS",Ch Bein Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17875&type=drm
-https://sritv.serv00.net/red/play.mpd?id=17875&type=dash
 
 ======================================================hbo===============================================================
 
