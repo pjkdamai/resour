@@ -1559,7 +1559,7 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/r9sumtq5hrbg8n8/Rctv.jpeg" group-title="TV LOKAL",Radar Cirebon TV
 #https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1, group-title="TV LOKAL" tvg-logo="https://i.imgur.com/V4LnhUg.png", ADi TV
-https://v2.siar.us/aditv/livestream/playlist.m3u8
+#https://v2.siar.us/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7b17tc0xm7gxqwi/Radar%20tv%20tasik.png"  group-title="TV LOKAL", Radar Tasikmalaya
 #https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://dl.dropbox.com/s/hev10vcbopv9g6p/PKTV.jpg", PK TV
