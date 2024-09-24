@@ -570,26 +570,22 @@ https://skytest.starlive.workers.dev/https://linear019-gb-dash1-prd-ak.cdn.skycd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://thedream.biz.id/indonesia/vidio.php?id=204&type=drm
-#http://gatotkaca007.serv00.net/red/play.mpd?id=204&type=dash
-https://thedream.biz.id/indonesia/vidio.mpd?id=204|Referer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17674&type=drm
+https://sritv.serv00.net/red/play.mpd?id=17674&type=dash
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=205&type=drm
-https://myvidio.tvnid.workers.dev/01/stream.mpd?id=205|Referer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17701&type=drm
+https://sritv.serv00.net/red/play.mpd?id=17701&type=dash
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=113
-https://dusk.biz.id/rplus/index.mpd?id=113
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -598,11 +594,8 @@ https://dusk.biz.id/rplus/index.mpd?id=113
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 4
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://natan.nonas.workers.dev/licesnse?id==001
-https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=205
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -634,7 +627,8 @@ http://mpwtv.my.id/u16.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiSW5kb3NpYXJIRCIsInNpZ25hdHVyZUtleSI6ImQ0YmViZmZkYmQ0ZjQ2OTI3ZTBhODkzZDA5NDE2MTE0IiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzI1NTk3OTU5fQ
 #https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiSW5kb3NpYXJIRCIsInNpZ25hdHVyZUtleSI6ImQ0YmViZmZkYmQ0ZjQ2OTI3ZTBhODkzZDA5NDE2MTE0IiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzI1NTk3OTU5fQ
-https://iptvsystem.my.id/index.m3u8?cid=rcti&provider=rctiplus&type=hls&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjI0MDQ6MDo4MjJkOjExNzM6OTBiOTpjMmZmOmZlZjI6ODM5ZSIsImRldmljZVR5cGUiOiJMaW51eCIsInNpZ25hdHVyZSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsInNlc3Npb25faWQiOiIwNjEyMmQ0MzNiZDUzYjZlYzFkNjZhZTRkZWE2ZjRhNCJ9|Referer="https://www.rctiplus.com/"
+#https://iptvsystem.my.id/index.m3u8?cid=rcti&provider=rctiplus&type=hls&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjI0MDQ6MDo4MjJkOjExNzM6OTBiOTpjMmZmOmZlZjI6ODM5ZSIsImRldmljZVR5cGUiOiJMaW51eCIsInNpZ25hdHVyZSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsInNlc3Npb25faWQiOiIwNjEyMmQ0MzNiZDUzYjZlYzFkNjZhZTRkZWE2ZjRhNCJ9|Referer="https://www.rctiplus.com/"
+https://iptvsystem.my.id/index.m3u8?cid=indosiar&provider=fta&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjI0MDQ6MDo4MjJkOjExNzM6OTBiOTpjMmZmOmZlZjI6ODM5ZSIsImRldmljZVR5cGUiOiJMaW51eCIsInNpZ25hdHVyZSI6ImxxUk5EUEM4TmxGSkFuOU1ubllBRHc9PSIsInNlc3Npb25faWQiOiIwNjEyMmQ0MzNiZDUzYjZlYzFkNjZhZTRkZWE2ZjRhNCJ9|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="live event",ASSP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
