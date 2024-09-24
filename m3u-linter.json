@@ -570,9 +570,9 @@ https://skytest.starlive.workers.dev/https://linear019-gb-dash1-prd-ak.cdn.skycd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dashud.jablay.workers.dev/02/stream.php?id=204&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://thedream.biz.id/indonesia/vidio.php?id=204&type=drm
 #http://gatotkaca007.serv00.net/red/play.mpd?id=204&type=dash
-https://dashud.jablay.workers.dev/02/stream.mpd?id=204|Referer=https://www.vidio.com/
+https://thedream.biz.id/indonesia/vidio.mpd?id=204|Referer=https://www.vidio.com/
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -580,7 +580,7 @@ https://dashud.jablay.workers.dev/02/stream.mpd?id=204|Referer=https://www.vidio
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=205&type=drm
-https://dashud.jablay.workers.dev/02/stream.mpd?id=205|Referer=https://www.vidio.com/
+https://myvidio.tvnid.workers.dev/01/stream.mpd?id=205|Referer=https://www.vidio.com/
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1361,9 +1361,8 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_2500000=10
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="NASIONAL" tvg-logo="https://thumbor.prod.vidiocdn.com/Iqs6mheIjesM4cUEh_dUVIdV0jU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg",mentari 1
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#http://103.155.250.139:25461/v3/Ub5dHa4TJp/03
-http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/indonesia/vidio.php?id=8237&=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="NASIONAL" tvg-logo="https://i.imgur.com/FpXH2Lp.png",mentari 2
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
