@@ -3984,7 +3984,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://thedream.biz.id/indonesia/vidio.php?id=9353&type=drm
 #https://sritv.serv00.net/red/play.mpd?id=9353&type=dash
-https://myvidio.tvnid.workers.dev/01/stream.mpd?id=9353&type=dash
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=9353&type=dash
 
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="SPORTS",Champions TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -3992,7 +3992,7 @@ https://myvidio.tvnid.workers.dev/01/stream.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://thedream.biz.id/indonesia/vidio.php?id=6685&type=drm
-https://thedream.biz.id/indonesia/vidio.php?id=6685&type=dash
+https://thedream.biz.id/indonesia/vidio.mpd?id=6685&type=dash
 
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/NvvD-abXE50lIJd1zvtf9QF2NDQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="SPORTS",Champions TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
