@@ -578,8 +578,8 @@ https://chiva.my.id/sc/avid/play.mpd?id=17674&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key==https://chiva.my.id/sc/avid/play.php?id=17701&type=drm
-https://chiva.my.id/sc/avid/play.mpd?id=17701&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://chiva.my.id/sc/avid/play.php?id=17904&type=drm
+https://chiva.my.id/sc/avid/play.mpd?id=17904&type=dash
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
