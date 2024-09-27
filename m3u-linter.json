@@ -588,8 +588,6 @@ https://chiva.my.id/sc/avid/play.mpd?id=17904&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/ck/17623
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17904_stream.mpd?hdntl=exp=1727451074~acl=%2fdrm%2fdash%2f17904*~id=161049633~data=hdntl~hmac=c00d93610feebbffd55b3349881f9a8be3ba0bb05eb4eb36fa87e1cba4f6ef3d
 
-
-
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
