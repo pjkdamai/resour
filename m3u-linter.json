@@ -582,16 +582,13 @@ https://chiva.my.id/sc/avid/play.mpd?id=17674&type=dash
 https://chiva.my.id/sc/avid/play.mpd?id=17904&type=dash
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 2
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36eed60064f380997fc93263d226a074:967adafdf64e6cc3b4662920cfe0abab
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17904_stream.mpd?hdntl=exp=1727278249~acl=%2fdrm%2fdash%2f17904*~id=161049633~data=hdntl~hmac=55c3820ec5ec53b03daedb022483880ad470739131b229dba6b1a8ba18a66928
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/ck/17623
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17904_stream.mpd?hdntl=exp=1727451074~acl=%2fdrm%2fdash%2f17904*~id=161049633~data=hdntl~hmac=c00d93610feebbffd55b3349881f9a8be3ba0bb05eb4eb36fa87e1cba4f6ef3d
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -600,11 +597,11 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17904_strea
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36eed60064f380997fc93263d226a074:967adafdf64e6cc3b4662920cfe0abab
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17904_stream.mpd?hdnts=exp=1727279411~acl=/drm/dash/17904*~id=69852964~hmac=a9cc8e2bc325c761964eadce0d0ccbf574df154669c68920e9b4407bea5d137e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
