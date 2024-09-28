@@ -911,14 +911,14 @@ https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live2.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ca2eb502e8746168c77ad9a506bb293:342972045bddbc97f43cc3c841cdc6b9
-https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
-http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
+#https://medialive.akash-go.com/out/v1/fa9ba9b216004bedb62d6638c6440a56/index.mpd
+https://cors-proxy.cooks.fyi/http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="live event",Live EPL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=940de883731a45a68770212a2ea15b9c:2c3678be523430a60c406bf6a8d9accf
 #https://medialive.akash-go.com/out/v1/4d015848792f45e1bd0ba5ce73452a37/index.mpd
-https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/huber.m3u8
+https://cors-proxy.cooks.fyi/https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/huber.m3u8
 
 
 ==================================================================Murotall==============================================================================
@@ -3931,7 +3931,7 @@ https://tchiphuong.github.io/iptv/channels/sports/hubpremier4.m3u8
 https://cors-proxy.cooks.fyi/http://gtvstreams.me:80/play/live.php?mac=00:1a:79:af:7d:70&stream=217477&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="SPORTS", NOW SPORT PREMIER 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL1.m3u8
+https://cors-proxy.cooks.fyi/http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=588913&extension=m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="SPORTS", NOW SPORT PREMIER 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://raw.githubusercontent.com/justpatrick94/playlist_source_patrick/main/asia%20sport/NowsportPL1.m3u8
