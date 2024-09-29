@@ -578,8 +578,6 @@ https://chiva.my.id/sc/avid/play.mpd?id=17904&type=dash
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/vidrm.php?id=17904
 https://colloriptvpro.my.id/vid/vidmp.mpd?id=17904
@@ -821,7 +819,7 @@ https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live2.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/vidrm.php?id=17904
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/vidrm.php?id=9182&type=drm
 https://colloriptvpro.my.id/vid/vidmp.mpd?id=9182&type=dash
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 1
@@ -829,7 +827,7 @@ https://colloriptvpro.my.id/vid/vidmp.mpd?id=9182&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/vidrm.php?id=17904
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid/vidrm.php?id=9182
 https://colloriptvpro.my.id/vid/vidmp.mpd?id=9182
 
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/euro24htv.png" group-title="live event",EURO 2024 - 2
