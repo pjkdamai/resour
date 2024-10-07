@@ -663,8 +663,7 @@ https://ddy1.mizhls.ru/ddy1/premium126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/117
-http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
+https://play-gachor.xyz:443/play/XFW_hg_CyHa09HxwZyD874pLcUkp_WJXv3MvmKaMxFA/ts
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event",MOJI 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -713,9 +712,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/in
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", BRI 5
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
-#EXTVLCOPT:http-referrer=https://colloriptvpro.my.id/
-https://colloriptvpro.my.id/stream/live/indosiar&tokenkey=ikan.m3u8
-
+https://play-gachor.xyz:443/play/XFW_hg_CyHa09HxwZyD87-y6OpYPxncG0g3LU4KWkqc/ts
+https://play-gachor.xyz:443/play/XFW_hg_CyHa09HxwZyD871Pyd23GbEQT2KGhvpF94sw/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
