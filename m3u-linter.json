@@ -3059,22 +3059,19 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn1.png" group-title="SPORTS", TSN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:619353d8d5eb758c69fc3c2249205a1c
-https://lott-web-opus.cdn.avp.telus.net/232006004130/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://esx1zz.webhd.ru/tshttp/esx1/eplayerTSN_1_HD/mono.m3u8|origin=https://ilovetoplay.xyz
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn2.png" group-title="SPORTS", TSN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-https://livecdn-iptv001.rumsport.com/stream/771/manifest.mpd
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://esx1zz.webhd.ru/tshttp/esx1/eplayerTSN_2_HD/mono.m3u8|origin=https://ilovetoplay.xyz
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn3.png" group-title="SPORTS", TSN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://esx1zz.webhd.ru/tshttp/esx1/eplayerTSN_3_HD/mono.m3u8|origin=https://ilovetoplay.xyz
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn4.png" group-title="SPORTS", TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
@@ -3083,10 +3080,9 @@ https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
 https://lott3-web-opus.cdn.avp.telus.net/232006004133/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn5.png" group-title="SPORTS", TSN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
-https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://esx1zz.webhd.ru/tshttp/esx1/eplayerTSN_5_HD/mono.m3u8|origin=https://ilovetoplay.xyz
 
 #EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-logo="http://guki.my.id/logo/sports/1p.png" group-title="SPORTS",Arena Sport Premium 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3331,16 +3327,14 @@ https://webhdrus.onlinehdhls.ru/lb/premium39/index.m3u8|Origin=https://weblivehd
 https://webhdrus.onlinehdhls.ru/lb/premium758/index.m3u8|Origin=https://weblivehdplay.ru
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/J9XZZZj.png" group-title="SPORTS",Canal+ Sport 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-https://top2zz.webhd.ru/tshttp/top2/premium486/mono.m3u8|origin=https://ilovetoplay.xyz
+https://mhdtv.co.in/daddy/stream.m3u8?id=486|Referer=https://mhdtv.co.in/daddy/?play=486
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/J9XZZZj.png" group-title="SPORTS",Canal+ Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-https://top2zz.webhd.ru/tshttp/top2/premium487/mono.m3u8|origin=https://ilovetoplay.xyz
+https://mhdtv.co.in/daddy/stream.m3u8?id=487|Referer=https://mhdtv.co.in/daddy/?play=487
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/J9XZZZj.png" group-title="SPORTS",Canal+ Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -3398,11 +3392,10 @@ https://canale.mizhls.ru/lb/premium418/playlist.m3u8
 https://canale.mizhls.ru/lb/premium419/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png" group-title="SPORTS",USA TUDN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
-#https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=oclearkey
+#KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORTS", UNIFI SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -3755,13 +3748,9 @@ https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest
 #https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/_shared_cc010062b17300c4504b6ab5681b5417/NL_000099_019256.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-logo="https://guki.my.id/logo/sports/zvoetball.png" group-title="SPORTS",Ziggo Sport Voetball
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
-#https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/_shared_cc010062b17300c4504b6ab5681b5417/NL_000095_019371.mpd
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-#https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12111
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#https://top1zz.webhd.ru/tshttp/top1/eplayerSuperSportPL/mono.m3u8|origin=https://ilovetoplay.xyz
 
 #EXTINF:-1 group-title="SPORTS" tvg-id=" tvg-logo="https://i.imgur.com/wIfgzSD.png", LI - Go 3 Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
