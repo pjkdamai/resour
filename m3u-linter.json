@@ -631,24 +631,23 @@ https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILsdaWEM1IthXmrpGCLcwtc4
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="live event",ASSP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-#https://ddy1.mizhls.ru/ddy1/premium123/playlist.m3u8
-https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/huber.m3u8
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://mhdtv.co.in/daddy/stream.m3u8?id=123|Referer=https://mhdtv.co.in/daddy/?play=123
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="live event",ASSP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium124/index.m3u8
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://mhdtv.co.in/daddy/stream.m3u8?id=124|Referer=https://mhdtv.co.in/daddy/?play=124
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="live event",ASSP 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium125/index.m3u8
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://mhdtv.co.in/daddy/stream.m3u8?id=125|Referer=https://mhdtv.co.in/daddy/?play=125
 
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="live event",ASSP 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://ddy1.mizhls.ru/ddy1/premium126/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://mhdtv.co.in/daddy/stream.m3u8?id=126|Referer=https://mhdtv.co.in/daddy/?play=126
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="live event",ASTRO ARENA 1
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -3333,13 +3332,15 @@ https://webhdrus.onlinehdhls.ru/lb/premium758/index.m3u8|Origin=https://webliveh
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/J9XZZZj.png" group-title="SPORTS",Canal+ Sport 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8|Origin=https://weblivehdplay.ru
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://top2zz.webhd.ru/tshttp/top2/premium486/mono.m3u8|origin=https://ilovetoplay.xyz
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/J9XZZZj.png" group-title="SPORTS",Canal+ Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8|Origin=https://weblivehdplay.ru
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://top2zz.webhd.ru/tshttp/top2/premium487/mono.m3u8|origin=https://ilovetoplay.xyz
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/J9XZZZj.png" group-title="SPORTS",Canal+ Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
