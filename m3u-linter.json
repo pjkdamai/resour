@@ -1322,15 +1322,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b3
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
 
 #EXTINF:-1 tvg-id="rtv.id" tvg-name="rtv" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5cd0b15903/bb1a5397f68d42899630a14334c359aa.jpg" group-title="NASIONAL",14 RTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="rtv.id" tvg-name="rtv" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-m.png" group-title="NASIONAL",14 RTV 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|referer=https://www.visionplus.id
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685758bcfff01776c4ea3520a72/dfbeb8234b8d4794be107648d83c57ac.png",15 Net tv 1
@@ -1431,13 +1428,13 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTINF:-1 tvg-name="MUSLIM TV" tvg-logo="https://www.visionplus.id/images/repository/941/49941-SNAPSHOT-m.png" group-title="RELIGI",MUSLIM TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-name="AL QURAN AL KAREEM" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png" group-title="RELIGI",AL QURAN AL KAREEM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://av-ch-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-name="TV9" tvg-logo="https://www.visionplus.id/images/repository/932/49932-SNAPSHOT-m.png" group-title="RELIGI",TV9 Nusantara
@@ -1447,7 +1444,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 #EXTINF:-1 tvg-name="TAWAF TV" tvg-logo="https://www.visionplus.id/images/repository/939/49939-SNAPSHOT-m.png" group-title="RELIGI",TAWAF TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://av-ch-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-name="MUHAMMADIYAH TV" tvg-logo="https://www.visionplus.id/images/repository/940/49940-SNAPSHOT-m.png" group-title="RELIGI",MUHAMMADIYAH TV
@@ -1510,11 +1507,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.visionplus.id/images/repository/989/49989-SNAPSHOT-m.png",Bandung TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-https://av-ch-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://av-ch-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 group-title="TV LOKAL" tvg-logo="https://www.visionplus.id/images/repository/984/49984-SNAPSHOT-m.png",jtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1528,7 +1524,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26b
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/988/49988-SNAPSHOT-m.png" group-title="TV LOKAL",Bali Tv 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://av-ch-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/daerah/jawapostv.png" group-title="TV LOKAL",JawaPos TV
@@ -1621,20 +1617,20 @@ https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23
 
 #EXTINF:-1 tvg-id="INFO" group-title="BERITA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be56c7d858fd/fb8baaa7d0eb4a528ee2653e0531a807.jpg" ch-number="92",BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="INFO" group-title="BERITA" tvg-logo="https://www.visionplus.id/images/repository/032/50032-SNAPSHOT-m.png" ch-number="92",IDX CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/031/50031-SNAPSHOT-m.png" group-title="BERITA",Sea Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9deOzb0.jpeg" group-title="BERITA",Astro Awani 
@@ -1649,14 +1645,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be3b835358d5/20200924035005.png",ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-id="INFO" group-title="BERITA" tvg-logo="https://i.imgur.com/D4VTcFa.jpeg" ch-number="92",TRT WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2664cc86dfb0f48e6b3f792dd4e8983c:5fc5b980db05c4450482b4bd7cda39fe
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd|referer=https://www.visionplus.id
 
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://www.visionplus.id/images/repository/039/50039-SNAPSHOT-m.png" group-title="BERITA",CNA 
@@ -1665,8 +1661,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://i.imgur.com/SJlTha8.png" group-title="BERITA",BLOOMBERG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=272401a5b200375e49a4712cf39f369c:39d7bc2faf1f13b8a2bb106b617e604a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd|referer=https://www.visionplus.id 
 
 #EXTINF:-1 group-title="BERITA" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be1c9566571f/20200924031618.png",Arirang
@@ -1677,20 +1673,20 @@ https://av-ch-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd|referer=htt
 
 #EXTINF:-1 tvg-name="SINDO NEWS" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-m.png" group-title="BERITA",SINDO NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|referer=https://www.visionplus.id 
 
 #EXTINF:-1 tvg-id="" tvg-name="CNBC ASIA" tvg-logo="https://i.imgur.com/HBoqwFz.jpeg" group-title="BERITA",CNBC ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd|referer=https://www.visionplus.id 
 
 #EXTINF:-1 tvg-name="RT English" tvg-logo="https://www.visionplus.id/images/repository/038/50038-SNAPSHOT-m.png" group-title="BERITA",RT English 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd|referer=https://www.visionplus.id 
 
 #EXTINF:-1 tvg-name="BBC WORLD NEWS" tvg-logo="https://www.visionplus.id/images/repository/033/50033-SNAPSHOT-m.png" group-title="BERITA",BBC WORLD NEWS 
@@ -1703,31 +1699,31 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://www.visionplus.id/images/repository/046/50046-SNAPSHOT-m.png" group-title="BERITA",CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd|referer=https://www.visionplus.id 
 
 #EXTINF:-1 tvg-name="DW ENGLISH" tvg-logo="https://www.visionplus.id/images/repository/034/50034-SNAPSHOT-m.png" group-title="BERITA",DW ENGLISH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd|referer=https://www.visionplus.id 
 
 #EXTINF:-1 tvg-name="FRANCE 24" tvg-logo="https://www.visionplus.id/images/repository/035/50035-SNAPSHOT-m.png" group-title="BERITA",FRANCE 24 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd|referer=https://www.visionplus.id 
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://i.imgur.com/qznaqGb.jpeg" group-title="BERITA",FOX NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd|referer=https://www.visionplus.id 
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/CwbBpwH.png" group-title="BERITA",EURO NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://av-ch-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd|referer=https://www.visionplus.id 
 
 
