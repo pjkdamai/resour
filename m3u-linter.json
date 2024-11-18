@@ -630,36 +630,30 @@ http://mpwtv.my.id/u16.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://mpwtv.my.id/u17.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="live event",ASSP 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/astro/2606
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://sport24.biz.id/tes/malay/astro.mpd?id=2606
-
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="live event",ASSP 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://mhdtv.co.in/daddy/stream.m3u8?id=124|Referer=https://mhdtv.co.in/daddy/?play=124
-
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="live event",ASSP 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://mhdtv.co.in/daddy/stream.m3u8?id=125|Referer=https://mhdtv.co.in/daddy/?play=125
-
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="live event",ASSP 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://sport24.biz.id/tes/malay/astro.mpd?id=2506
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="live event",ASTRO ARENA 1
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Premier League 2 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="live event",Astro Premier League 2 HD
+http://31.42.187.37:25461/watchpad13158/1234/113
+#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Premier League 1 HD" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="live event",Astro Premier League 1 HD
+http://31.42.187.37:25461/watchpad13158/1234/114
+#EXTINF:-1 tvg-name="Astro Premier League 2 (Backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague2.png" group-title="live event",Astro Premier League 2 (Backup)
+http://31.42.187.37:25461/watchpad13158/1234/15473
+#EXTINF:-1 tvg-name="Astro Premier League 1 (Backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/PremierLeague.png" group-title="live event",Astro Premier League 1 (Backup)
+http://31.42.187.37:25461/watchpad13158/1234/15474
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Football HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="live event",Astro Football HD
+http://31.42.187.37:25461/watchpad13158/1234/111
+#EXTINF:-1 tvg-id="241.astro" tvg-name="Astro Football(Backup)" tvg-logo="http://kingtv.dynu.com/tvlogo/Football.png" group-title="live event",Astro Football(Backup)
+http://31.42.187.37:25461/watchpad13158/1234/7909
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Grandstand HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Grandstand.png" group-title="live event",Astro Grandstand HD
+http://31.42.187.37:25461/watchpad13158/1234/112
+#EXTINF:-1 tvg-id="486.astro" tvg-name="Arena Bola 1" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola.png" group-title="live event",Arena Bola 1
+http://31.42.187.37:25461/watchpad13158/1234/4648
+#EXTINF:-1 tvg-id="487.astro" tvg-name="Arena Bola 2" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena_Bola2.png" group-title="live event",Arena Bola 2
+http://31.42.187.37:25461/watchpad13158/1234/332
+#EXTINF:-1 tvg-id="235.astro" tvg-name="Arena" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Arena.png" group-title="live event",ASTRO ARENA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 https://sport24.biz.id/tes/malay/astro.mpd?id=2604
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV4E7Y9ebadmR4ObVKzKg1sqNvMnOAU4YBxDcuvUj6EFwc_qzimmXulzw7R9vZpDjBg.png" group-title="live event",ASTRO ARENA 2
+#EXTINF:-1 tvg-id="457.astro" tvg-name="Arena 2" tvg-logo="http://kingtv.dynu.com/tvlogo/AstroArena2.png" group-title="live event",ASTRO ARENA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
