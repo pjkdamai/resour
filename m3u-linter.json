@@ -3513,16 +3513,16 @@ https://sport.livedoomovies.com:4432/02_sport6_480p/chunklist.m3u8|Referer=https
 https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8|referer=https://oneplayer.online/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YXpddyn.jpeg" group-title="SPORTS",SPO TV 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1xMLFD.jpeg" group-title="SPORTS",SPO TV 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://i.imgur.com/jql02XX.jpeg", IMPACT ! Wrestling
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -4300,10 +4300,10 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1
 #https://her.otv.my.id/max/get.mpd?type=dash&ch=YlJLKzR4bzBPeDVWaUFmdytxUWF1TUVNOFc5YmhPdFM3MHNQcndrTTBrcnhwdXRWcEFCWm1zclYvYkNYZkZFS21CMlBMQ1hIRkVDbHVRNlc0eU5qdFZ3TWZaTExVWFhPOWtkVGFvdG0rN1JwOTduMWcvazl0NzFyaGc2V3p6b3lqb3VGdTJtcXhyWnAzckg3WkthL2lnVDdaaHhsMjNpTXgvMXFKNGF0Z0tBPQ==.mpd
 
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/banner_xxhdpi.jpg" group-title="MOVIES",HBO (Fmx)
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBOHits1" group-title="MOVIES" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_dx9zvcn8/banner_xxhdpi.jpg",HBO Hits (Fmx)
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
