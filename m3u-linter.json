@@ -3353,18 +3353,20 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium885/playlist.m3u8
-
+#https://companion-live-play1.streamready.in/live/media13/sony_sports_ten_1/ndashd/sony_sports_ten_1.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony2.png" group-title="SPORTS", Sony Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://canale.mizhls.ru/lb/premium886/playlist.m3u8
+#https://canale.mizhls.ru/lb/premium886/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://proji.glitch.me/http://tv.cloudcdn.me/live.ts?channelId=290&uid=5563&deviceMac=00:1A:79:A7:35:8B
-
+https://companion-live-play1.streamready.in/live/media13/sony_sports_ten_2/ndashd/sony_sports_ten_2.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony3.png" group-title="SPORTS", Sony Sport 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://proji.glitch.me/http://tv.cloudcdn.me/live.ts?channelId=291&uid=5563&deviceMac=00:1A:79:A7:35:8B
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400157878.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec2d298cc5943dbfb2fd1b75d54c4c9a:bb2c99d764f17b708e7cdd5878535b4e
+https://companion-live-play1.streamready.in/live/media13/sony_sports_ten_3/ndashd/sony_sports_ten_3.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony4.png" group-title="SPORTS", Sony Sport 4 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
