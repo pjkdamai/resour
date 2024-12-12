@@ -711,12 +711,14 @@ https://kametv.my.id/sc/volikorsel.m3u8?id=8786607
 
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", BRI 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://canale.mizhls.ru/lb/premium1/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1012&token=j95e7vg989
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiSUNqOEU3Y0wiLCJyZWZyZXNoX3Rva2VuIjoieGlcL3pYaUNwT29oVFwvbWRYRGhnTFVGRTMwR0lFNHFoM0hzcThPN1pHUEY2QUVac2VCZURBaXJBS0pjMCtBVWx3OHBjajN0R1FIT1JMZlhiVGRWMXQxSUdHNUJSQkQ2QW1kS0VzTUNtWlMzdEYxb3RsaUVHc1F3d3lvdTVYbWpaMVFUZjlzUk96QlVmRUhieUY0MmluSkVvZ1A2YVdzaHd5WlFNRDQ1d0tCZTdqUm9lb29GUDdkdmNXMU9jTHBVdHdBQmI3QUhrZ2psWGF6K25tTFNcL1dSMzhiTk95RWdqaWVTYXhyQWhXY01Ud29VbStBaHFcL0RKQXV4UkdvZUlsd0F2Q1VJUER3M1VyenFuMEZVTFJYVVNOeUczRWRMZEV1UHJFZGlrYlhJWlwvMVwvR1orUHlFRm9wcVFOT2hBMlwvajFTYzcrNWsyS29RYU5JMkl3RXNFWUpobUNZZEFwbkE2MElGZTBieEJRek5rdz0ifQ==
+
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU",  BRI 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
