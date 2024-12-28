@@ -3642,45 +3642,37 @@ http://iptv12k.com:35461/live/654321/123456/20627.m3u8
 #EXTINF:-1 group-title="SPORTS", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png",Astro Arena Bola 2 
 http://iptv12k.com:35461/live/654321/123456/20628.m3u8
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="SPORTS", 124. Astro.PL.1
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="SPORTS",Astro PL.1
 http://iptv12k.com:35461/654321/123456/7990
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="SPORTS",125. Astro.P.L.2
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="SPORTS",Astro PL.2
 http://iptv12k.com:35461/654321/123456/7988
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="SPORTS",126. Astro Grandstand
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="SPORTS",Astro Grandstand
 http://m1-max.dns-speedy.com:80/529C1C/7446D7/656972
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="SPORTS",127. Astro Football
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="SPORTS",Astro Football
 http://iptv12k.com:35461/654321/123456/969
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="SPORTS",128. Astro Sport Plus
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="SPORTS",Astro Sport Plus
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroSportPlus.m3u8
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="SPORTS",129. Astro Badminton
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="SPORTS",Astro Badminton
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroBadimnton.m3u8
 
-#EXTINF:-1 tvg-id="WSports" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/WSports.png" group-title="SPORTS",130. Astro WSports
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/WSports.m3u8
-
-#EXTINF:-1 tvg-id="PFL" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/PFL.png" group-title="SPORTS",131. PFL
+#EXTINF:-1 tvg-id="PFL" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/PFL.png" group-title="SPORTS",PFL
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/PFL.m3u8
 
-#EXTINF:-1 tvg-id="MMA TV" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MMA-TV.png" group-title="SPORTS",132. MMA TV
+#EXTINF:-1 tvg-id="MMA TV" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MMA-TV.png" group-title="SPORTS",MMA TV
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://lb.wisp.cat/lb0/M1_Global_HD/video.m3u8?token=7jfxcz8
 
-#EXTINF:-1 tvg-id="CombateGlobal" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CombateGlobal.png" group-title="SPORTS",133. Combate Global
+#EXTINF:-1 tvg-id="CombateGlobal" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CombateGlobal.png" group-title="SPORTS",Combate Global
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-
-#EXTINF:-1 tvg-id="Combate4K" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/UfcFightPass.png" group-title="SPORTS",135. UFC Fight Pass
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/UfcFightPass.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Astro SuperSport 1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
