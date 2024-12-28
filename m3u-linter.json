@@ -546,7 +546,8 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffc555c120261e93a09cedcc9ccb541c:28acbfe596ae377c78330c7e0034817f
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live10.mpd
+#https://unifi-live01.secureswiftcontent.com/UnifiHD/live10.mpd
+http://puritv.xyz:80/play/7Jlm0ZceNJ5AqeP4U3u8jEWuMNoIfwnpWZF5WgcQpvQ
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb3LLgF_iWCjfrbquSZ_xGGrog-oGSSnvAw&usqp=CAU" group-title="live event",MOTOGP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -570,7 +571,8 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+#https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+http://puritv.xyz:80/play/7Jlm0ZceNJ5AqeP4U3u8jOX24ZEPEyZ-OrYHE1XjoOA
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -594,7 +596,8 @@ http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
-https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+#https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+http://puritv.xyz:80/play/7Jlm0ZceNJ5AqeP4U3u8jDW2S6Nic1U1R66LPOoUtQU
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -717,7 +720,7 @@ https://s.urfan.id/moji
 #KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1012&token=j95e7vg989
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiSUNqOEU3Y0wiLCJyZWZyZXNoX3Rva2VuIjoieGlcL3pYaUNwT29oVFwvbWRYRGhnTFVGRTMwR0lFNHFoM0hzcThPN1pHUEY2QUVac2VCZURBaXJBS0pjMCtBVWx3OHBjajN0R1FIT1JMZlhiVGRWMXQxSUdHNUJSQkQ2QW1kS0VzTUNtWlMzdEYxb3RsaUVHc1F3d3lvdTVYbWpaMVFUZjlzUk96QlVmRUhieUY0MmluSkVvZ1A2YVdzaHd5WlFNRDQ1d0tCZTdqUm9lb29GUDdkdmNXMU9jTHBVdHdBQmI3QUhrZ2psWGF6K25tTFNcL1dSMzhiTk95RWdqaWVTYXhyQWhXY01Ud29VbStBaHFcL0RKQXV4UkdvZUlsd0F2Q1VJUER3M1VyenFuMEZVTFJYVVNOeUczRWRMZEV1UHJFZGlrYlhJWlwvMVwvR1orUHlFRm9wcVFOT2hBMlwvajFTYzcrNWsyS29RYU5JMkl3RXNFWUpobUNZZEFwbkE2MElGZTBieEJRek5rdz0ifQ==
+#https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiSUNqOEU3Y0wiLCJyZWZyZXNoX3Rva2VuIjoieGlcL3pYaUNwT29oVFwvbWRYRGhnTFVGRTMwR0lFNHFoM0hzcThPN1pHUEY2QUVac2VCZURBaXJBS0pjMCtBVWx3OHBjajN0R1FIT1JMZlhiVGRWMXQxSUdHNUJSQkQ2QW1kS0VzTUNtWlMzdEYxb3RsaUVHc1F3d3lvdTVYbWpaMVFUZjlzUk96QlVmRUhieUY0MmluSkVvZ1A2YVdzaHd5WlFNRDQ1d0tCZTdqUm9lb29GUDdkdmNXMU9jTHBVdHdBQmI3QUhrZ2psWGF6K25tTFNcL1dSMzhiTk95RWdqaWVTYXhyQWhXY01Ud29VbStBaHFcL0RKQXV4UkdvZUlsd0F2Q1VJUER3M1VyenFuMEZVTFJYVVNOeUczRWRMZEV1UHJFZGlrYlhJWlwvMVwvR1orUHlFRm9wcVFOT2hBMlwvajFTYzcrNWsyS29RYU5JMkl3RXNFWUpobUNZZEFwbkE2MElGZTBieEJRek5rdz0ifQ==
 
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU",  BRI 2 
@@ -747,7 +750,8 @@ https://dusk.biz.id/visas/index.mpd?id=1013
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
-https://red.openwindows038.workers.dev/play.mpd?id=17624&type=dash
+#https://red.openwindows038.workers.dev/play.mpd?id=17624&type=dash
+http://puritv.xyz:80/play/7Jlm0ZceNJ5AqeP4U3u8jDMBqP6N-BSTHpo_nu6ECsk
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
@@ -3169,28 +3173,28 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-025/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-502/stream.mpd
+#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-502/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=jyy9jw5qg2fo1t2oucwjqzi6r_image-header_pDach_1690558178000" group-title="SPORTS", DAZN FAST+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-504/stream.mpd
+#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-504/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=dxaycmnfa2rc14y5ww482fi2l_image-header_pDach_1687955212000&quality=70" group-title="SPORTS", DAZN RISE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-501/stream.mpd
+#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-501/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=19ptz9oy5cnz1145uk6phxtywh_image-header_pRow_1691575512000&quality=70" group-title="SPORTS", DAZN WOMEN'S FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-503/stream.mpd
+#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-503/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/DAZNFAST.jpg" group-title="SPORTS" , PGA TOUR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
@@ -3277,19 +3281,19 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-503/stream.mpd
 #https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-521/stream.mpd
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn1.png" group-title="SPORTS", TSN 1
-#EXTVLCOPT:http-user-agent=AppleCoreMedia
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-https://esx1zz.webhd.ru/tshttp/esx1/eplayerTSN_1_HD/mono.m3u8|origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium111/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn2.png" group-title="SPORTS", TSN 2
-#EXTVLCOPT:http-user-agent=AppleCoreMedia
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-https://esx1zz.webhd.ru/tshttp/esx1/eplayerTSN_2_HD/mono.m3u8|origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium112/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn3.png" group-title="SPORTS", TSN 3
-#EXTVLCOPT:http-user-agent=AppleCoreMedia
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-https://esx1zz.webhd.ru/tshttp/esx1/eplayerTSN_3_HD/mono.m3u8|origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium113/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn4.png" group-title="SPORTS", TSN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
@@ -3298,9 +3302,9 @@ https://esx1zz.webhd.ru/tshttp/esx1/eplayerTSN_3_HD/mono.m3u8|origin=https://ilo
 https://lott3-web-opus.cdn.avp.telus.net/232006004133/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/tsn5.png" group-title="SPORTS", TSN 5
-#EXTVLCOPT:http-user-agent=AppleCoreMedia
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-https://esx1zz.webhd.ru/tshttp/esx1/eplayerTSN_5_HD/mono.m3u8|origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium115/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-logo="http://guki.my.id/logo/sports/1p.png" group-title="SPORTS",Arena Sport Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -3822,19 +3826,19 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wJxduCO.png" group-title="SPORTS", Al Kass 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://webhdrunns.mizhls.ru/lb/premium781/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://webhdrunns.mizhls.ru/lb/premium781/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wJxduCO.png" group-title="SPORTS",Al Kass 2
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://webhdrunns.mizhls.ru/lb/premium782/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://webhdrunns.mizhls.ru/lb/premium782/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wJxduCO.png" group-title="SPORTS",Al Kass 3
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://webhdrunns.mizhls.ru/lb/premium783/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://webhdrunns.mizhls.ru/lb/premium783/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wJxduCO.png" group-title="SPORTS",Al Kass 4
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://webhdrunns.mizhls.ru/lb/premium784/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://webhdrunns.mizhls.ru/lb/premium784/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wJxduCO.png" group-title="SPORTS",Al Kass 5
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -4035,7 +4039,7 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/05/USA-Network-Logotype.jpg", tvg-id="ksport1hd" group-title="SPORTS", USA Network 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4046,7 +4050,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+#https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2pMlB35.png", tvg-id="ksport1hd" group-title="SPORTS",USA NBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4172,7 +4176,7 @@ https://director.tv.c.is/__cl/cg:default/__c/Siminn_Sport_HD_HTTP/__op/dash-defa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
-https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+#https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sport/tenis.png",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -4207,31 +4211,31 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
+#https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ZlFYIVv.png",V SPORT FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+#https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ZlFYIVv.png",V SPORT PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+#https://cors-proxy.cluster.fun/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ZlFYIVv.png",V SPORT EXTRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+#https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ZlFYIVv.png",V SPORT Ultra HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
-https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
+#https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/feLPYkM.jpeg" group-title="SPORTS",UFC 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
