@@ -964,14 +964,16 @@ https://edge-live17-hr.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/E
 #KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
 https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="live event",Live EPL 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="live event",Live EPL 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNNZOzL.jpeg" group-title="live event",Live Seri A-1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
 https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="live event",Live EPL 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNNZOzL.jpeg" group-title="live event",Live Seri A-2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
