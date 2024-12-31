@@ -201,7 +201,7 @@ https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="MUHAMMADIYAH TV" tvg-logo="https://i.imgur.com/p1Vm7x0.png" group-title="TV AGAMA",MUHAMMADIYAH TV
+#EXTINF:-1 tvg-id="" tvg-name="MUHAMMADIYAH TV" tvg-logo="https://i.imgur.com/8qdH3PA.png" group-title="TV AGAMA",MUHAMMADIYAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/MQGHZhlYFicsYHQ.m3u8
 
