@@ -49,3 +49,133 @@
     </AdaptationSet>
   </Period>
 </MPD>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://i.imgur.com/R3DoFqb.png" group-title="? TV NASIONAL",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/6
+#EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://i.imgur.com/8kUTqHY.png" group-title="? TV NASIONAL",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/7
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR LOKAL 1" tvg-logo="https://i.imgur.com/3Ue3frG.png" group-title="? TV NASIONAL",INDOSIAR LOKAL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9721
+#EXTINF:-1 tvg-id="" tvg-name="SCTV LOKAL 1" tvg-logo="https://i.imgur.com/ckS5xIW.png" group-title="? TV NASIONAL",SCTV LOKAL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9722
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/3Ue3frG.png" group-title="? TV NASIONAL",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/8
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/ckS5xIW.png" group-title="? TV NASIONAL",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/9
+#EXTINF:-1 tvg-id="3010" tvg-name="MNC TV" tvg-logo="https://i.imgur.com/qa4E8qJ.png" group-title="? TV NASIONAL",MNC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/11
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/PadGSJs.png" group-title="? TV NASIONAL",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/12
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://i.imgur.com/xfhWHdH.png" group-title="? TV NASIONAL",iNEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/32
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.imgur.com/OaN4A6C.png" group-title="? TV NASIONAL",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/13
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.imgur.com/dcKYei5.png" group-title="? TV NASIONAL",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/14
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://i.imgur.com/j2Y6p32.png" group-title="? TV NASIONAL",NET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/15
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://i.imgur.com/809VjIO.png" group-title="? TV NASIONAL",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/16
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://i.imgur.com/K32zR8u.png" group-title="? TV NASIONAL",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/17
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.imgur.com/v8YGt6T.png" group-title="? TV NASIONAL",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/18
