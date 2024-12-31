@@ -227,34 +227,34 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 ========================================================================================anakan=====================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.imgur.com/ETi4Aww.png" group-title="TV ANAK",NICK JR
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.imgur.com/TfAu8ay.png" group-title="TV ANAK",NICK JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
 https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://i.imgur.com/fxsQUVw.png" group-title="TV ANAK",MENTARI TV
+#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://i.imgur.com/0bumN7C.png" group-title="TV ANAK",MENTARI TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=8237&type=hls
 
-#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://i.imgur.com/8d9mm7E.png" group-title="TV ANAK",CARTOONITO
+#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://i.imgur.com/llKnpgO.png" group-title="TV ANAK",CARTOONITO
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://i.imgur.com/68DevIE.png" group-title="TV ANAK",DREAMWORKS
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://i.imgur.com/cYN6D45.png" group-title="TV ANAK",DREAMWORKS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/NWPmSAT.png" group-title="TV ANAK",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/Mw5QXIx.png" group-title="TV ANAK",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://i.imgur.com/UaxxHqN.png" group-title="TV ANAK",HOREE
+#EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://i.imgur.com/HGMMdUh.png" group-title="TV ANAK",HOREE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
@@ -265,44 +265,44 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY KIDZ" tvg-logo="https://i.imgur.com/2HkpUy2.png" group-title="TV ANAK",MY KIDZ
+#EXTINF:-1 tvg-id="" tvg-name="MY KIDZ" tvg-logo="https://i.imgur.com/yw9zeHL.png" group-title="TV ANAK",MY KIDZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
 https://d1abp075u76pbq.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://i.imgur.com/89JhWD8.png" group-title="TV ANAK",ANIMAX
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://i.imgur.com/RpgjA9D.png" group-title="TV ANAK",ANIMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://i.imgur.com/zETe0xd.png" group-title="TV ANAK",KIDS TV
+#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://i.imgur.com/BKuc7mW.png" group-title="TV ANAK",KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
 https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="CBEBIES" tvg-logo="https://i.imgur.com/Gd9o3Vd.png" group-title="TV ANAK",CBEBIES
+#EXTINF:-1 tvg-id="" tvg-name="CBEBIES" tvg-logo="https://i.imgur.com/whFPsf9.png" group-title="TV ANAK",CBEBIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
 https://d1abp075u76pbq.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/BmDCR4l.png" group-title="TV ANAK",NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/LmsE3zJ.png" group-title="TV ANAK",NICKELODEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
 https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.imgur.com/2X4lwTy.png" group-title="TV ANAK",CINEMACHI KIDS
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.imgur.com/EELP7oA.png" group-title="TV ANAK",CINEMACHI KIDS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://i.imgur.com/7YOKIWs.png" group-title="TV ANAK",ZOO MOO
+#EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://i.imgur.com/7RnwUgt.png" group-title="TV ANAK",ZOO MOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 ============================================================================berita======================================================================================================
