@@ -260,7 +260,7 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8?ch
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd 
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/y91BSpA.png" group-title="TV ANAK",ANIPLUS
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/PC74dcD.png" group-title="TV ANAK",ANIPLUS
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
