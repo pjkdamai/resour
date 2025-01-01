@@ -779,55 +779,55 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 ==========================================================================================lifeitil======================================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.imgur.com/LrgA4tK.png" group-title="GAYA HIDUP",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.imgur.com/XPTr6fh.png" group-title="GAYA HIDUP",HGTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://i.imgur.com/xvoANv1.png" group-title="GAYA HIDUP",TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://i.imgur.com/f3sdgWh.png" group-title="GAYA HIDUP",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="https://i.imgur.com/Jf9qBKV.png" group-title="GAYA HIDUP",AFN
+#EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="https://i.imgur.com/AIUjSKa.png" group-title="GAYA HIDUP",AFN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://i.imgur.com/PbFkVa9.png" group-title="GAYA HIDUP",FASHION TV
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://i.imgur.com/nOAYz2P.png" group-title="GAYA HIDUP",FASHION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV MIDNIGHT" tvg-logo="https://i.imgur.com/weQXRZI.png" group-title="GAYA HIDUP",FASHION TV MIDNIGHT
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV MIDNIGHT" tvg-logo="https://i.imgur.com/qAlEG5f.png" group-title="GAYA HIDUP",FASHION TV MIDNIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://i.imgur.com/rxnt2PG.png" group-title="GAYA HIDUP",LIFETIME
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://i.imgur.com/Oh3bWgD.png" group-title="GAYA HIDUP",LIFETIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
 https://d1abp075u76pbq.cloudfront.net/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/y73v4xE.png" group-title="GAYA HIDUP",MTV LIVE
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/8yprb8H.png" group-title="GAYA HIDUP",MTV LIVE
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b9753643572b0c6c467793b50900029:ebeda1cf36dae2b0bdedf1065129ea93
 https://d1abp075u76pbq.cloudfront.net/live/eds/MTV/sa_dash_vmx/MTV.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC TV" tvg-logo="https://i.imgur.com/F68UDzf.png" group-title="GAYA HIDUP",MUSIC TV
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TV" tvg-logo="https://i.imgur.com/rkxOslJ.png" group-title="GAYA HIDUP",MUSIC TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
 https://d1abp075u76pbq.cloudfront.net/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="NOW 90s" tvg-logo="https://i.imgur.com/gMvrRX2.png" group-title="GAYA HIDUP",NOW 90s
+#EXTINF:-1 tvg-id="" tvg-name="NOW 90s" tvg-logo="https://i.imgur.com/aELxI3y.png" group-title="GAYA HIDUP",NOW 90s
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37ef71f668c1c1126595be0f557587f5:008df022d78a9ec318a745cf8365b048
 https://d1abp075u76pbq.cloudfront.net/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="" tvg-name="NOW 80s" tvg-logo="https://i.imgur.com/Gi4qh7w.png" group-title="GAYA HIDUP",NOW 80s
+#EXTINF:-1 tvg-id="" tvg-name="NOW 80s" tvg-logo="https://i.imgur.com/FTIWTH5.png" group-title="GAYA HIDUP",NOW 80s
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -835,7 +835,7 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Rock & Roll" tvg-logo="https://i.imgur.com/QAEBZjI.png" group-title="GAYA HIDUP",Rock & Roll
+#EXTINF:-1 tvg-id="" tvg-name="Rock & Roll" tvg-logo="https://i.imgur.com/kx0fYFc.png" group-title="GAYA HIDUP",Rock & Roll
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
