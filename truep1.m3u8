@@ -831,7 +831,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.m
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NOW 70s" tvg-logo="https://i.imgur.com/HYtSvUV.png" group-title="GAYA HIDUP",NOW 70s
+#EXTINF:-1 tvg-id="" tvg-name="NOW 70s" tvg-logo="https://i.imgur.com/3v5sDgw.png" group-title="GAYA HIDUP",NOW 70s
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -839,9 +839,13 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UjKf7FA.png" group-title="GAYA HIDUP", Kaloopy TV
+#EXTINF:-1 tvg-id="" tvg-name="Rock & Roll" tvg-logo="https://i.imgur.com/bDtScS6.png" group-title="GAYA HIDUP",NOW Rock
+
+#EXTINF:-1 tvg-id="" tvg-name="Kaloopy TV" tvg-logo="https://i.imgur.com/upP6N94.png" group-title="GAYA HIDUP",Kaloopy TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDUfEvg.png" group-title="GAYA HIDUP",Jenny Live
+
+#EXTINF:-1 tvg-id="" tvg-name="Jenny Live" tvg-logo="https://i.imgur.com/r5d93tz.png" group-title="GAYA HIDUP",Jenny Live
 https://5ee7c2b857b7f.streamlock.net/jennylive/smil:WEB3131/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDUfEvg.png" group-title="GAYA HIDUP",MIAMI TV
+
+#EXTINF:-1 tvg-id="" tvg-name="Miami Tv" tvg-logo="https://i.imgur.com/eEKJJ4Q.png" group-title="GAYA HIDUP",MIAMI TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
