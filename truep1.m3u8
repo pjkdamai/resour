@@ -782,6 +782,19 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd|Referer=h
 #KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
 https://d1abp075u76pbq.cloudfront.net/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd|Referer=https://www.visionplus.id/
 
+#EXTINF:-1 tvg-id="RRI NET.id" tvg-logo="https://i.imgur.com/5aZtQ7G.png" group-title="BERITA",RRI Net
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://rri.co.id&referer=https://rri.co.id/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d_output_0.m3u8?session=UTioiz5BEc5y9tju8mkSUF
+
+#EXTINF:-1 tvg-id="Antara.id" tvg-logo="https://i.imgur.com/CzsEoRD.png" group-title="BERITA",Antara TV
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.indihometv.com&referer=https://www.indihometv.com/&user-agent=IndiHome TV/8.7.15 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://cdnbpp1.indihometv.com/atm/hlsv3/antara/antara.m3u8
 
 ===========================================================================film===============================================================================================================
 
