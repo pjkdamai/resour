@@ -1321,11 +1321,21 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o7NfxNe.png" group-title="SPORTS",SUPERSPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.imgur.com/o7NfxNe.png" group-title="SPORTS",SuperSports Premier league
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47633.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o7NfxNe.png" group-title="SPORTS",SUPERSPORTS LALIGA
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.imgur.com/o7NfxNe.png" group-title="SPORTS",SuperSports laliga
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47638.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.imgur.com/o7NfxNe.png" group-title="SPORTS",SuperSports motorsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium424/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-logo="https://i.imgur.com/o7NfxNe.png" group-title="SPORTS",SuperSports football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium56/index.m3u8
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://i.imgur.com/uDMoqt4.png",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
@@ -1591,19 +1601,127 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:ea683112a96d4ae6c32d4ea13923e8c7
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
+#EXTINF:-1  group-title="SPORTS"tvg-logo="https://i.imgur.com/NC8LUHS.png",Sportsnet East  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0407787b4d83e5db9dbcd760aec17ce:0f7c2736f496c2d2eccc9ebbe27799b9
+https://cors-proxy.cooks.fyi/https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd
+
+#EXTINF:-1  group-title="SPORTS"tvg-logo="https://i.imgur.com/NC8LUHS.png",Sportsnet Ontario
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620814bb9cc23732994f4cdd85716b6f:b9e3a3412749e7f9fbb87b1a6b4bbcdd
+https://cors-proxy.cooks.fyi/https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-02-prd-r-v2/dash-ch-02-prd-r-hd/index.mpd
+
+#EXTINF:-1  group-title="SPORTS"tvg-logo="https://i.imgur.com/NC8LUHS.png",Sportsnet West 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7503babdb1ee31999583342eb1729f26:6a07fa37f91dbaab8aadbe2307af739f
+https://cors-proxy.cooks.fyi/https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd
+
+#EXTINF:-1  group-title="SPORTS"tvg-logo="https://i.imgur.com/NC8LUHS.png",Sportsnet Pacific
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a565810c9cb35aca05476af10bffe05:b6759d6505a377dcec768a3ecb1cbad0
+https://cors-proxy.cooks.fyi/https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-04-prd-r-v2/dash-ch-04-prd-r-hd/index.mpd
+
+#EXTINF:-1  group-title="SPORTS"tvg-logo="https://i.imgur.com/NC8LUHS.png",Sportsnet One 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbad1672b1bf3d0abd1c1c2161057f99:e1100c4e24f028d47a36ead37f0fd55f
+https://cors-proxy.cooks.fyi/https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd
+
+#EXTINF:-1  group-title="SPORTS"tvg-logo="https://i.imgur.com/NC8LUHS.png",Sportsnet 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c0df9fa2e9314b8c49f824e1ff9d82:ff57bd34fde4c6022385879fe394dd6d
+https://cors-proxy.cooks.fyi/https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd
+
+#EXTINF:-1  group-title="SPORTS"tvg-logo="https://i.imgur.com/NC8LUHS.png",Sportsnet world
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
+https://cors-proxy.cooks.fyi/https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xf645NX.png" group-title="SPORTS",Canal+ Sport 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrus.onlinehdhls.ru/lb/premium486/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xf645NX.png" group-title="SPORTS",Canal+ Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrus.onlinehdhls.ru/lb/premium487/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xf645NX.png" group-title="SPORTS",Canal+ Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrus.onlinehdhls.ru/lb/premium488/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xf645NX.png" group-title="SPORTS",Canal+ Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrus.onlinehdhls.ru/lb/premium489/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xf645NX.png" group-title="SPORTS",Canal+ Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webhdrus.onlinehdhls.ru/lb/premium490/index.m3u8|Origin=https://weblivehdplay.ru
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.imgur.com/OymlR6D.png" group-title="SPORTS", UNIFI SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NnMyib7.png",Fight Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
+https://dsgtq5sngxkde.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 tvg-id="MMA TV" tvg-url="" tvg-logo="https://i.imgur.com/QV6BoXQ.png" group-title="SPORTS",MMA TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://lb.wisp.cat/lb0/M1_Global_HD/video.m3u8?token=7jfxcz8
+
+
+
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.imgur.com/kogQ54X.png" group-title="SPORTS",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://i.imgur.com/kogQ54X.png" group-title="SPORTS",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash 
+#https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash 
 
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://i.imgur.com/kogQ54X.png" group-title="SPORTS",Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1611,21 +1729,21 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://i.imgur.com/kogQ54X.png" group-title="SPORTS",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://i.imgur.com/kogQ54X.png" group-title="SPORTS",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 
 
