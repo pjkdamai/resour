@@ -601,7 +601,7 @@ https://atemeshield2-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
 https://atemeshield2-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
 
-#EXTINF:-1 tvg-id="Citra Dangdut.id" tvg-logo="https://i.imgur.com/fa3BV89.png" group-title="TV NASIONAL",Citra Dangdut
+#EXTINF:-1 tvg-id="Citra Dangdut.id" tvg-logo="https://i.imgur.com/KSItZz7.png" group-title="TV NASIONAL",Citra Dangdut
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
