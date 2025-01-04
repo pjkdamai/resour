@@ -2573,7 +2573,7 @@ http://lb.wisp.cat/lb0/M1_Global_HD/video.m3u8?token=7jfxcz8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm 
-#https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://i.imgur.com/kogQ54X.png" group-title="SPORTS",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2689,7 +2689,7 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://hanxinwp1.manxiao35.workers.dev/https://mt29.aa.astro.com.my/default_ott.mpd?PID=&PAID=2506&deviceIdType=%5BdevIdType%5D&deviceId=46cdc10b00be27782e9feb7159624e3b&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-5e4138ed-2bef-457c-a68f-790719e925f9&optin=true&hhid=1f8349ccd5e530b09bf8601620404fc9&kvp=lang~eng&kvp=genre~HD%2CSPORTS%2CALL
+https://hanxinwp1.manxiao35.workers.dev/https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/premier1.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y5ynSSL.png" group-title="live event",on live-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2754,11 +2754,130 @@ https://hanxinwp1.manxiao35.workers.dev/https://linearjitp-playback.astro.com.my
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y5ynSSL.png" group-title="live event",on live-92
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e 
-https://hanxinwp1.manxiao35.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd 
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://hanxinwp1.manxiao35.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
