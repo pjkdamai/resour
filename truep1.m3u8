@@ -703,42 +703,42 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 ========================================================================================anakan=====================================================================
 
 
-#EXTINF:-1 tvg-id="FunPlanet.id" tvg-logo="https://i.imgur.com/BCjV7JE.png" group-title="TV ANAK",Fun Planet
+#EXTINF:-1 tvg-id="FunPlanet.id" tvg-logo="https://i.imgur.com/JjjU2c4.png" group-title="TV ANAK",Fun Planet
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.indihometv.com&referer=https://www.indihometv.com/&user-agent=IndiHome TV/8.7.15 (Linux;Android 11) ExoPlayerLib/2.19.1
 https://cdnbpp1.indihometv.com/atm/hlsv3/indikids/indikids.m3u8
 
-#EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="TV ANAK",Biznet Kids
+#EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="https://i.imgur.com/O66lKW6.png" group-title="TV ANAK",Biznet Kids
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=http://biznetvideo.net&referer=http://biznetvideo.net/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest_w2063077532_qYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1CRlFFX050VVlMU2NBVVl2eDJ2cGU5SXNlekh3a1NIcEw4cS1lcUsxMlp2cmV4WkptaEFWZXFERlRPcld2WVhS.mpd
 
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/juFxY7w.png" group-title="TV ANAK",Disney Channel
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/Z4WDnNP.png" group-title="TV ANAK",Disney Channel
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://i.imgur.com/8wq7HVM.png" group-title="TV ANAK",Disney Junior
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://i.imgur.com/fUOjRpW.png" group-title="TV ANAK",Disney Junior
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/y1exj7T.png" group-title="TV ANAK",Disney XD
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/CUAEZz5.png" group-title="TV ANAK",Disney XD
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="FirstWarriors.id" tvg-logo="https://i.imgur.com/ueQq8F3.png" group-title="TV ANAK",First Warriors
+#EXTINF:-1 tvg-id="FirstWarriors.id" tvg-logo="https://i.imgur.com/qNjC5LC.png" group-title="TV ANAK",First Warriors
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -931,7 +931,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mp
 https://atemeshield2-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 #https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="TVBS.News.sg" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="BERITA",TVBS News
+#EXTINF:-1 tvg-id="TVBS.News.sg" tvg-logo="https://i.imgur.com/9w3Sb2O.png" group-title="BERITA",TVBS News
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1034,7 +1034,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
-#EXTINF:-1 tvg-id="RAI.Italia.1.ca" tvg-logo="https://i.imgur.com/T5ZMbWR.png" group-title="BERITA",Rai Italia
+#EXTINF:-1 tvg-id="RAI.Italia.1.ca" tvg-logo="https://i.imgur.com/Q9s4vge.png" group-title="BERITA",Rai Italia
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1043,7 +1043,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channe
 #KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
 https://atemeshield2-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
 
-#EXTINF:-1 tvg-id="TRT.World.HD.uk" tvg-logo="https://i.imgur.com/QakgggF.jpeg" group-title="BERITA",TRT World
+#EXTINF:-1 tvg-id="TRT.World.HD.uk" tvg-logo="https://i.imgur.com/o20UwbB.png" group-title="BERITA",TRT World
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1069,42 +1069,44 @@ https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d_ou
 https://cdnbpp1.indihometv.com/atm/hlsv3/antara/antara.m3u8
 
 ===========================================================================film===============================================================================================================
-#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/TJvlSP8.png" group-title="FILM",HBO
+
+
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/qx0TEVw.png" group-title="FILM",HBO
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://fl2.moveonjoy.com/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/fduzZyw.png" group-title="FILM",HBO 2
+#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/UGVTDlP.png" group-title="FILM",HBO 2
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://i.imgur.com/D1q0fIZ.png" group-title="FILM",HBO Comedy
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://i.imgur.com/kQx8bkI.png" group-title="FILM",HBO Comedy
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://i.imgur.com/mmQcFGf.png" group-title="FILM",HBO Zone
+#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://i.imgur.com/T9vwiTs.png" group-title="FILM",HBO Zone
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/rNMewLD.png" group-title="FILM",Paramount Network
+#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/z11E3QC.png" group-title="FILM",Paramount Network
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/h21xbco.png" group-title="FILM",AMC
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/GFllV10.png" group-title="FILM",AMC
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1230,7 +1232,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 tvg-id="370247" tvg-logo="https://i.imgur.com/bMNTcBf.png" group-title="FILM",My Cinema Europe
+#EXTINF:-1 tvg-id="370247" tvg-logo="https://i.imgur.com/xzamG0R.png" group-title="FILM",My Cinema Europe
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1438,7 +1440,7 @@ https://jmp2.uk/sam-USBD17000117B.m3u8
 =========================================================================hiburan=============================================================================================================================================
 
 
-#EXTINF:-1 tvg-id="HITS.NOW.(HD).sg" tvg-logo="https://i.imgur.com/C8vtSyZ.png" group-title="HIBURAN",Hits Now
+#EXTINF:-1 tvg-id="HITS.NOW.(HD).sg" tvg-logo="https://i.imgur.com/zi3ybKw.png" group-title="HIBURAN",Hits Now
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1914,7 +1916,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCInfotainment/sa_dash_vmx/MNCInf
 
 ========================================================================sport==========================================================================================
 
-#EXTINF:-1 tvg-id="KRBC800015MH" tvg-logo="https://i.imgur.com/KTEE9vt.png" group-title="SPORTS",tvN Sports
+#EXTINF:-1 tvg-id="KRBC800015MH" tvg-logo="https://i.imgur.com/fOexisg.png" group-title="SPORTS",tvN Sports
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
