@@ -573,7 +573,8 @@ https://atemeshield2-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 https://atemeshield2-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://i.imgur.com/j2Y6p32.png" group-title="TV NASIONAL",NET TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -581,7 +582,8 @@ https://atemeshield2-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd
 https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-logo="https://i.imgur.com/kvzZd8E.png" group-title="TV NASIONAL",TVRI Sport
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -664,13 +666,6 @@ https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MUI TV" tvg-logo="https://i.imgur.com/J1BQVlK.png" group-title="TV AGAMA",MUI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -678,20 +673,20 @@ https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 https://cdnbpp1.indihometv.com/joss//130/muitv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MUHAMMADIYAH TV" tvg-logo="https://i.imgur.com/8qdH3PA.png" group-title="TV AGAMA",MUHAMMADIYAH TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://khano.nng.cloudns.us/live/m3u8/id/MQGHZhlYFicsYHQ.m3u8
 
 #EXTINF:-1 tvg-name="MEKKAH TV" tvg-logo="https://i.imgur.com/sAa6H1K.png" group-title="TV AGAMA",MEKKAH TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
 #https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1708264439/ei/l7fRZeq1BfH24-EPvpWK-Aw/ip/103.105.27.76/id/moQtMet7F7w.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-uigxxi0ujipnvo-ngbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/spc/UWF9f8uhUlEOPU2VeO3fGzpKRyvx45k0fB5OFWMiHYVQfFWMXn2uJ0xa-BIVYM0/vprv/1/playlist_type/DVR/initcwndbps/381250/mh/3P/mm/44/mn/sn-uigxxi0ujipnvo-ngbe/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1708242050/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,siu,spc,vprv,playlist_type/sig/AJfQdSswRAIgTF6YfiXIzHp2R9t8WUC6Jv_ce2H_z4h6H59JMURfvEICIBfXooGXc6y2wY6MScDXZUsr56St_15W5IG75qvyOoQy/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/APTiJQcwRQIgEsY7faWLWg-gZE0QMmSXIoY7GcgButN2e2QLYZiL5f0CIQCDGPfKZtzOgscvj-LswKbY6OonQqDYXGySdLztrjBZqQ%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-name="MADINAH TV" tvg-logo="https://i.imgur.com/cwlv0ZW.png" group-title="TV AGAMA",MADINAH TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 
 #EXTINF:-1 tvg-name="AL QURAN AL KAREEM" tvg-logo="https://i.imgur.com/Po69dBq.png" group-title="TV AGAMA",AL QURAN AL KAREEM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -701,43 +696,91 @@ https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #EXTINF:-1 tvg-name="TV9" tvg-logo="https://i.imgur.com/111SKT7.png" group-title="TV AGAMA",TV9 Nusantara
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
 
 
 ========================================================================================anakan=====================================================================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.imgur.com/TfAu8ay.png" group-title="TV ANAK",NICK JR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="FunPlanet.id" tvg-logo="https://i.imgur.com/BCjV7JE.png" group-title="TV ANAK",Fun Planet
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.indihometv.com&referer=https://www.indihometv.com/&user-agent=IndiHome TV/8.7.15 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://cdnbpp1.indihometv.com/atm/hlsv3/indikids/indikids.m3u8
+
+#EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="TV ANAK",Biznet Kids
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://dsgtq5sngxkde.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://biznetvideo.net&referer=http://biznetvideo.net/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest_w2063077532_qYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1CRlFFX050VVlMU2NBVVl2eDJ2cGU5SXNlekh3a1NIcEw4cS1lcUsxMlp2cmV4WkptaEFWZXFERlRPcld2WVhS.mpd
+
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/juFxY7w.png" group-title="TV ANAK",Disney Channel
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://i.imgur.com/8wq7HVM.png" group-title="TV ANAK",Disney Junior
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/y1exj7T.png" group-title="TV ANAK",Disney XD
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="FirstWarriors.id" tvg-logo="https://i.imgur.com/ueQq8F3.png" group-title="TV ANAK",First Warriors
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=77555ed22f924e4b98620319e1de3739:2876649ccd9840346084c565d25f8f6b
+https://atemeshield2-voe.sysln.id/live/eds/FirstWarriorsHD/mpd/FirstWarriorsHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://i.imgur.com/TfAu8ay.png" group-title="TV ANAK",NICK JR
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
+https://atemeshield2-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://i.imgur.com/0bumN7C.png" group-title="TV ANAK",MENTARI TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=8237&type=hls
 
 #EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://i.imgur.com/llKnpgO.png" group-title="TV ANAK",CARTOONITO
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://i.imgur.com/cYN6D45.png" group-title="TV ANAK",DREAMWORKS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemeshield2-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://i.imgur.com/cYN6D45.png" group-title="TV ANAK",DREAMWORKS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
+https://atemeshield2-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/Mw5QXIx.png" group-title="TV ANAK",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -765,7 +808,7 @@ https://atemeshield2-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY KIDZ" tvg-logo="https://i.imgur.com/yw9zeHL.png" group-title="TV ANAK",MY KIDZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -781,7 +824,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://i.imgur.com/BKuc7mW.png" group-title="TV ANAK",KIDS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -791,7 +834,7 @@ https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CBEBIES" tvg-logo="https://i.imgur.com/whFPsf9.png" group-title="TV ANAK",CBEBIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -801,7 +844,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChanne
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/LmsE3zJ.png" group-title="TV ANAK",NICKELODEON
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -811,7 +854,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.imgur.com/EELP7oA.png" group-title="TV ANAK",CINEMACHI KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -821,9 +864,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeo
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://i.imgur.com/7RnwUgt.png" group-title="TV ANAK",ZOO MOO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dunia anak.id" tvg-logo="https://i.imgur.com/jA6Gb0I.png" group-title="TV ANAK",Dunia Anak
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -836,7 +881,7 @@ https://cdnbpp1.indihometv.com/joss/130/duniaanak/index.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SINDO NEWS" tvg-logo="https://i.imgur.com/CG6toWo.png" group-title="BERITA",SINDO NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -846,7 +891,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://i.imgur.com/05UZ2mY.png" group-title="BERITA",CNN INTERNATIONAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -856,7 +901,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HD
 https://atemeshield2-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CNBC ASIA" tvg-logo="https://i.imgur.com/IAEI38R.png" group-title="BERITA",CNBC ASIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -866,114 +911,149 @@ https://atemeshield2-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="RT ENGLISH" tvg-logo="https://i.imgur.com/lOK8BlS.png" group-title="BERITA",RT ENGLISH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="https://i.imgur.com/xNKqsLt.png" group-title="BERITA",BBC WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="https://i.imgur.com/xNKqsLt.png" group-title="BERITA",BBC News
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
+https://atemeshield2-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
+#https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="TVBS.News.sg" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="BERITA",TVBS News
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
+https://atemeshield2-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://i.imgur.com/7Fm8mr4.png" group-title="BERITA",ALJAZEERA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
+https://atemeshield2-voe.sysln.id/live/eds/AlJazeeraIntHD/mpd/AlJazeeraIntHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://i.imgur.com/5V86TjE.png" group-title="BERITA",BLOOMBERG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
+https://atemeshield2-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://i.imgur.com/GsxjFCo.png" group-title="BERITA",CGTN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/CGTN/sa_dash_vmx/CGTN.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
+https://atemeshield2-voe.sysln.id/live/eds/CGTN/mpd/CGTN.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="DW ENGLISH" tvg-logo="https://i.imgur.com/R4KaycZ.png" group-title="BERITA",DW ENGLISH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/DW/sa_dash_vmx/DW.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
+https://atemeshield2-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/9EnBZob.png" group-title="BERITA",EURO NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
+https://atemeshield2-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://i.imgur.com/CeOET2r.png" group-title="BERITA",FRANCE 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/France24/sa_dash_vmx/France24.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
+https://atemeshield2-voe.sysln.id/live/eds/France24/mpd/France24.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://i.imgur.com/mf5kHuu.png" group-title="BERITA",CNA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/ns/ccb94808e06e001.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://i.imgur.com/QaxyNf7.png" group-title="BERITA",FOX NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
+https://atemeshield2-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://i.imgur.com/H3nyLS1.png" group-title="BERITA",IDX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="SEA TODAY" tvg-logo="https://i.imgur.com/aVLhlSz.png" group-title="BERITA",SEA TODAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+
+#EXTINF:-1 tvg-id="RAI.Italia.1.ca" tvg-logo="https://i.imgur.com/T5ZMbWR.png" group-title="BERITA",Rai Italia
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
+https://atemeshield2-voe.sysln.id/live/eds/RaiItalia/mpd/RaiItalia.mpd
+
+#EXTINF:-1 tvg-id="TRT.World.HD.uk" tvg-logo="https://i.imgur.com/QakgggF.jpeg" group-title="BERITA",TRT World
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c325414b6254a3ba4bcb2a31d4b1318:ae6c5d2b86727b478da73ffd0795c417
+https://atemeshield2-voe.sysln.id/live/eds/TRTWorldHD/mpd/TRTWorldHD.mpd
 
 #EXTINF:-1 tvg-id="RRI NET.id" tvg-logo="https://i.imgur.com/5aZtQ7G.png" group-title="BERITA",RRI Net
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -981,6 +1061,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SEA-Channel/sa_dash_vmx/SEA-Chann
 https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d_output_0.m3u8?session=UTioiz5BEc5y9tju8mkSUF
 
 #EXTINF:-1 tvg-id="Antara.id" tvg-logo="https://i.imgur.com/CzsEoRD.png" group-title="BERITA",Antara TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -988,197 +1069,266 @@ https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d_ou
 https://cdnbpp1.indihometv.com/atm/hlsv3/antara/antara.m3u8
 
 ===========================================================================film===============================================================================================================
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/TJvlSP8.png" group-title="FILM",HBO
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+http://fl2.moveonjoy.com/HBO/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/fduzZyw.png" group-title="FILM",HBO 2
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://i.imgur.com/D1q0fIZ.png" group-title="FILM",HBO Comedy
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://i.imgur.com/mmQcFGf.png" group-title="FILM",HBO Zone
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/rNMewLD.png" group-title="FILM",Paramount Network
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/h21xbco.png" group-title="FILM",AMC
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN.Movies.HD.pt" tvg-logo="https://i.imgur.com/N2AHzvW.png" group-title="FILM",AXN Movies
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://ott.zapitv.com&referer=https://ott.zapitv.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
+https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://i.imgur.com/N2AHzvW.png" group-title="FILM",AXN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
-https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
+https://atemeshield2-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://i.imgur.com/U1oQnRD.png" group-title="FILM",CCM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES" tvg-logo="https://i.imgur.com/GZa4hLK.png" group-title="FILM",CELESTIAL MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
+https://atemeshield2-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCK ACTION" tvg-logo="https://i.imgur.com/eAdG1YR.png" group-title="FILM",ROCK ACTION
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
-https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
+https://atemeshield2-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://i.imgur.com/nM6XejE.png" group-title="FILM",KIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
+https://atemeshield2-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="THRILL" tvg-logo="https://i.imgur.com/gSt6k3Q.png" group-title="FILM",THRILL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TvN MOVIE" tvg-logo="https://i.imgur.com/kZjIicG.png" group-title="FILM",TvN MOVIE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
+https://atemeshield2-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://i.imgur.com/4WGC0U3.png" group-title="FILM",HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
+https://atemeshield2-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://i.imgur.com/kYGXF4s.png" group-title="FILM",HITS MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
+https://atemeshield2-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="My CINEMA Asia" tvg-logo="https://i.imgur.com/1paUEE3.png" group-title="FILM",My CINEMA Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="My FAMILY Channel" tvg-logo="https://i.imgur.com/CPhOlnr.png" group-title="FILM",My FAMILY Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#EXTINF:-1 tvg-id="370247" tvg-logo="https://i.imgur.com/bMNTcBf.png" group-title="FILM",My Cinema Europe
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.dens.tv&referer=https://www.dens.tv/&user-agent=DENSGO/3.00.05 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.imgur.com/WwFnWtn.png" group-title="FILM",IMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://i.imgur.com/sGbbGkD.png" group-title="FILM",ZEE BIOSKOP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="GALAXY" tvg-logo="https://i.imgur.com/Kqz0zDz.png" group-title="FILM",GALAXY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="https://i.imgur.com/Kqz0zDz.png" group-title="FILM",GALAXY PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI" tvg-logo="https://i.imgur.com/VDHdU99.png" group-title="FILM",CINEMACHI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd|Referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI ACTION" tvg-logo="https://i.imgur.com/reCwA3i.png" group-title="FILM",CINEMACHI ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI MAX" tvg-logo="https://i.imgur.com/PJA4d4N.png" group-title="FILM",CINEMACHI MAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI EXTRA" tvg-logo="https://i.imgur.com/gQ4SVpP.png" group-title="FILM",CINEMACHI EXTRA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="My CINEMA" tvg-logo="https://i.imgur.com/5aHHObz.png" group-title="FILM",My CINEMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.imgur.com/UXDRDyf.png" group-title="FILM",HBO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1186,10 +1336,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://i.imgur.com/1YuV3qu.png" group-title="FILM",HBO SIGN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1197,10 +1347,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://i.imgur.com/RUcKDnD.png" group-title="FILM",HBO HITS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1208,7 +1358,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.imgur.com/F2sjEEx.png" group-title="FILM",HBO FAMILY
@@ -1223,6 +1372,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf6
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/QnXRY4R.png" group-title="FILM",CINEMAX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1230,10 +1380,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://i.imgur.com/GCJs1UQ.png" group-title="FILM",WARNER TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1241,10 +1391,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="BIOSKOP INDONESIA" tvg-logo="https://i.imgur.com/GKaXQz1.png" group-title="FILM",BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1252,10 +1402,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA WORLD" tvg-logo="https://i.imgur.com/3KYkYFx.png" group-title="FILM",CINEMA WORLD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1263,19 +1413,18 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf10
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://i.imgur.com/MK80aaI.png" group-title="FILM",FLIK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.indihometv.com&referer=https://www.indihometv.com/&user-agent=IndiHome TV/8.7.15 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://cdnbpp1.indihometv.com/joss/133/flik/index.m3u8
 
 #EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://i.imgur.com/se7g9ig.png" group-title="FILM",MovieSphere
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1289,7 +1438,18 @@ https://jmp2.uk/sam-USBD17000117B.m3u8
 =========================================================================hiburan=============================================================================================================================================
 
 
+#EXTINF:-1 tvg-id="HITS.NOW.(HD).sg" tvg-logo="https://i.imgur.com/C8vtSyZ.png" group-title="HIBURAN",Hits Now
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
+https://atemeshield2-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DUNIA LAIN" tvg-logo="https://i.imgur.com/3ZIl3Eh.png" group-title="HIBURAN",DUNIA LAIN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1297,10 +1457,10 @@ https://jmp2.uk/sam-USBD17000117B.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY GEM" tvg-logo="https://i.imgur.com/40QtVVr.png" group-title="HIBURAN",SONY GEM
+#EXTINF:-1 tvg-id="" tvg-name="SONY GEM" tvg-logo="https://i.imgur.com/40QtVVr.png" group-title="HIBURAN",GEM
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1308,111 +1468,138 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="K PLUS" tvg-logo="https://i.imgur.com/VK6hC8N.png" group-title="HIBURAN",K PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://khano.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://i.imgur.com/Y6wlppy.png" group-title="HIBURAN",ROCK ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
-https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
+https://atemeshield2-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY ONE" tvg-logo="https://i.imgur.com/ulpW5w4.png" group-title="HIBURAN",SONY ONE
+#EXTINF:-1 tvg-id="" tvg-name="SONY ONE" tvg-logo="https://i.imgur.com/ulpW5w4.png" group-title="HIBURAN", ONE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
-https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+https://atemeshield2-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://i.imgur.com/EUTuLgN.png" group-title="HIBURAN",TVN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://i.imgur.com/pcTcD4k.png" group-title="HIBURAN",VISION PRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="OK TV" tvg-logo="https://i.imgur.com/4BnWGBR.png" group-title="HIBURAN",OKEY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="https://i.imgur.com/hk0UWCa.png" group-title="HIBURAN",FMN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/FMN/sa_dash_vmx/FMN.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://i.imgur.com/muhqYPT.png" group-title="HIBURAN",TV5 MONDE Asie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
+https://atemeshield2-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://i.imgur.com/5D0pBWi.png" group-title="HIBURAN",TV5 MONDE Style
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.dens.tv&referer=https://www.dens.tv/&user-agent=DENSGO/3.00.05 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+#https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ABC AUSTRALIA" tvg-logo="https://i.imgur.com/OKhrY3K.png" group-title="HIBURAN",ABC AUSTRALIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
+https://atemeshield2-voe.sysln.id/live/eds/ABC_Australia/mpd/ABC_Australia.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://i.imgur.com/fRMmouy.png" group-title="HIBURAN",NHK WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
+https://atemeshield2-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK WORLD PREMIUM" tvg-logo="https://i.imgur.com/rMK8bxF.png" group-title="HIBURAN",NHK WORLD PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="KBS WORLD" tvg-logo="https://i.imgur.com/V5UpP19.png" group-title="HIBURAN",KBS WORLD
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://i.imgur.com/rl9gvxo.png" group-title="HIBURAN",ARIRANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/Arirang/sa_dash_vmx/Arirang.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
+https://atemeshield2-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://i.imgur.com/rl9gvxo.png" group-title="HIBURAN",ARIRANG
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
+https://atemeshield2-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/JuTE5Gv.png",Channel Seru!
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1420,6 +1607,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Arirang/sa_dash_vmx/Arirang.mpd|R
 https://cdnbpp1.indihometv.com/joss/134/seru/index.m3u8
 
 #EXTINF:-1 group-title="HIBURAN"  tvg-logo="https://i.imgur.com/AGMgTcY.png",!nsert
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1427,118 +1615,150 @@ https://cdnbpp1.indihometv.com/joss/134/seru/index.m3u8
 https://cdnbpp1.indihometv.com/joss/130/insert/index.m3u8
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/wALPZfI.png",dmTravel&Taste
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/kXY6GkF.png",dmDrama Hotpot
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/NRq1vOh.png",dmFilem Mantap
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/ulFlsOa.png",dmLawak Sentral
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://i.imgur.com/lOsTSJJ.png",dmDrama Hebat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
 
 
 ============================================================================pengetahuan=======================================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/gHDr2z6.png" group-title="PENGETAHUAN",DISCOVERY HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/gHDr2z6.png" group-title="PENGETAHUAN",DISCOVERY Chanhel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+https://atemeshield2-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/2r64qTg.png" group-title="PENGETAHUAN",NATIONAL GEOGRAPHIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptv12k.com:35461/live/654321/123456/632.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://i.imgur.com/fizL6NC.png" group-title="PENGETAHUAN",NAT GEO WILD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptv12k.com:35461/live/654321/123456/630.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.moveonjoy.com&referer=http://www.moveonjoy.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/nNCUCW5.png" group-title="PENGETAHUAN",ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+https://atemeshield2-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://i.imgur.com/JoqOiaU.png" group-title="PENGETAHUAN",LOVE NATURE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/lovenature/sa_dash_vmx/lovenature.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
+https://atemeshield2-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://i.imgur.com/nSkS9G9.png" group-title="PENGETAHUAN",BBC EARTH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|Referer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/KHanamy.png" group-title="PENGETAHUAN",HISTORY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://iptv12k.com:35461/live/654321/123456/629.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.imgur.com/dzGazsq.png" group-title="PENGETAHUAN",CRIME INVESTIGATION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+https://atemeshield2-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.imgur.com/dzGazsq.png" group-title="PENGETAHUAN",CRIME INVESTIGATION
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
+https://atemeshield2-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/ednZmtF.png" group-title="PENGETAHUAN",Discovery Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+https://atemeshield2-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://i.imgur.com/1OBGfFI.png" group-title="PENGETAHUAN",DMAX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+https://atemeshield2-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://i.imgur.com/JO6EpO1.png" group-title="PENGETAHUAN",CGTN DOCUMENTARY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab50469be8b740c699c6b2e2ce697447:94da89d6aefba50b779bf7aa2458a192
+https://atemeshield2-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumentaryHD.mpd
 
 #EXTINF:-1 tvg-id="GlobalTrekker.id"  tvg-logo="https://i.imgur.com/8CLsnTb.png" group-title="PENGETAHUAN", Global Trekker
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
+https://atemeshield2-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ieROWXI.png" group-title="PENGETAHUAN", INSIGHT TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0GoyWTm.png" group-title="PENGETAHUAN",Wild Earth
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://wildearth-roku.amagi.tv/master.m3u8
 
 ==========================================================================================lifeitil======================================================================================================================================================
@@ -1582,10 +1802,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/MTV/sa_dash_vmx/MTV.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+https://atemeshield2-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 #EXTINF:-1 tvg-id="MTV.HITS.uk" tvg-logo="https://i.imgur.com/YqKO5nG.png" group-title="GAYA HIDUP",MTV Hits
 #KODIPROP:mimetype=application/dash+xml
@@ -1639,10 +1859,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MusicChannel/sa_dash_vmx/MusicCha
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
-https://d1abp075u76pbq.cloudfront.net/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.firstmedia.com&referer=https://www.firstmedia.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+https://atemeshield2-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="NOW 80s" tvg-logo="https://i.imgur.com/FTIWTH5.png" group-title="GAYA HIDUP",NOW 80s
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
@@ -1690,8 +1910,16 @@ https://cdnbpp1.indihometv.com/joss/134/musikindo/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
+
+
 ========================================================================sport==========================================================================================
 
+#EXTINF:-1 tvg-id="KRBC800015MH" tvg-logo="https://i.imgur.com/KTEE9vt.png" group-title="SPORTS",tvN Sports
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.samsung.com&referer=https://www.samsung.com/&user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 11) ExoPlayerLib/2.19.1
+https://jmp2.uk/sam-KRBC800015MH.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-logo="https://i.imgur.com/cAS0sq8.png" group-title="SPORTS",TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
