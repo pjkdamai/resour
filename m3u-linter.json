@@ -691,21 +691,21 @@ http://mpwtv.my.id/u17.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-#https://red.openwindows038.workers.dev/play.mpd?id=206&type=dash
+https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=206&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event",MOJI 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
-#https://red.openwindows038.workers.dev/play.mpd?id=206&type=dash
+https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=206&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event",MOJI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
-#https://red.openwindows038.workers.dev/play.mpd?id=17994&type=dash
+https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17994&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="live event",MOJI 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -729,7 +729,7 @@ http://mpwtv.my.id/u17.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
 #https://kametv.my.id/pdx/play.mpd?id=17623
-https://red.openwindows038.workers.dev/play.mpd?id=17623&type=dash
+https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17623&type=dash
 
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", BRI 3
