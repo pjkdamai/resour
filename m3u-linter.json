@@ -878,9 +878,8 @@ https://ssc-news-live-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35e
 #EXTINF:-1 group-title="live event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=59ed8dc9d4a48857ef8e5865919496cc:0d3680bd8b349deda8b7fdd1da71b7f8
-https://cors-proxy.cooks.fyi/https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+https://andi-cors-proxy-service-k8s.andisearch.com/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
 #EXTINF:-1 group-title="live event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -909,9 +908,8 @@ https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live2.m3u8
 #EXTINF:-1 group-title="live event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_key=1f52934d28a25c51a5dd577a650dcece:323a46b02a31172c2475406e56fd3be6
-https://cors-proxy.cooks.fyi/https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WILLXT-3292.dfw.1080)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=c6fc677428aa54f29ffca8ae9737a1db:9f95277e4dc789b864d5bcb09a7431d6
+https://rftv.wtf/ch.mpd?id=246
 
 #EXTINF:-1 group-title="live event" tvg-logo="https://i.imgur.com/6pNJHWn.jpg", ON EVENT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
