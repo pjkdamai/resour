@@ -4379,31 +4379,31 @@ https://cors-proxy.cooks.fyi/https://ott.zapitv.com/live/eds_c2/teledeporte_hd/d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://cors-proxy.cooks.fyi/http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SzOGiMM.png", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd 
+https://cors-proxy.cooks.fyi/http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sgGRQQu.png", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+https://cors-proxy.cooks.fyi/http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C7BnCSV.png", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
+https://cors-proxy.cooks.fyi/http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9WSJVdE.png", tvg-id="ksport1hd" group-title="SPORTS", TNT SPORTS 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+https://cors-proxy.cooks.fyi/https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 1.nz
 #EXTVLCOPT:http-user-agent=Sky_STB_BCM7278_2019/1.0.0(Sky, ES340UK,)
@@ -4570,37 +4570,37 @@ https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1256/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vssp/vssp.isml/index.mpd|X-Forwarded-For=13.106.174.0
+https://cors-proxy.cooks.fyi/https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vssp/vssp.isml/index.mpd|X-Forwarded-For=13.106.174.0
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport Premium B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
-https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vssp/vssp.isml/index.mpd|X-Forwarded-For=13.106.174.0
+https://cors-proxy.cooks.fyi/https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vssp/vssp.isml/index.mpd|X-Forwarded-For=13.106.174.0
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1af2e3be44145944a0e78832852f5daa:d366e6e9554b9fbcc40d78fa16206ebe
-https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vss/vss.isml/index.mpd|X-Forwarded-For=13.106.174.0
+https://cors-proxy.cooks.fyi/https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vss/vss.isml/index.mpd|X-Forwarded-For=13.106.174.0
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f02ddb8f11b597c84a5393348e047bb:bc52ff5ddb471c7691ffb57ae74726cc
-https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vsf/vsf.isml/index.mpd|X-Forwarded-For=13.106.174.0
+https://cors-proxy.cooks.fyi/https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vsf/vsf.isml/index.mpd|X-Forwarded-For=13.106.174.0
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Laliga TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=769ffe6317c75aa48bd5eb9c76e08235:4da506ac3b11200b6d343d3df8fe43b6
-https://live-dash-cdn7-tve.cdn.viaplay.tv/vp/laligatv/laligatv.isml/index.mpd|X-Forwarded-For=13.106.174.0
+https://cors-proxy.cooks.fyi/https://live-dash-cdn7-tve.cdn.viaplay.tv/vp/laligatv/laligatv.isml/index.mpd|X-Forwarded-For=13.106.174.0
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",Viaplay Sport Premium A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9df8ec5f86995102a6c9987d360b18c7:bb525f095535fa1ef2fd42f3068afd56
-https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/xtra1/xtra1.isml/index.mpd|X-Forwarded-For=13.106.174.0
+https://cors-proxy.cooks.fyi/https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/xtra1/xtra1.isml/index.mpd|X-Forwarded-For=13.106.174.0
 
 
 =====================================================================astro====================================================================
