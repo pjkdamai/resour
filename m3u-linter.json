@@ -3248,28 +3248,28 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-025/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-502/stream.mpd
+https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-502/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=jyy9jw5qg2fo1t2oucwjqzi6r_image-header_pDach_1690558178000" group-title="SPORTS", DAZN FAST+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-504/stream.mpd
+https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-504/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=dxaycmnfa2rc14y5ww482fi2l_image-header_pDach_1687955212000&quality=70" group-title="SPORTS", DAZN RISE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-#https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-501/stream.mpd
+https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-501/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=19ptz9oy5cnz1145uk6phxtywh_image-header_pRow_1691575512000&quality=70" group-title="SPORTS", DAZN WOMEN'S FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-503/stream.mpd
+https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-503/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/DAZNFAST.jpg" group-title="SPORTS" , PGA TOUR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
