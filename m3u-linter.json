@@ -711,21 +711,12 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17994&type=dash
 https://raw.githubusercontent.com/mastam123/mastam/refs/heads/master/Moji.m3u8
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", BRI 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1012&token=j95e7vg989
-#EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiSUNqOEU3Y0wiLCJyZWZyZXNoX3Rva2VuIjoieGlcL3pYaUNwT29oVFwvbWRYRGhnTFVGRTMwR0lFNHFoM0hzcThPN1pHUEY2QUVac2VCZURBaXJBS0pjMCtBVWx3OHBjajN0R1FIT1JMZlhiVGRWMXQxSUdHNUJSQkQ2QW1kS0VzTUNtWlMzdEYxb3RsaUVHc1F3d3lvdTVYbWpaMVFUZjlzUk96QlVmRUhieUY0MmluSkVvZ1A2YVdzaHd5WlFNRDQ1d0tCZTdqUm9lb29GUDdkdmNXMU9jTHBVdHdBQmI3QUhrZ2psWGF6K25tTFNcL1dSMzhiTk95RWdqaWVTYXhyQWhXY01Ud29VbStBaHFcL0RKQXV4UkdvZUlsd0F2Q1VJUER3M1VyenFuMEZVTFJYVVNOeUczRWRMZEV1UHJFZGlrYlhJWlwvMVwvR1orUHlFRm9wcVFOT2hBMlwvajFTYzcrNWsyS29RYU5JMkl3RXNFWUpobUNZZEFwbkE2MElGZTBieEJRek5rdz0ifQ==
-
+http://iptv12k.com:35461/654321/123456/2187
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU",  BRI 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17623&type=drm 
-https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17623&type=dash
+http://iptv12k.com:35461/654321/123456/4802
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -748,13 +739,8 @@ https://dusk.biz.id/visas/index.mpd?id=1013
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", BRI 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://bimasakti.serv00.net/keurplus/drm.php?id=1002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://bimasakti.serv00.net/keurplus/index.mpd?id=1002
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 
 
 
