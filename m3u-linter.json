@@ -760,8 +760,11 @@ http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://aseanic.github.io/m3u8/badminton.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
@@ -774,12 +777,12 @@ https://aseanic.github.io/m3u8/badminton.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
 #https://notion.boybook.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
-https://raw.githubusercontent.com/aseanic/aseanic.github.io/refs/heads/main/m3u8/badminton.m3u8
+#https://raw.githubusercontent.com/aseanic/aseanic.github.io/refs/heads/main/m3u8/badminton.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF 3
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -794,7 +797,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-https://aseanic.github.io/m3u8/grandstand.m3u8
+http://iptv12k.com:35461/654321/123456/970
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -803,15 +807,15 @@ https://aseanic.github.io/m3u8/grandstand.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF Court1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179026907.akainu.xyz/C3Wn6FKGWZMR12P0_0xcoQ/Fv2lucGIbhPi2caWYvF5Lg/1736923830308/live/may171/playlist.m3u8
+#https://hotlivezz179026907.akainu.xyz/C3Wn6FKGWZMR12P0_0xcoQ/Fv2lucGIbhPi2caWYvF5Lg/1736923830308/live/may171/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF Court2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179026907.akainu.xyz/u8MYxuYK8w3cUU-UuhijiQ/Fv2lucGIbhPi2caWYvF5Lg/1736923830308/live/may201/playlist.m3u8
+#https://hotlivezz179026907.akainu.xyz/u8MYxuYK8w3cUU-UuhijiQ/Fv2lucGIbhPi2caWYvF5Lg/1736923830308/live/may201/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF Court3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179026907.akainu.xyz/RYIJyakkm6IFdzN5uDUmaA/Fv2lucGIbhPi2caWYvF5Lg/1736923830308/live/may211/playlist.m3u8
+#https://hotlivezz179026907.akainu.xyz/RYIJyakkm6IFdzN5uDUmaA/Fv2lucGIbhPi2caWYvF5Lg/1736923830308/live/may211/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="live event", CHAMPIONS LEAGUE 1
@@ -992,8 +996,8 @@ https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm 
-#https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9183
-https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=9183
+#https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="live event",Live EPL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
