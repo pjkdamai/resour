@@ -4413,7 +4413,7 @@ https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96be5ca21f087c8cb1d7630457e20000:53cb495864a442f4b7e7df8b540e035d
-#https://live-streams.media-preprod.skyone.co.nz/sky-sport-1.mpd
+https://thedream.biz.id/prokci/proxy.php/https://live-streams.media-preprod.skyone.co.nz/sky-sport-1.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 2.nz
 #EXTVLCOPT:http-user-agent=Sky_STB_BCM7278_2019/1.0.0(Sky, ES340UK,)
@@ -4533,11 +4533,12 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp F'ball 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
-#https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/go-dash-fhd-avc/IESVC1241.mpd?dam
+https://thedream.biz.id/prokci/proxy.php/https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/go-dash-fhd-avc/IESVC1241.mpd?dam
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.S_nzCsaqazwIbfoJiUvO3AHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7", SkySp Mix 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
