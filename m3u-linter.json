@@ -704,17 +704,18 @@ https://why.biz.id/Iptv/rooih.php/stream.m3u8?id=206
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", BRI 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://iptv12k.com:35461/654321/123456/2187
-
+#http://iptv12k.com:35461/654321/123456/2187
+https://mantul.biz.id:443/inetwork/gayanet12/60.ts
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU",  BRI 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #http://iptv12k.com:35461/654321/123456/4802
+http://tv.kudigital.pw:8080/28122024KM/28122024/27
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
-https://why.biz.id/Iptv/rooih.php/stream.m3u8?id=17623&type=dash
+#https://why.biz.id/Iptv/rooih.php/stream.m3u8?id=17623&type=dash
 
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", BRI 3
@@ -733,8 +734,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 #EXTINF:-1 group-title="live event" tvg-id="sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://why.biz.id/Iptv/rooih.php/stream.m3u8?id=205
-
+#https://why.biz.id/Iptv/rooih.php/stream.m3u8?id=205
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
