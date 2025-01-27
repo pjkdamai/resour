@@ -665,8 +665,8 @@ http://mpwtv.my.id/u17.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17639&type=drm
-https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=17639&type=dash
-
+#https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=17639&type=dash
+https://raw.githubusercontent.com/warningfm/v3/refs/heads/cast/live/str/id/29afb26faff1ccd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
