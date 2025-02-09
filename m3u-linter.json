@@ -3591,21 +3591,22 @@ https://canale.mizhls.ru/lb/premium886/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec2d298cc5943dbfb2fd1b75d54c4c9a:bb2c99d764f17b708e7cdd5878535b4e
-https://thedream.biz.id/prokci/proxy.php/https://companion-live-play1.streamready.in/live/media13/sony_sports_ten_3/ndashd/sony_sports_ten_3.mpd
-
+#https://thedream.biz.id/prokci/proxy.php/https://companion-live-play1.streamready.in/live/media13/sony_sports_ten_3/ndashd/sony_sports_ten_3.mpd
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ten1hd
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony4.png" group-title="SPORTS", Sony Sport 4 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9daff0561ac43417ad3e75b89b08ee34:c2c5a0291dbc525b5274a6c7d3ca9a18
-https://thedream.biz.id/prokci/proxy.php/https://companion-live-play1.streamready.in/live/media13/sony_ten_4/ndashd/sony_ten_4.mpd
-
+#https://thedream.biz.id/prokci/proxy.php/https://companion-live-play1.streamready.in/live/media13/sony_ten_4/ndashd/sony_ten_4.mpd
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167595.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/sony5.png" group-title="SPORTS", Sony Sport 5 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa0cc480a31637bca87bced5a3ce3c75:fe20e478d71d67c248c67837b4692118
-https://thedream.biz.id/prokci/proxy.php/https://companion-live-play1.streamready.in/live/media4/sony_sports_ten_5/ndashd/sony_sports_ten_5.mpd
+#https://thedream.biz.id/prokci/proxy.php/https://companion-live-play1.streamready.in/live/media4/sony_sports_ten_5/ndashd/sony_sports_ten_5.mpd
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=st=1736308055~exp=1736308355~acl=*~id=aa99b6d7-d8b6-40fb-b6ba-cc4b4b755381~hmac=9960fb1a8f3bbc8ed9d08b1e21f910da1a7d15f35afccc96a466c79e8dd7973d&amp;originpath=/linear/hls/pb/event/biQJgf06SJCitj-nd502ow/stream/767338ca-d2a6-489a-b297-ff26b78ec10d:SIN2/master.m3u8
 
 #EXTINF:1 tvg-id="" tvg-logo="http://guki.my.id/logo/sports/bein1.png" group-title="SPORTS",beiN Sport 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
