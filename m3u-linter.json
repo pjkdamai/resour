@@ -628,7 +628,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://why.biz.id/Iptv/rooih.php/stream.m3u8?id=204
+https://video.jasoncreak8.workers.dev/play.m3u8?id=204
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/ncjw9Vt/timnasday.png" group-title="live event",Timnas day 6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -1020,7 +1020,7 @@ https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=9182&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm 
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm 
 https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 #https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
@@ -4663,6 +4663,20 @@ https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=zvBmkJ9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
 https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841|Referer=https://kakotv.com/
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/50/26/40502671a023cb56860cbfc12a115fdd.jpg" group-title="SPORTS",SPOTV KR1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178|Referer=https://kakotv.com/
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/50/26/40502671a023cb56860cbfc12a115fdd.jpg" group-title="SPORTS",SPOTV KR2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on2_540&sid=dXSaxlJ06SWPlS0XX3TDcz1W2xmXPEDnmCaXafvb&secret=3f9a6459cb275a41fd1f1a3862550759&time=1737314559|Referer=https://kakotv.com/
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/236x/40/50/26/40502671a023cb56860cbfc12a115fdd.jpg",SPOTV KR3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
+
+
+
 =====================================================================astro====================================================================
 
 
@@ -4727,7 +4741,7 @@ https://red.openwindows038.workers.dev/play.mpd?id=17884&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
-https://surf.openwindows038.workers.dev/play.mpd?id=17875&type=dash
+https://video.jasoncreak8.workers.dev/play.mpd?id=17875&type=dash
 
 #EXTINF:0 tvg-logo="http://guki.my.id/logo/sports/bein3.png" group-title="SPORTS",Ch Bein Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -4756,7 +4770,7 @@ https://red.openwindows038.workers.dev/play.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac331ce257155a0963c477ff065fa693:429963f60aa0157a87b67beac01b538b
-https://red.openwindows038.workers.dev/play.mpd?id=18189
+https://video.jasoncreak8.workers.dev/play.mpd?id=18189
 
 #EXTINF:-1 tvg-logo="https://iili.io/2iAIFa4.png" group-title="SPORTS",Champions Golf 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -4764,7 +4778,7 @@ https://red.openwindows038.workers.dev/play.mpd?id=18189
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd04d04f7cac7ac4a26c43e90dfbd4b7:3d93dd66d9f6534323a77ebb6139d1f7
-https://red.openwindows038.workers.dev/play.mpd?id=18190
+https://video.jasoncreak8.workers.dev/play.mpd?id=18190
 
 
 ======================================================hbo===============================================================
