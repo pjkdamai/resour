@@ -1440,17 +1440,16 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4783ff58da/dd0e5afbeb2b4a7e802b4fbacce14991.png",10 Metro TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-https://d1abp075u76pbq.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
-
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-m.png",10 Metro TV 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-m.png",10 Metro TV 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be58644c5901/87b349f225fa4b0b839447d943a63b5f.jpg",11 Kompas TV 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1476,8 +1475,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HD
 #EXTINF:-1 tvg-id="INews.id" tvg-logo="https://i.imgur.com/PAy1NQ4.png" group-title="NASIONAL",12 Inews TV 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
+https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1491,10 +1490,11 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://i.imgur.com/pDduT4m.jpeg" group-title="NASIONAL",13 CNBC Indonesia 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://streaming.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
+https://streaming.indihometv.com/atm/DASH/cnbcindonesia_dash/manifest.mpd
+#https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="rtv.id" tvg-name="rtv" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5cd0b15903/bb1a5397f68d42899630a14334c359aa.jpg" group-title="NASIONAL",14 RTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2194,14 +2194,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2e
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.indihometv.com&referer=https://www.indihometv.com/&user-agent=IndiHome TV/8.7.15 (Linux;Android 11) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/joss/133/flik/index.m3u8
+https://streaming.indihometv.com/atm/DASH/flik/manifest.mpd
 
 #EXTINF:-1 tvg-name="BIOSKOP INDONESIA" tvg-logo="https://i.imgur.com/bNd43gT.png" group-title="MOVIES",BIOSKOP INDONESIA
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.indihometv.com&referer=https://www.indihometv.com/&user-agent=IndiHome TV/8.7.15 (Linux;Android 11) ExoPlayerLib/2.19.1
-https://cdnbpp1.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+https://streaming.indihometv.com/atm/DASH/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="BOO" tvg-logo="https://i.ibb.co/8X5kq4f/boo.png", BOO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
