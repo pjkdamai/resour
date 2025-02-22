@@ -1519,7 +1519,7 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
-https://streaming.indihometv.com/joss/133/net/chunklist_w1149028430_b1244100_sleng.m3u8
+https://cdn10jtedge.indihometv.com/joss/133/net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mOji.id" tvg-name="mOji" tvg-logo="https://i.imgur.com/CojtFNp.png" group-title="NASIONAL",16 moji 1
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1533,6 +1533,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
 #https://streaming.indihometv.com/joss/134/ochannel/index.m3u8?c
+https://cdn10jtedge.indihometv.com/joss/134/ochannel720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Myvu2J6.png" group-title="NASIONAL",16 moji 3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2198,7 +2199,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2e
 #https://cdnbpp1.indihometv.com/joss/133/flik/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn13jtedge.indihometv.com/dass/133/flik_dash/manifest_wuseetv.mpd?
+https://cdn10jtedge.indihometv.com/joss/133/flik/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd 
