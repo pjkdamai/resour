@@ -686,7 +686,7 @@ https://gasruktv.my.id/asx/live.mpd?id=17252&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17579&type=drm
-https://gasruktv.my.id/asx/live.mpd?id=17579&type=dash
+http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=17579&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -1055,12 +1055,12 @@ https://cdn9.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
 https://cdnlb.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="live event",Live EPL 4
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9353&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=9353&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
+http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=9182
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aNNZOzL.jpeg" group-title="live event",Live Seri A-1
@@ -4177,7 +4177,7 @@ https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 #https://da-d436234a20010b8800010302000000000000000c.id.cdn.upcbroadband.com/wp/wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
+https://cors-proxy.cooks.fyi/https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TG7fl6y.jpeg", group-title="SPORTS",Ziggo 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4186,7 +4186,7 @@ https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3
 #https://da-d436236420010b88000103030000000000000006.id.cdn.upcbroadband.com/wp/wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
+https://cors-proxy.cooks.fyi/https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TG7fl6y.jpeg", group-title="SPORTS",Ziggo 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4195,7 +4195,7 @@ https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/32
 #https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+https://cors-proxy.cooks.fyi/https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TG7fl6y.jpeg", group-title="SPORTS",Ziggo 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4204,7 +4204,7 @@ https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/
 #https://da-d436234920010b8800010302000000000000000b.id.cdn.upcbroadband.com/wp/wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000096_019382/go-dash-fhd-avc/NL_000096_019382.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
-https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
+https://cors-proxy.cooks.fyi/https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TG7fl6y.jpeg", group-title="SPORTS",Ziggo 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4220,13 +4220,13 @@ https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3
 #https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/go-dash-fhd-avc/NL_000098_019255.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02
-https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
+https://cors-proxy.cooks.fyi/https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://centredevils.co.uk/wp-content/uploads/2024/04/wc8dnt1660760493.png", group-title="SPORTS", ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-https://da-d436234520010b88000103020000000000000007.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv
+https://cors-proxy.cooks.fyi/https://da-d436234520010b88000103020000000000000007.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv
 
 #EXTINF:-1 group-title="SPORTS" tvg-id=" tvg-logo="https://i.imgur.com/wIfgzSD.png", LI - Go 3 Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -4535,7 +4535,7 @@ https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96be5ca21f087c8cb1d7630457e20000:53cb495864a442f4b7e7df8b540e035d
-https://thedream.biz.id/prokci/proxy.php/https://live-streams.media-preprod.skyone.co.nz/sky-sport-1.mpd
+#https://thedream.biz.id/prokci/proxy.php/https://live-streams.media-preprod.skyone.co.nz/sky-sport-1.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201", Sky Sport 2.nz
 #EXTVLCOPT:http-user-agent=Sky_STB_BCM7278_2019/1.0.0(Sky, ES340UK,)
@@ -4896,7 +4896,7 @@ https://red.openwindows038.workers.dev/play.mpd?id=17140&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac331ce257155a0963c477ff065fa693:429963f60aa0157a87b67beac01b538b
-https://video.jasoncreak8.workers.dev/play.mpd?id=18189
+http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=18189
 
 #EXTINF:-1 tvg-logo="https://iili.io/2iAIFa4.png" group-title="SPORTS",Champions Golf 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -4904,7 +4904,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=18189
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd04d04f7cac7ac4a26c43e90dfbd4b7:3d93dd66d9f6534323a77ebb6139d1f7
-https://video.jasoncreak8.workers.dev/play.mpd?id=18190
+http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=18190
 
 
 ======================================================hbo===============================================================
