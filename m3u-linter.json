@@ -821,7 +821,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu1&type=m3u8
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/live/18363/master.m3u8?hdnts=exp=1739635240~acl=/live/18363/master.m3u8!/hls-p/ingest_18363*/*!/hls-b/ingest_18363*/*~id=175690229~hmac=101ab2285fbc3c0b7a8ff87bd45bbced81614ff62590113adc125706c5cc5529
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/MusicIndo.m3u8
+https://9f50a063aa06b35f07f7c998ea027321.r2.cloudflarestorage.com/c96gzcz0/sites/default/files/2025-03-08-19327f55f5.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7ce2040eb75087ce1ac4c01d44d1cce9%2F20250308%2FEEUR%2Fs3%2Faws4_request&X-Amz-Date=20250308T125005Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=15143d603f018931be0d9e8e66835202e4547a081bf7b287944fdda4af8b5503
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF Court2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
