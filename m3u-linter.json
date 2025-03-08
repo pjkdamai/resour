@@ -785,6 +785,7 @@ https://av-cdn.rakuda.online:8443/memfs/111cc22c-a1d4-42fd-8f24-df9137c550a8_out
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #http://live-edge-th136.myjktv.com/watch/live.m3u8?video=spotv_on_540&sid=22M3puEx8kkErhycy6IgCC7JOOFtwqlGRZZc2yME&secret=a03b950c27378922b460fd664c3d4b1c&time=1736920178|Referer=https://kakotv.com/
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true7.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -826,7 +827,7 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 http://iptv12k.com:35461/654321/123456/970
-
+https://lebo.huminbird.cn/live/ballbar_38400.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -836,8 +837,8 @@ http://iptv12k.com:35461/654321/123456/970
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/live/18363/master.m3u8?hdnts=exp=1739635240~acl=/live/18363/master.m3u8!/hls-p/ingest_18363*/*!/hls-b/ingest_18363*/*~id=175690229~hmac=101ab2285fbc3c0b7a8ff87bd45bbced81614ff62590113adc125706c5cc5529
-
+#https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/live/18363/master.m3u8?hdnts=exp=1739635240~acl=/live/18363/master.m3u8!/hls-p/ingest_18363*/*!/hls-b/ingest_18363*/*~id=175690229~hmac=101ab2285fbc3c0b7a8ff87bd45bbced81614ff62590113adc125706c5cc5529
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/MusicIndo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF Court2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
