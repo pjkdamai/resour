@@ -792,23 +792,12 @@ https://github.com/BONDiptv/m3u8/raw/refs/heads/main/true7.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF 5
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
-#http://cuakiellfsq.manxiao35.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd?PID=&PAID=5170&deviceIdType=%5BdevIdType%5D&deviceId=46cdc10b00be27782e9feb7159624e3b&appId=%5BappId%5D&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-112874d5-bf4d-4992-90a6-fc6d0f9fc9d2&optin=true&hhid=1f8349ccd5e530b09bf8601620404fc9&kvp=genre~HD%2CSPORTS%2CALL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/trans7.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-#https://raw.githubusercontent.com/pjkdamai/coba/refs/heads/main/hubp1.m3u8
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; IKAHJEEOKO) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/437516BFADCAF4471C03B52F1D346C3F/544.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu1&type=m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; IKAHJEEOKO) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/437516BFADCAF4471C03B52F1D346C3F/545.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -816,8 +805,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu1&type=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu&type=m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 33; en; IKAHJEEOKO) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/437516BFADCAF4471C03B52F1D346C3F/546.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="live event",BWF Court1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
@@ -1392,13 +1381,9 @@ https://cdnbpp1.indihometv.com/atm/DASH/transtv/manifest.mpd|user-agent=mozilla/
 #https://cdnbpp1.indihometv.com/atm/hlsv3/transtv/transtv-avc1_1500000=6-mp4a_96000=5.m3u8?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="NASIONAL",07 Trans 7 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w951314700_b744100_sleng.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+https://d1abp075u76pbq.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-name="Trans 7" tvg-id="Trans7.id" group-title="NASIONAL" tvg-logo="https://www.visionplus.id/images/repository/956/49956-SNAPSHOT-m.png",07 Trans 7 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (trenztvott NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
