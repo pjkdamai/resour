@@ -5096,19 +5096,24 @@ http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=18190
 #https://her.otv.my.id/max/get.mpd?type=dash&ch=YlJLKzR4bzBPeDVWaUFmdytxUWF1TUVNOFc5YmhPdFM3MHNQcndrTTBrcnhwdXRWcEFCWm1zclYvYkNYZkZFS21CMlBMQ1hIRkVDbHVRNlc0eU5qdFZ3TWZaTExVWFhPOWtkVGFvdG0rN1JwOTduMWcvazl0NzFyaGc2V3p6b3lqb3VGdTJtcXhyWnAzckg3WkthL2lnVDdaaHhsMjNpTXgvMXFKNGF0Z0tBPQ==.mpd
 
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/banner_xxhdpi.jpg" group-title="MOVIES",HBO 
-http://iptv12k.com:35461/live/654321/123456/599.m3u8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
 
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBOHits1" group-title="MOVIES" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_dx9zvcn8/banner_xxhdpi.jpg",HBO Hits 
-http://iptv12k.com:35461/live/654321/123456/598.m3u8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.ts
 
 #EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBOFamily1" group-title="MOVIES" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_xxhdpi.jpg",HBO Family 
-http://iptv12k.com:35461/live/654321/123456/597.m3u8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
 
 #EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBOSignature1" group-title="MOVIES" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_t4w6p88r/banner_xxhdpi.jpg",HBO Signature 
-http://iptv12k.com:35461/live/654321/123456/596.m3u8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
 
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_2yj5giid/banner_xxhdpi.jpg" group-title="MOVIES",CINEMAX 
-http://iptv12k.com:35461/live/654321/123456/607.m3u8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 
 
 
