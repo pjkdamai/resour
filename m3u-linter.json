@@ -1012,7 +1012,7 @@ https://thedream.biz.id/Kusakudakes/rooid.php/.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
-http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=9182
+https://red.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="live event",Live EPL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)
@@ -1031,7 +1031,8 @@ https://cdnlb.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
-http://fadhillah.serv00.net/cumaevosyangjuaramseries.php/stream.mpd?id=9183
+https://red.openwindows038.workers.dev/play.mpd?id=9183&type=dash
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aNNZOzL.jpeg" group-title="live event",Live Seri A-1
