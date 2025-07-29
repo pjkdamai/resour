@@ -527,26 +527,14 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252&stream=
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Sipur Day 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDakw0VzNTM0ZodGNmZ2F5VldIMmRldS01dXZUV2dQMERCMnJBV1F5LTRMZlhrUTJQaVFVUGlUUlNKNVBydy02eEY5eVc0RFZhNjdHamF6dWhGVU50RlVFeDJlN28yMDVVdGY2QnZkbmFCVXM2elRISkN5ZlFrT2VPdmttblRjZXJfb3dYZ1JHc1FQRTlmUVJKclUxdlBJS2lIZUpJTm4wajJyOXlCejVaSjREeHlqRTVsRHQ5UlFfTEZoQWRSUE1yVXVDZDJpVnNNcXJHTnJSckh1SVBGcXh1Vno5RFRLM3VLTldMZGQzRFhjRDJBenA3WHQ5US1kUTdlcXFwNUdrZjdnNlY2UnZ0WGtnQTNEejFxZW1UQzdRcU5NVGdWY3hjcXZ1cm9meEJMbUtTUTU1Q2tRSXNJMnNPZlZhZ09rMWxtc0MwNDdzYXBRWl8wLTREbjF1Z2F5QzJqTzFfTkVtN1NNSG9teTlNNE8mY29udGV4dFR5cGU9bm9uZSZpZD0xMzMwMzM5MyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJhZGhvY19tbGl2ZTA1Xzg5MTVjYjc4X2Rhc2hfY21uXzMiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZDakw0VzNTM0ZodGNmZ2F5VldIMmRldS01dXZUV2dQMERCMnJBV1F5LTRMZlhrUTJQaVFVUGlUUlNKNVBydy02eEY5eVc0RFZhNjdHamF6dWhGVU50RlVFeDJlN28yMDVVdGY2QnZkbmFCVXM2elRISkN5ZlFrT2VPdmttblRjZXJfb3dYZ1JHc1FQRTlmUVJKclUxdlBJS2lIZUpJTm4wajJyOXlCejVaSjREeHlqRTVsRHQ5UlFfTEZoQWRSUE1yVXVDZDJpVnNNcXJHTnJSckh1SVBGcXh1Vno5RFRLM3VLTldMZGQzRFhjRDJBenA3WHQ5US1kUTdlcXFwNUdrZjdnNlY2UnZ0WGtnQTNEejFxZW1UQzdRcU5NVGdWY3hjcXZ1cm9meEJMbUtTUTU1Q2tRSXNJMnNPZlZhZ09rMWxtc0MwNDdzYXBRWl8wLTREbjF1Z2F5QzJqTzFfTkVtN1NNSG9teTlNNE8iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=lcOa5du3WB4bpFhDAGnoEVWlk7s%3d
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Sipur Day 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-#https://raw.githubusercontent.com/Iqbalbala/INTEKTV/refs/heads/main/Live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Sipur Day 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://wbd.x10.bz/bongda/thapcam/tc.php?id=Nel8LEc&t=1737981000
-
-#EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Sipur Day 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#https://bf.kmingjl.cn/live/322708_hd01.m3u8?txSecret=031648f8d8f76233f772cc456c3068f1&txTime=6793517b
-
-#EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Sipur Day 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://raw.githubusercontent.com/warningfm/v3/refs/heads/cast/live/str/id/29afb26faff1ccd.m3u8
-#https://warningfm.github.io/v3/live/str/id/d4ff175b1e2d419.m3u8
 
 
 ==================================================================================================nasional==========================================================================================================================
@@ -2723,19 +2711,20 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #https://webhdrus.onlinehdhls.ru/lb/premium577/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Sipur Day 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Sipur Day 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://mpwtv.my.id/u16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Sipur Day 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://mpwtv.my.id/u17.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Timnas Day 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Badminton" tvg-logo="https://i.imgur.com/WRJCLP7.png" group-title="LIVE TIMNAS",Timnas Day 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
 <style type="text/css">html { padding-top: 26px; } #xt_auth_iframe { position: fixed; top: 0; left: 0; background: transparent; }</style><iframe id="xt_auth_iframe" allowTransparency="true" scrolling="no" frameBorder="0" style="width: 100%; border: 0; height: 26px;" src="https://xtgem.com/__xt_authbar?data=eyJ1cmwiOiJodHRwOlwvXC90dm5pZC53YXBnZW0uY29tXC9hc3dhamEubTN1OCIsImxvZ2dlZF9pbiI6ZmFsc2UsImRvbWFpbiI6InR2bmlkLndhcGdlbS5jb20iLCJwb3NpdGlvbiI6eyJhYnNvbHV0ZSI6ImZpeGVkIn19"></iframe><br /><!----><noscript></noscript><script type="text/javascript"></script><textarea style="display:none;"></textarea><style></style><iframe style="display:none;width:0px;height:0px;border:0"></iframe><noframes></noframes><div id="st1712070481" style="z-index:999999;z-index:999999999;"><span id="a1712070481"><a href="http://xtgem.com/click?p=forums_catalog_web&amp;u=__urlaHR0cDovL3h0Z2VtLmNvbS9mb3J1bXM/YWQ9MQ==&amp;s=tvnid.wapgem.com&amp;t=KhscHR8eGAAFCgIZAgMADg0ODw4LCwl5dA==&amp;_is_adult=No&amp;_ad_pos=Bottom&amp;_ad_format=Plain&amp;_ad_url=dHZuaWQud2FwZ2VtLmNvbS9hc3dhamEubTN1OA==&amp;_ad_networks=&amp;_ad_type=Banner" target="_blank"><img src="http://xtgem.com/images/forum/xtgem-forums.jpg" alt="XtGem Forum catalog"></a></span>        <style type="text/css">
             #st1712070481 *
             {
