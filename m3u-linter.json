@@ -615,7 +615,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 #EXTINF:-1 tvg-id="3010" tvg-name="MNC TV" tvg-logo="https://i.imgur.com/kWyVNna.png" group-title="TV NASIONAL",MNC TV
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:-1 tvg-id="3010" tvg-name="MNC TV" tvg-logo="https://i.imgur.com/kWyVNna.png" group-title="TV NASIONAL",MNC TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -625,7 +628,10 @@ https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/haLgtrl.png" group-title="TV NASIONAL",GTV
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/haLgtrl.png" group-title="TV NASIONAL",GTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -643,7 +649,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 
 #EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://i.imgur.com/P4n7y50.png" group-title="TV NASIONAL",iNEWS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.imgur.com/fMdSNmA.png" group-title="TV NASIONAL",TV ONE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -734,7 +743,10 @@ https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=1561&type=hls
 
 #EXTINF:-1 tvg-id="3003" tvg-name="RCTI" tvg-logo="https://i.imgur.com/Saw1YsQ.png" group-title="TV NASIONAL",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:-1 tvg-id="3003" tvg-name="RCTI" tvg-logo="https://i.imgur.com/Saw1YsQ.png" group-title="TV NASIONAL",RCTI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
