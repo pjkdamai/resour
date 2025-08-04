@@ -533,9 +533,9 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252&stream=
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDakw0VzNTM0ZodGNmZ2F5VldIMmRldS01dXZUV2dQMERCMnJBV1F5LTRMZlhrUTJQaVFVUGlUUlNKNVBydy02eEY5eVc0RFZhNjdHamF6dWhGVU50RlVFeDJlN28yMDVVdGY2QnZkbmFCVXM2elRISkN5ZlFrT2VPdmttblRjZXJfb3dYZ1JHc1FQRTlmUVJKclUxdlBJS2lIZUpJTm4wajJyOXlCejVaSjREeHlqRTVsRHQ5UlFfTEZoQWRSUE1yVXVDZDJpVnNNcXJHTnJSckh1SVBGcXh1Vno5RFRLM3VLTldMZGQzRFhjRDJBenA3WHQ5US1kUTdlcXFwNUdrZjdnNlY2UnZ0WGtnQTNEejFxZW1UQzdRcU5NVGdWY3hjcXZ1cm9meEJMbUtTUTU1Q2tRSXNJMnNPZlZhZ09rMWxtc0MwNDdzYXBRWl8wLTREbjF1Z2F5QzJqTzFfTkVtN1NNSG9teTlNNE8mY29udGV4dFR5cGU9bm9uZSZpZD0xMzMwMzM5MyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJhZGhvY19tbGl2ZTA1Xzg5MTVjYjc4X2Rhc2hfY21uXzMiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZDakw0VzNTM0ZodGNmZ2F5VldIMmRldS01dXZUV2dQMERCMnJBV1F5LTRMZlhrUTJQaVFVUGlUUlNKNVBydy02eEY5eVc0RFZhNjdHamF6dWhGVU50RlVFeDJlN28yMDVVdGY2QnZkbmFCVXM2elRISkN5ZlFrT2VPdmttblRjZXJfb3dYZ1JHc1FQRTlmUVJKclUxdlBJS2lIZUpJTm4wajJyOXlCejVaSjREeHlqRTVsRHQ5UlFfTEZoQWRSUE1yVXVDZDJpVnNNcXJHTnJSckh1SVBGcXh1Vno5RFRLM3VLTldMZGQzRFhjRDJBenA3WHQ5US1kUTdlcXFwNUdrZjdnNlY2UnZ0WGtnQTNEejFxZW1UQzdRcU5NVGdWY3hjcXZ1cm9meEJMbUtTUTU1Q2tRSXNJMnNPZlZhZ09rMWxtc0MwNDdzYXBRWl8wLTREbjF1Z2F5QzJqTzFfTkVtN1NNSG9teTlNNE8iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=lcOa5du3WB4bpFhDAGnoEVWlk7s%3d
 #https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/huber.m3u8
-
-
+#https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/huber.m3u8
+https://cors.jugorder.de/https://smart.pendy.dpdns.org/Smart.php?id=SCTV
+https://cors.jugorder.de/https://hakim45.serv00.net/smarttv.php?id=Indosiar
 
 ==================================================================================================nasional==========================================================================================================================
 
