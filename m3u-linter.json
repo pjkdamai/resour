@@ -1757,7 +1757,7 @@ https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
 ======================================================================sport=================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://i.imgur.com/iEe896m.png" group-title="SPORTS",ASTRO ARENA 1
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://i.imgur.com/iEe896m.png" group-title="SPORTS",Astro Arena-1
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -1766,7 +1766,8 @@ https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 #https://quiet-rain-1d8f.wkwkw.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/s3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://i.imgur.com/iEe896m.png" group-title="SPORTS",ASTRO ARENA 2
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://i.imgur.com/iEe896m.png" group-title="SPORTS",Astro Arena-2
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -1776,7 +1777,8 @@ https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/s3.m3u8
 #https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #https://daddyhd.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
 https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/s4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",ASTRO PL-1
+
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",Astro PL-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; HBP-LX9 Build/HUAWEIHBP-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1785,7 +1787,8 @@ https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/s4.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
 #https://by.tvkitaproject.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/s1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",ASTRO PL-2
+
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",Astro PL-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; HBP-LX9 Build/HUAWEIHBP-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1796,7 +1799,8 @@ https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/s1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
 #https://astrompd.kalinggap1.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
 https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/s2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",ASTRO Football
+
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",Astro Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.9616.1766 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1807,6 +1811,13 @@ https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/s2.m3u8
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 #https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/itil-5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",Astro Grandstand
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/itil-6.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",ASTRO Sports Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; HBP-LX9 Build/HUAWEIHBP-L29; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36
 #KODIPROP:mimetype=application/dash+xml
@@ -1818,17 +1829,30 @@ https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/itil-5.m3u8
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
 #https://cors-proxy.wangzhishi.net/http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/s5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",ASTRO Badminton-1
+
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",Astro Badminton-1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/itil-1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",ASTRO Badminton-2
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://i.imgur.com/zqaqLK6.png" group-title="SPORTS",Astro Badminton-2
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/itil-2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://i.imgur.com/iEe896m.png" group-title="SPORTS",Astro Arena Bola-1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/itil-3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://i.imgur.com/iEe896m.png" group-title="SPORTS",Astro Arena Bola-2
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/itil-4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 MY" tvg-logo="https://i.imgur.com/EICoWEA.png" group-title="SPORTS",beIN SPORTS MY1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1967,7 +1991,7 @@ https://cors-proxy.cooks.fyi/https://subrugopuciblchlvl6uqa666p23rig.happy-endin
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
-https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/itil-3.m3u8
+https://raw.githubusercontent.com/pjkdamai/gembus/refs/heads/main/truepremfootball1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier UK" tvg-logo="https://i.imgur.com/1IAktzr.png" group-title="SPORTS",Sky Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -2176,13 +2200,13 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://cors.jugorder.de/https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT 2 HD" tvg-logo="https://i.imgur.com/q1pkVy8.png" group-title="SPORTS",TNT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+https://cors.jugorder.de/https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT 3 HD" tvg-logo="https://i.imgur.com/q1pkVy8.png" group-title="SPORTS",TNT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2195,6 +2219,11 @@ https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://cors-proxy.cooks.fyi/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT 5 HD" tvg-logo="https://i.imgur.com/q1pkVy8.png" group-title="SPORTS",TNT 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://cors.jugorder.de/https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1 UK" tvg-logo="https://i.imgur.com/T9RBJQp.png" group-title="SPORTS",EUROSPORTS 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2533,7 +2562,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
-https://cors-proxy.cooks.fyi/https://live12-dash.cdns.cdn.orangetv.orange.es/hpVkPAjFFpE3JSIKY3SY-Q/1727923395/104469517/132089857/87/cmaf/r12_mcampeones/dash_high.mpd
+https://live12-dash.cdns.cdn.orangetv.orange.es/hpVkPAjFFpE3JSIKY3SY-Q/1727923395/104469517/132089857/87/cmaf/r12_mcampeones/dash_high.mpd
 
 #EXTINF:-1 tvg-id="temp" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="SPORTS", M Liga de Championes-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2541,7 +2570,7 @@ https://cors-proxy.cooks.fyi/https://live12-dash.cdns.cdn.orangetv.orange.es/hpV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
-https://cors-proxy.cooks.fyi/https://live12-dash.cdns.cdn.orangetv.orange.es/iq4WJaz32_VUr7xNQ9equw/1727923395/104469517/132089857/88/cmaf/r12_mcampeones2/dash_high.mpd
+https://live12-dash.cdns.cdn.orangetv.orange.es/iq4WJaz32_VUr7xNQ9equw/1727923395/104469517/132089857/88/cmaf/r12_mcampeones2/dash_high.mpd
 
 #EXTINF:-1 tvg-id="temp" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="SPORTS", M Liga de Championes-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2549,7 +2578,7 @@ https://cors-proxy.cooks.fyi/https://live12-dash.cdns.cdn.orangetv.orange.es/iq4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
-https://cors-proxy.cooks.fyi/https://live12-dash.cdns.cdn.orangetv.orange.es/OLkJsl8kjz_zmLTZ6yehxQ/1727923404/104469517/132089857/91/cmaf/r12_mcampeones5/dash_high.mpd
+https://live12-dash.cdns.cdn.orangetv.orange.es/OLkJsl8kjz_zmLTZ6yehxQ/1727923404/104469517/132089857/91/cmaf/r12_mcampeones5/dash_high.mpd
 
 #EXTINF:-1 tvg-id="temp" tvg-logo="https://i.imgur.com/Qp5pN7L.png" group-title="SPORTS", M Liga de Championes-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2557,7 +2586,7 @@ https://cors-proxy.cooks.fyi/https://live12-dash.cdns.cdn.orangetv.orange.es/OLk
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
-https://cors-proxy.cooks.fyi/https://live12-dash.cdns.cdn.orangetv.orange.es/r-VxaiNv4ggV7yG757OzXA/1727923404/104469517/132089857/92/cmaf/r12_mcampeones6/dash_high.mpd
+https://live12-dash.cdns.cdn.orangetv.orange.es/r-VxaiNv4ggV7yG757OzXA/1727923404/104469517/132089857/92/cmaf/r12_mcampeones6/dash_high.mpd
 
 
 ================================================================live==========================================================================================================================================================================
