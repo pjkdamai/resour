@@ -2480,42 +2480,42 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=9353&type=drm 
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9353&type=dash
+https://halu.serv00.net/satu.mpd?id=9353&type=dash
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fVcsCNJ.png" group-title="SPORTS",Champions 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6685&type=drm
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6685&type=dash
+https://halu.serv00.net/satu.mpd?id=6685&type=dash
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fVcsCNJ.png" group-title="SPORTS",Champions 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6686&type=drm
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6686&type=dash 
+https://halu.serv00.net/satu.mpd?id=6686&type=dash 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fVcsCNJ.png" group-title="SPORTS",Champions 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6786&type=drm 
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6786&type=dash
+https://halu.serv00.net/satu.mpd?id=6786&type=dash
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fVcsCNJ.png" group-title="SPORTS",Champions 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=9182&type=drm 
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9182&type=dash
+https://halu.serv00.net/satu.mpd?id=9182&type=dash
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fVcsCNJ.png" group-title="SPORTS",Champions 6
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=9183&type=drm 
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9183&type=dash
+https://halu.serv00.net/satu.mpd?id=9183&type=dash
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/EICoWEA.png" group-title="SPORTS",Bein Sports ID1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
