@@ -2489,7 +2489,7 @@ https://halu.serv00.net/satu.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://halu.serv00.net/satu.mpd?id=6685&type=dash
+https://halu.serv00.net/satu.mpd?id=17938&type=dash
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fVcsCNJ.png" group-title="SPORTS",Champions 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2498,7 +2498,7 @@ https://halu.serv00.net/satu.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
-https://halu.serv00.net/satu.mpd?id=6686&type=dash 
+https://halu.serv00.net/satu.mpd?id=17939&type=dash 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fVcsCNJ.png" group-title="SPORTS",Champions 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
